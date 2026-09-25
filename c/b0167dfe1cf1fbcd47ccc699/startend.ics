@@ -1,0 +1,577 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jentm1-arch.github.io/calendario-astral//ES
+X-WR-CALNAME:Mi Calendario Astral · Soul Friendly
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:📖 Cómo leer tu calendario · Soul Friendly
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260925T195714Z
+UID:legend-c010-v2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Cada evento tiene un emoji que te dice de qué va:\n\n🔥 acc
+ ión y energía\n💬 comunicación y decisiones\n💗 amor\, placer y din
+ ero\n🍀 crecimiento y suerte\n🧱 compromiso y esfuerzo\n⚡ cambios re
+ pentinos\n🌫️ intuición (o confusión)\n🌋 transformación profunda
+ \n☀️ identidad y vitalidad\n🌑 Luna nueva: momento de empezar\n🌕 
+ Luna llena: momento de cerrar\n🌘 eclipse\n\nAbre cada evento para leer 
+ tu interpretación personal. Al final verás el dato técnico\, por si qui
+ eres aprender.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Impulso que fluye con tu instinto
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260925T195714Z
+UID:9ccdf5a9bf8d06b2f04e506b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Marte pasa por tu casa 10\, la de tu vocación y tu imagen pú
+ blica\, y se conecta en armonía con tu Luna natal en Escorpio\, en tu cas
+ a 2 (dinero\, autoestima\, talentos). Es un día para actuar con decisión
+  desde lo que sabes que vales\, sin pedir permiso. Esa intensidad emociona
+ l escorpiana que sueles guardarte puede convertirse hoy en motor concreto 
+ para avanzar profesionalmente. → ¿Qué acción de hoy honra tanto tu am
+ bición como tu instinto?\n\n— Dato técnico: Marte (28°49' Cáncer\, c
+ asa 10) trígono tu Luna natal (28°49' Escorpio\, casa 2) · exacto 26/09
+  04:43
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Impulso que fluye con tu instinto
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🕕 Cierre de un ciclo de orden y descanso
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260925T195714Z
+UID:c358cc33ac55ab2ba60c3927@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Esta luna llena en Aries ilumina el eje entre tu casa 6 (rutin
+ as\, trabajo diario) y tu casa 12 (descanso\, cierres). Marte\, que rige e
+ ste momento\, viaja ahora por tu casa 10\, mostrando que el esfuerzo puest
+ o en tu carrera necesita aterrizar en hábitos sostenibles. Neptuno\, en t
+ ránsito por tu casa 6\, pide que sueltes la exigencia perfeccionista y co
+ nfíes en procesos más intuitivos. Además\, toca en armonía tu Júpiter
+  natal en casa 2: hay una expansión posible en cómo valoras tu trabajo y
+  tu cuerpo. Esta luna cierra el ciclo abierto en la luna nueva de Aries de
+  abril: revisa qué intención pusiste entonces sobre tu rutina o tu salud
+ . → ¿Qué hábito puedes soltar para descansar mejor?\n\n— Dato técn
+ ico: Luna llena · 3°37' Aries · casa 6 · exacto 26/09 18:49
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🕕 Cierre de un ciclo de orden y descanso
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Tensión entre lo que dices y tu meta
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260925T195714Z
+UID:19b6deaec89387c2f042719b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio\, en tu casa 1 (identidad)\, forma un ángulo tenso c
+ on tu Medio Cielo natal en Cáncer\, casa 10. Puede aparecer una fricción
+  entre cómo te expresas y cómo quieres que te vean profesionalmente. Qui
+ zás sientas que tus palabras no encajan del todo con la imagen que buscas
+  proyectar. Es buen momento para pensar dos veces antes de comunicar algo 
+ importante relacionado con tu carrera. → ¿Qué necesitas aclarar antes 
+ de hablar sobre tu trabajo?\n\n— Dato técnico: Mercurio (26°17' Libra
+ \, casa 1) cuadratura tu Medio Cielo natal (26°17' Cáncer\, casa 10) · 
+ exacto 27/09 20:15
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Tensión entre lo que dices y tu meta
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Sanar una herida con acción suave
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260925T195714Z
+UID:2ba122a784ef6a6d753e3ea0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Marte entra en tu casa 10 y conecta en armonía con tu Quirón
+  natal en Géminis\, casa 8. Una vieja herida ligada a la comunicación\, 
+ la intimidad o el compartir recursos puede sentirse más liviana hoy. La a
+ cción decidida hacia tu vocación te ayuda a sanar algo que llevas dentro
+  desde hace tiempo\, casi sin esfuerzo consciente. → ¿Qué paso profesi
+ onal te ayuda también a sanar por dentro?\n\n— Dato técnico: Marte (0
+ °03' Leo\, casa 10) sextil tu Quirón natal (0°03' Géminis\, casa 8) ·
+  exacto 28/09 07:26
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Sanar una herida con acción suave
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧱 Poner palabras a un compromiso serio
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260925T195714Z
+UID:b6edafae06eb73c8696b7768@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio se une exactamente a tu Saturno natal\, ambos en tu c
+ asa 1\, la de tu identidad y tu manera de presentarte al mundo. Es un día
+  para pensar con seriedad\, hablar con estructura y quizás asumir un comp
+ romiso importante contigo misma. Puede sentirse pesado o exigente\, pero e
+ s el tipo de conversación interna que te da solidez a largo plazo. → ¿
+ Qué verdad seria necesitas reconocer sobre ti hoy?\n\n— Dato técnico: 
+ Mercurio (27°47' Libra\, casa 1) conjunción tu Saturno natal (27°47' Li
+ bra\, casa 1) · exacto 28/09 22:27
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧱 Poner palabras a un compromiso serio
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Empieza una revisión de cómo te muestras
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T195714Z
+UID:670d1f802cb01ab4d79b3790@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Venus\, tu regente natal\, se detiene y comienza a retroceder 
+ en tu casa 1\, la de tu identidad y tu cuerpo. Este giro invita a repensar
+  cómo te presentas al mundo y qué mereces recibir a cambio. No es moment
+ o de grandes decisiones sobre tu imagen o tus relaciones: es momento de ob
+ servar. → ¿Qué parte de tu manera de mostrarte merece una revisión ho
+ nesta?\n\n— Dato técnico: Venus retrógrado · 8°29' Escorpio · casa 
+ 1 · 03/10 09:15
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Empieza una revisión de cómo te muestras
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💗 Repensar tu valor y tu forma de amar · hasta el 14 no
+ v
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T195714Z
+UID:12fc5a918fca83fd271e68d8@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Durante estas semanas\, Venus retrocede por tu casa 1\, justo 
+ el planeta que es tu regente natal. Es un periodo para revisar cómo te va
+ loras\, cómo inicias relaciones y qué imagen das de ti misma sin darte c
+ uenta. Puede que reaparezcan personas o temas del pasado relacionados con 
+ tu autoestima o tu manera de amar. Evita comprometerte a algo nuevo en par
+ eja o cambiar radicalmente tu imagen (cortes de pelo\, looks) hasta que Ve
+ nus vuelva a avanzar. Aprovecha para reconectar con lo que realmente te ha
+ ce sentir valiosa\, no con lo que crees que debes mostrar. → ¿Qué mane
+ ra de mostrarte ya no te representa?\n\n— Dato técnico: Venus retrógra
+ do · 8°29' Escorpio → 22°51' Libra · casa 1\n\n(hasta el 14 nov)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💗 Repensar tu valor y tu forma de amar · hasta el 1
+ 4 nov
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Repensar tu valor y tu forma de amar · hasta el 14 nov
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T195714Z
+UID:67329a1b60feceea65193b98@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nDurante esta
+ s semanas\, Venus retrocede por tu casa 1\, justo el planeta que es tu reg
+ ente natal. Es un periodo para revisar cómo te valoras\, cómo inicias re
+ laciones y qué imagen das de ti misma sin darte cuenta. Puede que reapare
+ zcan personas o temas del pasado relacionados con tu autoestima o tu maner
+ a de amar. Evita comprometerte a algo nuevo en pareja o cambiar radicalmen
+ te tu imagen (cortes de pelo\, looks) hasta que Venus vuelva a avanzar. Ap
+ rovecha para reconectar con lo que realmente te hace sentir valiosa\, no c
+ on lo que crees que debes mostrar. → ¿Qué manera de mostrarte ya no te
+  representa?\n\n— Dato técnico: Venus retrógrado · 8°29' Escorpio 
+ → 22°51' Libra · casa 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Repensar tu valor y tu forma de amar · hasta el 14 nov
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260925T195714Z
+UID:fe021049c7b3cdf8656bee2d@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nDurante esta
+ s semanas\, Venus retrocede por tu casa 1\, justo el planeta que es tu reg
+ ente natal. Es un periodo para revisar cómo te valoras\, cómo inicias re
+ laciones y qué imagen das de ti misma sin darte cuenta. Puede que reapare
+ zcan personas o temas del pasado relacionados con tu autoestima o tu maner
+ a de amar. Evita comprometerte a algo nuevo en pareja o cambiar radicalmen
+ te tu imagen (cortes de pelo\, looks) hasta que Venus vuelva a avanzar. Ap
+ rovecha para reconectar con lo que realmente te hace sentir valiosa\, no c
+ on lo que crees que debes mostrar. → ¿Qué manera de mostrarte ya no te
+  representa?\n\n— Dato técnico: Venus retrógrado · 8°29' Escorpio 
+ → 22°51' Libra · casa 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Repensar tu valor y tu forma de amar · hasta el 14 nov
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260925T195714Z
+UID:11400483a1287f90fa3eb277@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nDurante esta
+ s semanas\, Venus retrocede por tu casa 1\, justo el planeta que es tu reg
+ ente natal. Es un periodo para revisar cómo te valoras\, cómo inicias re
+ laciones y qué imagen das de ti misma sin darte cuenta. Puede que reapare
+ zcan personas o temas del pasado relacionados con tu autoestima o tu maner
+ a de amar. Evita comprometerte a algo nuevo en pareja o cambiar radicalmen
+ te tu imagen (cortes de pelo\, looks) hasta que Venus vuelva a avanzar. Ap
+ rovecha para reconectar con lo que realmente te hace sentir valiosa\, no c
+ on lo que crees que debes mostrar. → ¿Qué manera de mostrarte ya no te
+  representa?\n\n— Dato técnico: Venus retrógrado · 8°29' Escorpio 
+ → 22°51' Libra · casa 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Energía que impulsa tu talento
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T195714Z
+UID:b6b436144fe72c4f79200019@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Marte\, en tu casa 10\, forma un ángulo armonioso con tu Júp
+ iter natal en casa 2. Es una buena racha para poner acción detrás de tus
+  talentos y tu forma de generar valor\, con confianza y sin miedo a mostra
+ rte. Las oportunidades profesionales pueden abrirse casi con naturalidad. 
+ → ¿Qué talento tuyo mereces mostrar sin pedir permiso?\n\n— Dato té
+ cnico: Marte (3°01' Leo\, casa 10) trígono tu Júpiter natal (3°01' Sag
+ itario\, casa 2) · exacto 03/10 09:19
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Energía que impulsa tu talento
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 El deseo crece antes de mostrarse
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T195714Z
+UID:f43fecc08cd1238d620c7614@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Durante estas dos semanas\, Marte se va acercando a tu Venus n
+ atal en Leo\, casa 10. Sentirás crecer una energía de deseo\, atracción
+  o ganas de destacar en lo profesional\, antes de que llegue a su punto m
+ áximo el 26 de octubre. Es un tiempo para dejar que ese impulso se cocine
+ \, sin forzarlo aún. → ¿Qué deseo estás dejando madurar antes de act
+ uar?\n\n— Dato técnico: Luna nueva · 17°21' Libra · casa 12 · exact
+ o 10/10 17:50
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 El deseo crece antes de mostrarse
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Revisa tu intención de la Luna nueva del 10 oct
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260925T195714Z
+UID:f757e98c7f196579a9718cfa@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Hoy\, con la Luna llena en el mismo signo\, se cierra el ciclo
+  que empezaste en la Luna nueva del 10 oct. Relee la intención que escrib
+ iste: ¿qué ha florecido? ¿qué sueltas? ¿qué ajustas?\n\n— El deseo
+  crece antes de mostrarse\nDurante estas dos semanas\, Marte se va acercan
+ do a tu Venus natal en Leo\, casa 10. Sentirás crecer una energía de des
+ eo\, atracción o ganas de destacar en lo profesional\, antes de que llegu
+ e a su punto máximo el 26 de octubre. Es un tiempo para dejar que ese imp
+ ulso se cocine\, sin forzarlo aún. → ¿Qué deseo estás dejando madura
+ r antes de actuar?
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 Revisa tu intención de la Luna nueva del 10 oct
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🌑 Nueva intención para tu descanso interior · hasta el
+  26 oct
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20260925T195714Z
+UID:118208cdbaf81353c67c2fae@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Esta luna nueva en Libra cae en tu casa 12\, el espacio de des
+ canso\, inconsciente y cierre\, y su Sol también ilumina esa misma casa: 
+ es momento de mirar hacia dentro. Venus\, que rige esta luna\, transita ah
+ ora tu casa 1 y toca casi exactamente tu Ascendente: lo que decidas soltar
+  o sanar en privado terminará reflejándose en cómo te presentas al mund
+ o. Es una luna nueva íntima\, casi silenciosa\, ideal para sembrar intenc
+ iones de sanación antes de mostrar algo nuevo hacia afuera. Podrías deci
+ r: 'Me comprometo a descansar sin culpa'\, 'Me comprometo a soltar una car
+ ga emocional que ya no es mía' o 'Me comprometo a escuchar mi intuición 
+ antes de decidir cómo mostrarme'. Esta intención se revisará en la luna
+  llena en Libra del 22 de marzo de 2027. → ¿Qué necesitas soltar en si
+ lencio antes de renacer hacia afuera?\n\n— Dato técnico: Marte se acerc
+ a a conjunción tu Venus natal (casa 10) · exacto 26/10\n\n(hasta el 26 o
+ ct)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🌑 Nueva intención para tu descanso interior · hast
+ a el 26 oct
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🌑 Nueva intención para tu descanso interior · hasta el 2
+ 6 oct
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260925T195714Z
+UID:d9b6b9b17ae2c3525b8e481e@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nEsta luna nu
+ eva en Libra cae en tu casa 12\, el espacio de descanso\, inconsciente y c
+ ierre\, y su Sol también ilumina esa misma casa: es momento de mirar haci
+ a dentro. Venus\, que rige esta luna\, transita ahora tu casa 1 y toca cas
+ i exactamente tu Ascendente: lo que decidas soltar o sanar en privado term
+ inará reflejándose en cómo te presentas al mundo. Es una luna nueva ín
+ tima\, casi silenciosa\, ideal para sembrar intenciones de sanación antes
+  de mostrar algo nuevo hacia afuera. Podrías decir: 'Me comprometo a desc
+ ansar sin culpa'\, 'Me comprometo a soltar una carga emocional que ya no e
+ s mía' o 'Me comprometo a escuchar mi intuición antes de decidir cómo m
+ ostrarme'. Esta intención se revisará en la luna llena en Libra del 22 d
+ e marzo de 2027. → ¿Qué necesitas soltar en silencio antes de renacer 
+ hacia afuera?\n\n— Dato técnico: Marte se acerca a conjunción tu Venus
+  natal (casa 10) · exacto 26/10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏹️ Termina · 🌑 Nueva intención para tu descanso interior
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20260925T195714Z
+UID:7c503566eef3250f0f017f74@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:\n\n— Dato técnico: Marte se acerca a conjunción tu Venus 
+ natal (casa 10) · exacto 26/10
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏹️ Termina · 🌑 Nueva intención para tu descanso inter
+ ior
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Nueva temporada de identidad
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20260925T195714Z
+UID:faa2184c52e9d183f4380822@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol entra en tu casa 1\, marcando un mes enfocado en ti: tu
+  cuerpo\, tu manera de iniciar cosas y tu identidad. Es una temporada para
+  brillar con quien eres\, sin disfraces\, y recargar energía vital antes 
+ de mirar hacia afuera. → ¿Cómo quieres presentarte en este nuevo ciclo
+ ?\n\n— Dato técnico: Sol entra en tu casa 1 · 13/10 12:10
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Nueva temporada de identidad
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Renacer siendo más tú misma
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20260925T195714Z
+UID:e29bd14cab3dd3db4f669131@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol se une exactamente a tu Ascendente en Libra\, marcando 
+ tu cumpleaños solar y un momento potente de renovación personal. Es tu d
+ ía más 'tuyo' del año: una invitación a mostrarte con autenticidad\, d
+ ejando atrás máscaras o roles que ya no te representan. → ¿Qué versi
+ ón tuya quieres que brille este año?\n\n— Dato técnico: Sol (20°05' 
+ Libra\, casa 1) conjunción tu Ascendente natal (20°05' Libra\, casa 1) 
+ · exacto 13/10 12:10
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Renacer siendo más tú misma
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Palabras que chocan con tu imagen
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260925T195714Z
+UID:aefec742792f66471b010de6@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio\, en tu casa 1 (identidad)\, forma un ángulo tenso c
+ on tu Venus natal\, tu regente natal\, en tu casa 10 (carrera\, imagen pú
+ blica). Puede que sientas que lo que dices o piensas no encaja con cómo q
+ uieres que te vean profesionalmente. Es buen momento para pensar antes de 
+ hablar\, sobre todo si hay algo en juego con tu reputación o tu trabajo. 
+ No te calles\, pero elige el momento. → ¿Qué necesitas decir sin que s
+ uene distinto a como lo sientes?\n\n— Dato técnico: Mercurio (15°47' E
+ scorpio\, casa 1) cuadratura tu Venus natal (15°47' Leo\, casa 10) · exa
+ cto 14/10 07:13
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Palabras que chocan con tu imagen
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌋 Un giro lento en tus raíces
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260925T195714Z
+UID:0ff1d281fefa3eafa8cf3c3e@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Plutón retoma su marcha directa en tu casa 4\, el hogar y la 
+ familia. Después de meses revisando algo profundo en tus raíces —quiz
+ ás una dinámica familiar o tu relación con el pasado—\, ahora empieza
+  a sentirse movimiento real. Lo que trabajaste puede empezar a manifestars
+ e de forma más clara en tu vida cotidiana. No fuerces el ritmo\, pero con
+ fía en que lo removido ya está encontrando su lugar. → ¿Qué se sient
+ e distinto en tu hogar o tu familia últimamente?\n\n— Dato técnico: Pl
+ utón directo · 3°04' Acuario · casa 4 · 16/10 04:40
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌋 Un giro lento en tus raíces
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Tensión entre quién eres y tu vocación
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260925T195714Z
+UID:0ddbe40c6a5d52440351c6f0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol\, en tu casa 1\, choca con tu Medio Cielo natal en casa
+  10. Es un tirón entre cómo te muestras al mundo día a día y hacia dó
+ nde quieres dirigir tu carrera o tu imagen pública. Puede aparecer como u
+ na sensación de no estar alineada\, o ganas de ajustar tu rumbo profesion
+ al. No es un conflicto para resolver hoy\, sino una invitación a mirar de
+  frente esa brecha. → ¿Tu forma de presentarte refleja lo que quieres l
+ ograr?\n\n— Dato técnico: Sol (26°17' Libra\, casa 1) cuadratura tu Me
+ dio Cielo natal (26°17' Cáncer\, casa 10) · exacto 19/10 17:55
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Tensión entre quién eres y tu vocación
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Impulso fácil para comunicar tus ideas
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260925T195714Z
+UID:9bb4c00e905ec98815fbe49c@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Marte\, en tu casa 10 (carrera)\, forma un ángulo favorable c
+ on tu Mercurio natal en casa 8\, donde vive tu intensidad mental y tu inte
+ rés por lo profundo. Es un día con energía fluida para expresar ideas c
+ omplejas\, negociar o defender un proyecto con convicción. Aprovecha este
+  impulso para comunicar algo que llevas tiempo masticando\, especialmente 
+ si tiene que ver con tu trabajo o vocación. → ¿Qué idea estás lista 
+ para poner sobre la mesa?\n\n— Dato técnico: Marte (12°20' Leo\, casa 
+ 10) sextil tu Mercurio natal (12°20' Géminis\, casa 8) · exacto 20/10 0
+ 1:00
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Impulso fácil para comunicar tus ideas
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧱 Compromiso con quién eres
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20260925T195714Z
+UID:2d443df4bc6e4a36e2035e38@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol se une a tu Saturno natal\, en tu casa 1\, justo cerca 
+ de tu Ascendente. Es un momento de seriedad y madurez respecto a tu identi
+ dad: cómo te presentas\, qué responsabilidades cargas\, qué límites ne
+ cesitas poner. Puede sentirse pesado\, pero también es una oportunidad pa
+ ra construir una versión más sólida y confiable de ti misma. No es un d
+ ía para grandes gestos\, sino para pequeños compromisos reales. → ¿Qu
+ é estructura necesitas fortalecer en tu vida ahora?\n\n— Dato técnico:
+  Sol (27°47' Libra\, casa 1) conjunción tu Saturno natal (27°47' Libra
+ \, casa 1) · exacto 21/10 06:14
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧱 Compromiso con quién eres
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Mercurio retrógrado: revisa tus finanzas
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260925T195714Z
+UID:dfb3d1e4749dae456bae6d91@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio inicia su retroceso en tu casa 2\, el área del diner
+ o y tu valor propio. Durante las próximas semanas\, revisa antes de firma
+ r contratos\, comprar algo importante o comprometerte económicamente. Es 
+ un buen momento para repasar cuentas\, renegociar o reconectar con lo que 
+ realmente valoras en ti misma\, más allá de lo material. → ¿Qué gast
+ o o decisión económica conviene posponer unos días?\n\n— Dato técnic
+ o: Mercurio retrógrado · 20°58' Escorpio · casa 2 · 24/10 09:12
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Mercurio retrógrado: revisa tus finanzas
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💬 Semanas de revisar dinero y autoestima · hasta el 13 
+ nov
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260925T195714Z
+UID:0932f12e65a959e0178202fb@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Durante estas tres semanas\, Mercurio retrógrado recorre tu c
+ asa 2 y roza tu casa 1. Es tiempo de mirar hacia atrás en temas de dinero
+ \, talentos y cómo mides tu propio valor. Evita firmar contratos importan
+ tes o hacer compras grandes sin revisar bien la letra pequeña. También e
+ s una oportunidad para reconectar con habilidades que tenías olvidadas o 
+ repensar tu relación con lo material. → Usa este tiempo para ordenar y 
+ revisar\, no para lanzar cosas nuevas.\n\n— Dato técnico: Mercurio retr
+ ógrado · 20°58' Escorpio → 5°02' Escorpio · casa 2→1\n\n(hasta el
+  13 nov)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💬 Semanas de revisar dinero y autoestima · hasta el
+  13 nov
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Armonía entre tu identidad y tu esencia
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260925T195714Z
+UID:182c7cb7393c5078a81dd7d4@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Venus retrógrada\, en tu casa 1\, forma un ángulo amable con
+  tu Sol natal en casa 9. Aunque Venus está en revisión\, este tránsito 
+ trae una conexión suave entre cómo te muestras y quién eres en el fondo
+ : tu curiosidad\, tus ganas de expandirte\, de aprender. Es un buen moment
+ o para reconciliarte con tu forma de ser\, incluso mientras repasas temas 
+ de relaciones o autoestima. → ¿Qué parte de ti te gustaría mostrar co
+ n más naturalidad?\n\n— Dato técnico: Venus ℞ (0°34' Escorpio\, cas
+ a 1) trígono tu Sol natal (0°34' Cáncer\, casa 9) · exacto 24/10 12:31
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Armonía entre tu identidad y tu esencia
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
