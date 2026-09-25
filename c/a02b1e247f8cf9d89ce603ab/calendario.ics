@@ -1,0 +1,667 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jentm1-arch.github.io/calendario-astral//ES
+X-WR-CALNAME:My Astro Calendar · Soul Friendly
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+SUMMARY:📖 How to read your calendar · Soul Friendly
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260925T125531Z
+UID:legend-c006-v2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Each event has an emoji that tells you what it's about:\n\n
+ 🔥 action & energy\n💬 communication & decisions\n💗 love\, pleasure
+  & money\n🍀 growth & luck\n🧱 commitment & effort\n⚡ sudden change
+ \n🌫️ intuition (or confusion)\n🌋 deep transformation\n☀️ ident
+ ity & vitality\n🌑 New Moon: time to begin\n🌕 Full Moon: time to clos
+ e\n🌘 eclipse\n\nOpen each event to read your personal interpretation. A
+ t the end you'll find the technical detail\, in case you want to learn.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🍀 Rethinking values around love and money · until Oct 14
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260925T125531Z
+UID:2e3799f7ecb2d1a9483c345e@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:For over three weeks\, growth-hungry Jupiter faces off with yo
+ ur natal Venus\, tucked quietly in your house of rest and inner world. Ven
+ us there speaks of a private\, maybe hidden way you love and value yoursel
+ f. This transit through your house of routines pushes you to expand what f
+ eels good\, but also to question if your daily habits actually honor what 
+ you value. Don't overpromise or overspend to feel worthy. → Where could 
+ you add more ease to your routine without losing yourself?\n\n— Technica
+ l detail: Jupiter within orb of opposition your Venus natal (house 12) · 
+ exact: 01/10/26\n\n(until Oct 14)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🍀 Rethinking values around love and money · until Oct 14
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20260925T125531Z
+UID:09cae85cb1c8ebbea38850a2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor over three
+  weeks\, growth-hungry Jupiter faces off with your natal Venus\, tucked qu
+ ietly in your house of rest and inner world. Venus there speaks of a priva
+ te\, maybe hidden way you love and value yourself. This transit through yo
+ ur house of routines pushes you to expand what feels good\, but also to qu
+ estion if your daily habits actually honor what you value. Don't overpromi
+ se or overspend to feel worthy. → Where could you add more ease to your 
+ routine without losing yourself?\n\n— Technical detail: Jupiter within o
+ rb of opposition your Venus natal (house 12) · exact: 01/10/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🍀 Rethinking values around love and money · until Oct 14
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260925T125531Z
+UID:c0fa3a6281021cfa5691816d@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor over three
+  weeks\, growth-hungry Jupiter faces off with your natal Venus\, tucked qu
+ ietly in your house of rest and inner world. Venus there speaks of a priva
+ te\, maybe hidden way you love and value yourself. This transit through yo
+ ur house of routines pushes you to expand what feels good\, but also to qu
+ estion if your daily habits actually honor what you value. Don't overpromi
+ se or overspend to feel worthy. → Where could you add more ease to your 
+ routine without losing yourself?\n\n— Technical detail: Jupiter within o
+ rb of opposition your Venus natal (house 12) · exact: 01/10/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏹️ Ends · 🍀 Rethinking values around love and money
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260925T125531Z
+UID:37f407a62d0fbd0c82d92b40@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Look back: did you find a better balance between quiet self-wo
+ rth and daily structure?\n\n— Technical detail: Jupiter within orb of op
+ position your Venus natal (house 12) · exact: 01/10/26
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏹️ Ends · 🍀 Rethinking values around love and money
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Healing old wounds through honest words
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260925T125531Z
+UID:d7ba94e9cb7d8d77ce8d2723@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mars\, energizing your work and health sector\, forms an easy 
+ angle to Chiron\, your old wound around communication and belonging in hou
+ se 3. This is a gentle nudge\, not a crisis: a chance to speak up about so
+ mething that once made you feel unheard\, using the energy of action rathe
+ r than avoidance. Small honest conversations at work or with neighbors can
+  heal more than you expect today. → What true thing have you been afraid
+  to say out loud?\n\n— Technical detail: Mars (28°15' Cancer\, house 6)
+  sextile your Chiron natal (28°15' Taurus\, house 3) · exact 25/09 05:57
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Healing old wounds through honest words
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Facing an old emotional reaction directly
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DTSTAMP:20260925T125531Z
+UID:3b7531f30cce121466374caa@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercury\, moving through your house of shared resources and de
+ ep bonds\, sits opposite your natal Moon in your house of money and self-w
+ orth. Expect a conversation\, maybe about finances or intimacy\, that stir
+ s an emotional response you thought you'd settled. Your gut reaction (Moon
+ ) and the facts on the table (Mercury) are asking to meet halfway. Don't s
+ uppress the feeling\, name it clearly instead. → Can you say what you fe
+ el without abandoning what you know?\n\n— Technical detail: Mercury (23
+ °07' Libra\, house 8) opposition your Moon natal (23°07' Aries\, house 2
+ ) · exact 25/09 14:32
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Facing an old emotional reaction directly
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Seeing your true self through a relationship
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260925T125531Z
+UID:1449665349039c111f0de91c@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:This Full Moon lands in your first house of identity\, opposit
+ e the Sun in your house of partnership. It's a moment where who you are (M
+ oon\, house 1) meets who you are becoming through others (Sun\, house 7). 
+ Neptune sits right on this Moon\, softening boundaries and heightening int
+ uition\, maybe blurring where you end and someone else begins. Mars\, the 
+ ruler of this Aries Moon\, lives naturally in your house of philosophy and
+  travel\, but is currently energizing your house of work and routines\, so
+  the insight you gain here wants to be grounded in daily action\, not just
+  dreamed about. This closes the cycle from the New Moon of April 2026\, in
+  the same sign: revisit what you intended then about yourself. What has ac
+ tually shifted in how you show up\, versus how you appear in relationship?
+  → Which intention from last April deserves an honest\, grounded update 
+ now?\n\n— Technical detail: Full Moon · 3°37' Aries · house 1 · exac
+ t 26/09 18:49
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 Seeing your true self through a relationship
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Balancing partnership goals with big dreams
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+DTSTAMP:20260925T125531Z
+UID:e128cd52c06ea9f7a500bad8@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:The Sun\, lighting up your house of partnerships\, squares you
+ r natal Jupiter in your house of community and future goals. A relationshi
+ p or collaboration may pull against your bigger ambitions for friendships
+ \, groups\, or long-term vision. This isn't a wall\, it's friction meant t
+ o sharpen your choices. Don't overcommit to please a partner at the cost o
+ f the bigger community you're building. → How can this relationship actu
+ ally support your wider goals\, not compete with them?\n\n— Technical de
+ tail: Sun (8°38' Libra\, house 7) square your Jupiter natal (8°38' Capri
+ corn\, house 11) · exact 01/10 21:25
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Balancing partnership goals with big dreams
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Turning inward to review intimacy and trust
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T125531Z
+UID:9412dde68452326476d41ade@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Venus stations retrograde in your house of shared resources an
+ d deep intimacy\, exactly where your natal Saturn and Pluto also live. Thi
+ s is a powerful\, slow moment: love\, money\, or trust matters that involv
+ e another person ask to be re-examined\, not rushed. Avoid major financial
+  or intimate commitments right now. This is for revisiting\, not deciding.
+  → What old pattern around trust and sharing is ready to be understood d
+ ifferently?\n\n— Technical detail: Venus retrograde · 8°29' Scorpio ·
+  house 8 · 03/10 09:15
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Turning inward to review intimacy and trust
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💗 Revisiting trust\, debt\, and deep bonds · until Nov 
+ 14
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260925T125531Z
+UID:a81c60ea784403a1bc9ca22c@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:For six weeks\, Venus moves backward through your house of sha
+ red resources and intimacy\, a deeply personal zone where your natal Satur
+ n and Pluto also sit. Expect old feelings about trust\, debt\, inheritance
+ \, or intense emotional bonds to resurface. This isn't about starting some
+ thing new\, it's about finally understanding a pattern you've carried arou
+ nd merging your life with someone else's. Avoid signing shared financial a
+ greements if you can wait. → What relationship dynamic keeps repeating u
+ ntil you truly see it?\n\n— Technical detail: Venus retrograde · 8°29'
+  Scorpio → 22°51' Libra · house 8\n\n(until Nov 14)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💗 Revisiting trust\, debt\, and deep bonds · until 
+ Nov 14
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Revisiting trust\, debt\, and deep bonds · until Nov 14
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T125531Z
+UID:d8b1c73d33f96a6bbf0f33b3@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor six weeks
+ \, Venus moves backward through your house of shared resources and intimac
+ y\, a deeply personal zone where your natal Saturn and Pluto also sit. Exp
+ ect old feelings about trust\, debt\, inheritance\, or intense emotional b
+ onds to resurface. This isn't about starting something new\, it's about fi
+ nally understanding a pattern you've carried around merging your life with
+  someone else's. Avoid signing shared financial agreements if you can wait
+ . → What relationship dynamic keeps repeating until you truly see it?\n
+ \n— Technical detail: Venus retrograde · 8°29' Scorpio → 22°51' Lib
+ ra · house 8
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Revisiting trust\, debt\, and deep bonds · until Nov 14
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260925T125531Z
+UID:8c9c7280f7e9757458a4c2a6@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor six weeks
+ \, Venus moves backward through your house of shared resources and intimac
+ y\, a deeply personal zone where your natal Saturn and Pluto also sit. Exp
+ ect old feelings about trust\, debt\, inheritance\, or intense emotional b
+ onds to resurface. This isn't about starting something new\, it's about fi
+ nally understanding a pattern you've carried around merging your life with
+  someone else's. Avoid signing shared financial agreements if you can wait
+ . → What relationship dynamic keeps repeating until you truly see it?\n
+ \n— Technical detail: Venus retrograde · 8°29' Scorpio → 22°51' Lib
+ ra · house 8
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Revisiting trust\, debt\, and deep bonds · until Nov 14
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260925T125531Z
+UID:cb434ff781337ee5c21bc12d@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor six weeks
+ \, Venus moves backward through your house of shared resources and intimac
+ y\, a deeply personal zone where your natal Saturn and Pluto also sit. Exp
+ ect old feelings about trust\, debt\, inheritance\, or intense emotional b
+ onds to resurface. This isn't about starting something new\, it's about fi
+ nally understanding a pattern you've carried around merging your life with
+  someone else's. Avoid signing shared financial agreements if you can wait
+ . → What relationship dynamic keeps repeating until you truly see it?\n
+ \n— Technical detail: Venus retrograde · 8°29' Scorpio → 22°51' Lib
+ ra · house 8
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ A season of transformation and depth
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20260925T125531Z
+UID:2db502abaae5ffa2cb11f0b0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:The Sun moves into your house of intimacy\, shared resources\,
+  and deep change\, right where your natal Saturn and Pluto sit. This is a 
+ period to slow down and face what needs real transformation\, not surface 
+ fixes. Expect conversations or realizations about trust\, power\, or what 
+ you truly share with others. → What are you ready to finally release or 
+ rebuild in your closest bonds?\n\n— Technical detail: Sun enters your ho
+ use 8 · 08/10 15:40
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ A season of transformation and depth
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌑 Setting intentions around trust and shared power
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260925T125531Z
+UID:67eac953730d424e301365e7@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:This New Moon falls in your house of intimacy and shared resou
+ rces\, with the Sun there too\, both landing exactly on your natal Saturn 
+ and Pluto. This is fertile\, serious ground: old patterns of control\, tru
+ st\, or merging with another person are ready for a new chapter. Venus\, r
+ uler of this Moon\, sits naturally in your quiet twelfth house but now tra
+ nsits this same intense house 8\, linking your private inner values to thi
+ s transformation. Set an intention here with care\, this area asks for dep
+ th\, not haste. Consider: 'I commit to naming what I truly need in shared 
+ finances\,' 'I commit to releasing one old fear about trusting others\,' o
+ r 'I commit to seeing my own power clearly in this bond.' This will be rev
+ isited at the Full Moon in Libra on 2027-03-22. → Which shared pattern a
+ re you ready to consciously rebuild?\n\n— Technical detail: New Moon · 
+ 17°21' Libra · house 8 · exact 10/10 17:50
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌑 Setting intentions around trust and shared power
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Review your New Moon intention from Oct 10
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260925T125531Z
+UID:ecd2b43f71a012f4186c0e69@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Today\, with the Full Moon in the same sign\, the cycle you be
+ gan at the New Moon of Oct 10 comes full circle. Reread the intention you 
+ wrote: what has blossomed? what do you release? what do you adjust?\n\n—
+  Setting intentions around trust and shared power\nThis New Moon falls in 
+ your house of intimacy and shared resources\, with the Sun there too\, bot
+ h landing exactly on your natal Saturn and Pluto. This is fertile\, seriou
+ s ground: old patterns of control\, trust\, or merging with another person
+  are ready for a new chapter. Venus\, ruler of this Moon\, sits naturally 
+ in your quiet twelfth house but now transits this same intense house 8\, l
+ inking your private inner values to this transformation. Set an intention 
+ here with care\, this area asks for depth\, not haste. Consider: 'I commit
+  to naming what I truly need in shared finances\,' 'I commit to releasing 
+ one old fear about trusting others\,' or 'I commit to seeing my own power 
+ clearly in this bond.' This will be revisited at the Full Moon in Libra on
+  2027-03-22. → Which shared pattern are you ready to consciously rebuild
+ ?
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 Review your New Moon intention from Oct 10
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🍀 Expanding sense of self through daily habits · until 
+ Nov 11
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20260925T125531Z
+UID:5af8c7f23d4ac44bf3f39b8e@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Jupiter\, moving through your house of routines and work\, opp
+ oses your Ascendant\, the very core of how you present yourself. For about
+  a month\, you may feel pulled to grow\, be seen more\, or take up more sp
+ ace\, while also being asked to build better daily habits to support that 
+ growth. Don't overextend just to be noticed. → How can your everyday rou
+ tine actually reflect the bigger version of you that's emerging?\n\n— Te
+ chnical detail: Jupiter within orb of opposition your Ascendant natal (hou
+ se 1) · exact: 24/10/26\n\n(until Nov 11)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🍀 Expanding sense of self through daily habits · un
+ til Nov 11
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🍀 Expanding sense of self through daily habits · until No
+ v 11
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260925T125531Z
+UID:2079404ae0b1408924b63f68@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nJupiter\, movi
+ ng through your house of routines and work\, opposes your Ascendant\, the 
+ very core of how you present yourself. For about a month\, you may feel pu
+ lled to grow\, be seen more\, or take up more space\, while also being ask
+ ed to build better daily habits to support that growth. Don't overextend j
+ ust to be noticed. → How can your everyday routine actually reflect the 
+ bigger version of you that's emerging?\n\n— Technical detail: Jupiter wi
+ thin orb of opposition your Ascendant natal (house 1) · exact: 24/10/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🍀 Expanding sense of self through daily habits · until No
+ v 11
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20260925T125531Z
+UID:7c9eaab0231e8b6ede7c8cd2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nJupiter\, movi
+ ng through your house of routines and work\, opposes your Ascendant\, the 
+ very core of how you present yourself. For about a month\, you may feel pu
+ lled to grow\, be seen more\, or take up more space\, while also being ask
+ ed to build better daily habits to support that growth. Don't overextend j
+ ust to be noticed. → How can your everyday routine actually reflect the 
+ bigger version of you that's emerging?\n\n— Technical detail: Jupiter wi
+ thin orb of opposition your Ascendant natal (house 1) · exact: 24/10/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🍀 Ambition versus overcommitment tension · until Nov 12
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20260925T125531Z
+UID:f4a66ec2c5db561c47942058@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Jupiter\, active in your house of routines\, squares your nata
+ l Mars in your house of expansion\, travel\, and beliefs. For about a mont
+ h\, big ambitions and a drive to do more can clash with your actual capaci
+ ty to sustain it all. Watch for overcommitting to a cause\, trip\, or beli
+ ef without checking your energy levels. → Where are you saying yes out o
+ f excitement rather than real bandwidth?\n\n— Technical detail: Jupiter 
+ within orb of square your Mars natal (house 9) · exact: 25/10/26\n\n(unti
+ l Nov 12)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🍀 Ambition versus overcommitment tension · until No
+ v 12
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🍀 Ambition versus overcommitment tension · until Nov 12
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260925T125531Z
+UID:0bd164118d5af9581e62def9@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nJupiter\, acti
+ ve in your house of routines\, squares your natal Mars in your house of ex
+ pansion\, travel\, and beliefs. For about a month\, big ambitions and a dr
+ ive to do more can clash with your actual capacity to sustain it all. Watc
+ h for overcommitting to a cause\, trip\, or belief without checking your e
+ nergy levels. → Where are you saying yes out of excitement rather than r
+ eal bandwidth?\n\n— Technical detail: Jupiter within orb of square your 
+ Mars natal (house 9) · exact: 25/10/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 Building tension around deep commitments · until Oct 
+ 27
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20260925T125531Z
+UID:72aa3c2fa189e2cc3241438b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mars is approaching a tense angle with your natal Saturn\, rig
+ ht in your house of intimacy and shared resources. Over these two weeks\, 
+ you may feel a rising urge to push against old restrictions or prove yours
+ elf in a close bond\, especially around trust or shared responsibility. Th
+ is energy builds gradually\, so notice frustration before it peaks. Avoid 
+ forcing a confrontation before you're ready. → What boundary in a deep r
+ elationship needs your calm\, deliberate action rather than a reactive pus
+ h?\n\n— Technical detail: Mars approaching square your Saturn natal (hou
+ se 8) · exact 27/10\n\n(until Oct 27)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 Building tension around deep commitments · until 
+ Oct 27
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🔥 Building tension around deep commitments · until Oct 27
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260925T125531Z
+UID:8125c22931c122ab3badc3b0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nMars is approa
+ ching a tense angle with your natal Saturn\, right in your house of intima
+ cy and shared resources. Over these two weeks\, you may feel a rising urge
+  to push against old restrictions or prove yourself in a close bond\, espe
+ cially around trust or shared responsibility. This energy builds gradually
+ \, so notice frustration before it peaks. Avoid forcing a confrontation be
+ fore you're ready. → What boundary in a deep relationship needs your cal
+ m\, deliberate action rather than a reactive push?\n\n— Technical detail
+ : Mars approaching square your Saturn natal (house 8) · exact 27/10
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Serious talk about commitments
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260925T125531Z
+UID:5c06de1855a9b38a1e54727d@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:On October 14\, communication planet Mercury lands exactly on 
+ your natal Saturn\, both in house 8 — your zone of shared resources and 
+ deep bonds. This is a day for serious\, grounded conversations about debts
+ \, contracts\, or emotional walls you've built with someone close. Words c
+ arry weight now\; nothing said feels casual. It's a good moment to clarify
+  terms rather than avoid them. → What honest conversation about shared r
+ esources or trust have you been postponing?\n\n— Technical detail: Mercu
+ ry (16°17' Scorpio\, house 8) conjunction your Saturn natal (16°17' Scor
+ pio\, house 8) · exact 14/10 20:44
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Serious talk about commitments
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌋 Quiet inner transformation resumes
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260925T125531Z
+UID:20dc933dc18e5ac50c551220@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Pluto turns direct in your house of rest and the unconscious\,
+  after months moving inward. This isn't loud — it's a slow release of so
+ mething you've been processing beneath the surface\, maybe old fears or pa
+ tterns you're finally ready to let go of. The forward motion means clarity
+  starts returning\, gently. Trust what surfaced during the retrograde\; it
+  wasn't wasted time. → What have you quietly understood about yourself t
+ hese past months?\n\n— Technical detail: Pluto direct · 3°04' Aquarius
+  · house 12 · 16/10 04:40
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌋 Quiet inner transformation resumes
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Easy energy for learning and talking
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260925T125531Z
+UID:f477ff0950ddf3da8c086da4@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Action planet Mars in your work-and-routine house forms a supp
+ ortive angle to your natal North Node in house 3 — communication and lea
+ rning. This is a favorable moment to take initiative on a course\, a conve
+ rsation\, or a piece of writing you've been meaning to start. It flows eas
+ ily\, without forcing. Your daily habits and your growth path align today.
+  → What small step toward learning or connecting can you take right now?
+ \n\n— Technical detail: Mars (10°21' Leo\, house 6) sextile your North 
+ Node natal (10°21' Gemini\, house 3) · exact 16/10 09:43
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Easy energy for learning and talking
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Full Moon: values versus impulse
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260925T125531Z
+UID:fa05a6f77abafdd92b50f069@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:This Full Moon in Libra lights up your house of intimacy and s
+ hared resources (8)\, opposing the Sun in your house of money and self-wor
+ th (2) — and landing exactly on your natal Moon in Aries. This is a culm
+ ination around a tension you carry naturally: your gut instinct to act fas
+ t (Aries Moon) versus the pull to balance and share with others (Libra). S
+ omething about merging resources\, emotional needs\, or values with anothe
+ r person comes to a head now. Venus\, ruling this Full Moon\, sits quietly
+  in your house of retreat — so the real answer may come through solitude
+ \, not confrontation. Let feelings surface fully before reacting. → Wher
+ e do your instincts and your need for balance disagree\, and what is that 
+ full moon revealing about your worth?\n\n— Technical detail: Sun (23°07
+ ' Libra\, house 8) opposition your Moon natal (23°07' Aries\, house 2) ·
+  exact 16/10 13:41
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 Full Moon: values versus impulse
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Confident push toward your goals
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20260925T125531Z
+UID:bcd678001811802cd1c235ca@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mars trines your Midheaven\, linking your daily efforts (house
+  6) with your career and public path (house 10). Energy flows smoothly tow
+ ard ambition today — a great day to act on career plans\, show your work
+ \, or push a task that supports your long-term direction. Little friction
+ \, good momentum. → What concrete action can you take today to move your
+  career forward?\n\n— Technical detail: Mars (11°32' Leo\, house 6) tri
+ ne your Midheaven natal (11°32' Sagittarius\, house 10) · exact 18/10 13
+ :22
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Confident push toward your goals
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Tension between beliefs and values
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260925T125531Z
+UID:b5578d7c6f6f446b06fedb37@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercury squares your natal Venus\, connecting your house of ex
+ ploration and beliefs (9) with your house of retreat and hidden values (12
+ ). You might feel pulled between saying what you truly believe and protect
+ ing a private feeling or relationship. Old assumptions about love or worth
+  could surface in conversation. Speak carefully\, but don't silence yourse
+ lf either. → Where do your words and your true feelings disagree right n
+ ow?\n\n— Technical detail: Mercury (19°42' Scorpio\, house 9) square yo
+ ur Venus natal (19°42' Aquarius\, house 12) · exact 19/10 17:58
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Tension between beliefs and values
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Mind turns inward before it slows
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260925T125531Z
+UID:bc8f0fd23774a3bf8e20192b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercury stations retrograde in your house of exploration and b
+ eliefs (9)\, right where your intense Scorpio placements live. This marks 
+ the start of a three-week review period touching deep conversations\, stud
+ ies\, or worldviews. Expect delays or reconsiderations tied to plans that 
+ seemed set. Use this shift to notice what's really unresolved beneath the 
+ noise. → What belief or plan needs re-examining before you move forward?
+ \n\n— Technical detail: Mercury retrograde · 20°58' Scorpio · house 9
+  · 24/10 09:12
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Mind turns inward before it slows
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💬 Review before you commit · until Nov 13
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260925T125531Z
+UID:f22f93681f4c83b64354e635@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:For three weeks\, Mercury moves backward through your houses o
+ f exploration and shared resources (9 and 8) — right over your natal Plu
+ to and Saturn. This is a time to revisit\, not launch: recheck contracts\,
+  old debts\, unresolved conversations with people close to you\, or belief
+ s you've taken for granted. Avoid signing anything major or making big phi
+ losophical leaps without a second look. Miscommunication is likely\, so re
+ read before you send. → What deserves a second look before you act on it
+ ?\n\n— Technical detail: Mercury retrograde · 20°58' Scorpio → 5°02
+ ' Scorpio · house 9→8\n\n(until Nov 13)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💬 Review before you commit · until Nov 13
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
