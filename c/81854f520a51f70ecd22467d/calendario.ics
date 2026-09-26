@@ -1,0 +1,1012 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jentm1-arch.github.io/calendario-astral//ES
+X-WR-CALNAME:Mi Calendario Astral · Soul Friendly
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:📖 Cómo leer tu calendario · Soul Friendly
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260926T161542Z
+UID:legend-c013-v2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Cada evento tiene un emoji que te dice de qué va:\n\n🔥 acc
+ ión y energía\n💬 comunicación y decisiones\n💗 amor\, placer y din
+ ero\n🍀 crecimiento y suerte\n🧱 compromiso y esfuerzo\n⚡ cambios re
+ pentinos\n🌫️ intuición (o confusión)\n🌋 transformación profunda
+ \n☀️ identidad y vitalidad\n🌑 Luna nueva: momento de empezar\n🌕 
+ Luna llena: momento de cerrar\n🌘 eclipse\n\nAbre cada evento para leer 
+ tu interpretación personal. Al final verás el dato técnico\, por si qui
+ eres aprender.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🧱 Reconstruir tu identidad con paciencia · hasta el 29 se
+ p
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260926T161542Z
+UID:d3114a14d505eeaff623b775@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Durante estos meses Saturno se acerca a tu Ascendente\, el pun
+ to que marca cómo apareces ante el mundo. Como transita primero tu casa 1
+ 2\, es un trabajo silencioso: te vuelves más consciente de tus límites\,
+  de lo que ya no quieres cargar. No es un frenazo\, es una puesta a punto 
+ seria de quién eres antes de mostrarte con más solidez. Aprovecha para s
+ oltar hábitos que ya no sostienen tu imagen real. → ¿Qué parte de ti 
+ necesita más estructura y menos ruido ahora mismo?\n\n— Dato técnico: 
+ Saturno en orbe de conjunción tu Ascendente natal (casa 1) · exacto: 14/
+ 06/26\, 07/09/26\n\n(hasta el 29 sep)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏹️ Termina · 🧱 Reconstruir tu identidad con paciencia
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260926T161542Z
+UID:b40af8fd885fbcebb6d28d6c@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Cuando este tránsito termine\, notarás una versión tuya má
+ s firme y con los límites más claros. Revisa qué aprendiste sobre soste
+ nerte a ti mismo sin depender tanto de la aprobación externa.\n\n— Dato
+  técnico: Saturno en orbe de conjunción tu Ascendente natal (casa 1) · 
+ exacto: 14/06/26\, 07/09/26
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏹️ Termina · 🧱 Reconstruir tu identidad con paciencia
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🌋 Transformar cómo piensas y te expresas · hasta el 17 e
+ ne 2027
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260926T161542Z
+UID:1c2d37323ff7fb1b2e5d2190@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Plutón opone a tu Mercurio natal\, el planeta de tu mente y t
+ u forma de comunicar\, ubicado en tu casa 5 de creatividad y expresión pe
+ rsonal. Se activa desde tu casa 11\, la de comunidad y metas compartidas: 
+ puede que ideas\, proyectos o personas de tu entorno social te confronten 
+ con verdades que preferías no mirar. Es un proceso largo de transformaci
+ ón en cómo piensas y te expresas\, no un conflicto puntual. → ¿Qué i
+ dea tuya está pidiendo ser repensada desde la raíz?\n\n— Dato técnico
+ : Plutón en orbe de oposición tu Mercurio natal (casa 5) · exacto: 12/0
+ 9/26\, 18/11/26\n\n(hasta el 17 ene 2027)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🌋 Transformar cómo piensas y te expresas · hasta el 17 e
+ ne 2027
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260926T161542Z
+UID:82c061d3c815ea93cb083122@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nPlutón opon
+ e a tu Mercurio natal\, el planeta de tu mente y tu forma de comunicar\, u
+ bicado en tu casa 5 de creatividad y expresión personal. Se activa desde 
+ tu casa 11\, la de comunidad y metas compartidas: puede que ideas\, proyec
+ tos o personas de tu entorno social te confronten con verdades que prefer
+ ías no mirar. Es un proceso largo de transformación en cómo piensas y t
+ e expresas\, no un conflicto puntual. → ¿Qué idea tuya está pidiendo 
+ ser repensada desde la raíz?\n\n— Dato técnico: Plutón en orbe de opo
+ sición tu Mercurio natal (casa 5) · exacto: 12/09/26\, 18/11/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🌋 Transformar cómo piensas y te expresas · hasta el 17 e
+ ne 2027
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T161542Z
+UID:878ab88a899a03814bdb046a@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nPlutón opon
+ e a tu Mercurio natal\, el planeta de tu mente y tu forma de comunicar\, u
+ bicado en tu casa 5 de creatividad y expresión personal. Se activa desde 
+ tu casa 11\, la de comunidad y metas compartidas: puede que ideas\, proyec
+ tos o personas de tu entorno social te confronten con verdades que prefer
+ ías no mirar. Es un proceso largo de transformación en cómo piensas y t
+ e expresas\, no un conflicto puntual. → ¿Qué idea tuya está pidiendo 
+ ser repensada desde la raíz?\n\n— Dato técnico: Plutón en orbe de opo
+ sición tu Mercurio natal (casa 5) · exacto: 12/09/26\, 18/11/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🌋 Transformar cómo piensas y te expresas · hasta el 17 e
+ ne 2027
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260926T161542Z
+UID:87254e4cccf3a431a9b9ef4e@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nPlutón opon
+ e a tu Mercurio natal\, el planeta de tu mente y tu forma de comunicar\, u
+ bicado en tu casa 5 de creatividad y expresión personal. Se activa desde 
+ tu casa 11\, la de comunidad y metas compartidas: puede que ideas\, proyec
+ tos o personas de tu entorno social te confronten con verdades que prefer
+ ías no mirar. Es un proceso largo de transformación en cómo piensas y t
+ e expresas\, no un conflicto puntual. → ¿Qué idea tuya está pidiendo 
+ ser repensada desde la raíz?\n\n— Dato técnico: Plutón en orbe de opo
+ sición tu Mercurio natal (casa 5) · exacto: 12/09/26\, 18/11/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🌋 Transformar cómo piensas y te expresas · hasta el 17 e
+ ne 2027
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260926T161542Z
+UID:3208fe3e3eb21d3e71b737ea@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nPlutón opon
+ e a tu Mercurio natal\, el planeta de tu mente y tu forma de comunicar\, u
+ bicado en tu casa 5 de creatividad y expresión personal. Se activa desde 
+ tu casa 11\, la de comunidad y metas compartidas: puede que ideas\, proyec
+ tos o personas de tu entorno social te confronten con verdades que prefer
+ ías no mirar. Es un proceso largo de transformación en cómo piensas y t
+ e expresas\, no un conflicto puntual. → ¿Qué idea tuya está pidiendo 
+ ser repensada desde la raíz?\n\n— Dato técnico: Plutón en orbe de opo
+ sición tu Mercurio natal (casa 5) · exacto: 12/09/26\, 18/11/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🍀 Ganas de actuar con más confianza · hasta el 14 oct
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260926T161542Z
+UID:a0d5265ba9b6090a8d659793@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Júpiter forma un ángulo tenso con tu Marte natal\, que rige 
+ tu identidad y tu forma de iniciar (casa 1). Transitando tu casa 5\, trae 
+ entusiasmo por crear\, competir o lanzarte a algo nuevo\, pero el desafío
+  es no sobreestimar tus fuerzas ni dispersarte en demasiados frentes a la 
+ vez. Es energía expansiva que necesita un cauce concreto para no quedarse
+  en pura euforia. → ¿En qué proyecto concreto puedes canalizar esas ga
+ nas de más?\n\n— Dato técnico: Júpiter en orbe de cuadratura tu Marte
+  natal (casa 1) · exacto: 02/10/26\n\n(hasta el 14 oct)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🍀 Ganas de actuar con más confianza · hasta el 14 oct
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260926T161542Z
+UID:3148e44cc0da5c0fe6a9813a@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nJúpiter for
+ ma un ángulo tenso con tu Marte natal\, que rige tu identidad y tu forma 
+ de iniciar (casa 1). Transitando tu casa 5\, trae entusiasmo por crear\, c
+ ompetir o lanzarte a algo nuevo\, pero el desafío es no sobreestimar tus 
+ fuerzas ni dispersarte en demasiados frentes a la vez. Es energía expansi
+ va que necesita un cauce concreto para no quedarse en pura euforia. → ¿
+ En qué proyecto concreto puedes canalizar esas ganas de más?\n\n— Dato
+  técnico: Júpiter en orbe de cuadratura tu Marte natal (casa 1) · exact
+ o: 02/10/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🍀 Ganas de actuar con más confianza · hasta el 14 oct
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T161542Z
+UID:669d1053f85c038f6d9e5f71@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nJúpiter for
+ ma un ángulo tenso con tu Marte natal\, que rige tu identidad y tu forma 
+ de iniciar (casa 1). Transitando tu casa 5\, trae entusiasmo por crear\, c
+ ompetir o lanzarte a algo nuevo\, pero el desafío es no sobreestimar tus 
+ fuerzas ni dispersarte en demasiados frentes a la vez. Es energía expansi
+ va que necesita un cauce concreto para no quedarse en pura euforia. → ¿
+ En qué proyecto concreto puedes canalizar esas ganas de más?\n\n— Dato
+  técnico: Júpiter en orbe de cuadratura tu Marte natal (casa 1) · exact
+ o: 02/10/26
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏹️ Termina · 🍀 Ganas de actuar con más confianza
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260926T161542Z
+UID:364797cbfb966f14cfeee304@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Cuando pase este impulso\, revisa qué de todo ese entusiasmo 
+ realmente diste continuidad.\n\n— Dato técnico: Júpiter en orbe de cua
+ dratura tu Marte natal (casa 1) · exacto: 02/10/26
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏹️ Termina · 🍀 Ganas de actuar con más confianza
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 Ideas que piden pasar a la acción · hasta el 3 oct
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260926T161542Z
+UID:6ad6fd0027bf77e6a386ff22@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Sientes que Marte se acerca a tu Mercurio natal\, en tu casa 5
+  de creatividad y expresión. Los días previos suelen traer más impacien
+ cia mental\, ganas de decir las cosas claras o de arrancar un proyecto cre
+ ativo que llevas tiempo pensando. Esta energía crece antes de hacerse exa
+ cta\, así que es normal notar ya cierta urgencia por hablar o actuar. →
+  ¿Qué idea necesitas poner en palabras antes de que se enfríe?\n\n— D
+ ato técnico: Marte se acerca a conjunción tu Mercurio natal (casa 5) · 
+ exacto 03/10\n\n(hasta el 3 oct)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 Ideas que piden pasar a la acción · hasta el 3 o
+ ct
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏹️ Termina · 🔥 Ideas que piden pasar a la acción
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260926T161542Z
+UID:bddfe82d5508da6fc06403ef@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:\n\n— Dato técnico: Marte se acerca a conjunción tu Mercur
+ io natal (casa 5) · exacto 03/10
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏹️ Termina · 🔥 Ideas que piden pasar a la acción
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Negociar entre tu impulso y el otro
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260926T161542Z
+UID:976f7c6018d0665eef0b1b1f@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio se opone a tu Júpiter natal\, que está en tu casa 1
+  junto a tu Ascendente. Desde tu casa 7 de pareja y vínculos\, esto pone 
+ en tensión tu forma de expresarte con las expectativas o el punto de vist
+ a de otra persona. Puede aparecer un exceso de optimismo o de discurso gra
+ ndilocuente que conviene aterrizar con hechos concretos antes de compromet
+ erte. → ¿Estás escuchando al otro o solo esperando que confirme tu ide
+ a?\n\n— Dato técnico: Mercurio (24°17' Libra\, casa 7) oposición tu J
+ úpiter natal (24°17' Aries\, casa 1) · exacto 26/09 10:06
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Negociar entre tu impulso y el otro
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Tensión entre lo que dices y tus raíces
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260926T161542Z
+UID:96c58ae18a586a17f2c5822b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio forma un ángulo tenso con tu Saturno natal\, ubicado
+  en tu casa 4 de hogar y familia. Desde tu casa 7\, esto puede traer conve
+ rsaciones serias con tu pareja o socios sobre temas que tocan tu vida fami
+ liar o tus raíces emocionales. Es buen momento para hablar con responsabi
+ lidad\, aunque cueste\, en vez de evitar el tema. → ¿Qué conversación
+  pendiente con tu entorno cercano ya no puedes posponer?\n\n— Dato técn
+ ico: Mercurio (24°20' Libra\, casa 7) cuadratura tu Saturno natal (24°20
+ ' Cáncer\, casa 4) · exacto 26/09 11:07
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Tensión entre lo que dices y tus raíces
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Nueva temporada de creatividad y brillo
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260926T161542Z
+UID:5c24e7036567b9f0799024b0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Marte entra en tu casa 5\, la de tu expresión creativa\, el r
+ omance y los proyectos propios. Empieza un ciclo de mayor iniciativa para 
+ mostrar lo que haces\, coquetear con la vida o meterte de lleno en algo qu
+ e disfrutes. Tu energía se vuelve más protagonista y directa en todo lo 
+ que te da placer. → ¿Qué proyecto personal mereces empezar a defender 
+ con más fuerza?\n\n— Dato técnico: Marte entra en tu casa 5 · 26/09 1
+ 5:33
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Nueva temporada de creatividad y brillo
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Cerrar un ciclo entre trabajo y descanso
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DTSTAMP:20260926T161542Z
+UID:be36372a7ef1d3cdb155c9d1@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Esta Luna llena en Aries ilumina el eje entre tu casa 12 (desc
+ anso\, cierre) y tu casa 6 (rutinas\, trabajo diario)\, justo cuando Neptu
+ no también toca tu casa 12: hay una invitación a soltar exigencias invis
+ ibles y reconocer el cansancio acumulado. El regente de esta luna es Marte
+ \, que en tu carta natal vive en tu casa 1 de identidad y ahora transita t
+ u casa 5 de creatividad: lo que cierras hoy tiene que ver con cómo cuidas
+  tu cuerpo y tu rutina para poder brillar después con más libertad. Esta
+  luna llena cierra el ciclo de la Luna nueva en Aries del 17 de abril: rev
+ isa qué intención pusiste entonces sobre tu identidad o tus inicios. →
+  ¿Qué rutina agotadora ya cumplió su función y puedes soltar?\n\n— D
+ ato técnico: Luna llena · 3°37' Aries · casa 12 · exacto 26/09 18:49
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 Cerrar un ciclo entre trabajo y descanso
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Palabras que sanan viejas heridas
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260926T161542Z
+UID:4c85d5a977fa25b033072447@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio se opone a tu Quirón natal\, ubicado en tu casa 1 ju
+ nto a tu identidad. Desde tu casa 7 de vínculos\, una conversación con o
+ tra persona puede tocar una herida antigua relacionada con sentirte visto 
+ o validado desde que eras más joven. No es casualidad\, es oportunidad: h
+ ablar de eso con alguien de confianza puede aliviarlo más de lo que esper
+ as. → ¿A quién podrías contarle esa herida que sueles callar?\n\n— 
+ Dato técnico: Mercurio (28°09' Libra\, casa 7) oposición tu Quirón nat
+ al (28°09' Aries\, casa 1) · exacto 29/09 05:01
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Palabras que sanan viejas heridas
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Tensión entre rutina diaria y vocación
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260926T161542Z
+UID:3fb337efed65d593fad2c138@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol forma un ángulo tenso con tu Medio Cielo natal\, el pu
+ nto de tu carrera y proyección pública\, en tu casa 10. Transitando tu c
+ asa 6 de trabajo diario\, se genera fricción entre las tareas cotidianas 
+ y hacia dónde quieres dirigir tu vida profesional a largo plazo. Es un bu
+ en día para preguntarte si tu rutina actual realmente sirve a tu vocació
+ n. → ¿Tu día a día está construyendo la carrera que quieres tener?\n
+ \n— Dato técnico: Sol (6°57' Libra\, casa 6) cuadratura tu Medio Cielo
+  natal (6°57' Capricornio\, casa 10) · exacto 30/09 04:39
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Tensión entre rutina diaria y vocación
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Reajustar cómo comunicas tus ideas
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260926T161542Z
+UID:8ce2694dd99c0fd6fa84b118@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio en tránsito forma un ángulo tenso con tu propio Mer
+ curio natal\, en tu casa 5 de creatividad. Se activa desde tu casa 7\, as
+ í que puede surgir un malentendido o una diferencia de opinión con algui
+ en cercano que te obliga a reformular cómo explicas lo que sientes o crea
+ s. No es un choque grave\, es un ajuste necesario en tu forma de expresart
+ e. → ¿Qué necesitas explicar de otra manera para que te entiendan mejo
+ r?\n\n— Dato técnico: Mercurio (3°19' Escorpio\, casa 7) cuadratura tu
+  Mercurio natal (3°19' Leo\, casa 5) · exacto 03/10 02:43
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Reajustar cómo comunicas tus ideas
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Revisar vínculos antes de avanzar
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260926T161542Z
+UID:5d952d4ad371ce4f22d48082@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Venus inicia su fase retrógrada en tu casa 7 de pareja y soci
+ os. Durante las próximas semanas conviene revisar acuerdos\, no firmar co
+ mpromisos importantes en vínculos ni tomar decisiones apresuradas sobre r
+ elaciones. Es momento de mirar hacia atrás: qué patrones repites al eleg
+ ir con quién compartes tu vida y tu trabajo. Evita grandes declaraciones 
+ o rupturas impulsivas hasta que Venus retome su marcha. → ¿Qué patrón
+  en tus relaciones merece una revisión honesta ahora?\n\n— Dato técnic
+ o: Venus retrógrado · 8°29' Escorpio · casa 7 · 03/10 09:15
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Revisar vínculos antes de avanzar
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💗 Revisa vínculos y acuerdos con socios · hasta el 14 
+ nov
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260926T161542Z
+UID:3b455ae86c018c4947ffba2b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Venus retrocede por tu casa 7\, la de la pareja y los acuerdos
+  con otros\, tocando también tu casa 6 de trabajo diario. Durante seis se
+ manas puede que vuelvas a hablar con alguien del pasado\, revises un acuer
+ do o repienses qué das y qué recibes en una relación cercana. No es mom
+ ento ideal para firmar contratos nuevos con socios ni para grandes declara
+ ciones: mejor observar\, ajustar\, entender. → Antes de comprometerte co
+ n alguien\, pregúntate qué necesitas realmente revisar.\n\n— Dato téc
+ nico: Venus retrógrado · 8°29' Escorpio → 22°51' Libra · casa 7\n\n
+ (hasta el 14 nov)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💗 Revisa vínculos y acuerdos con socios · hasta el
+  14 nov
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Revisa vínculos y acuerdos con socios · hasta el 14 no
+ v
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T161542Z
+UID:820119846a477f377322cd0d@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nVenus retroc
+ ede por tu casa 7\, la de la pareja y los acuerdos con otros\, tocando tam
+ bién tu casa 6 de trabajo diario. Durante seis semanas puede que vuelvas 
+ a hablar con alguien del pasado\, revises un acuerdo o repienses qué das 
+ y qué recibes en una relación cercana. No es momento ideal para firmar c
+ ontratos nuevos con socios ni para grandes declaraciones: mejor observar\,
+  ajustar\, entender. → Antes de comprometerte con alguien\, pregúntate 
+ qué necesitas realmente revisar.\n\n— Dato técnico: Venus retrógrado 
+ · 8°29' Escorpio → 22°51' Libra · casa 7
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Revisa vínculos y acuerdos con socios · hasta el 14 no
+ v
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260926T161542Z
+UID:c8a2f319591195ecce88df55@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nVenus retroc
+ ede por tu casa 7\, la de la pareja y los acuerdos con otros\, tocando tam
+ bién tu casa 6 de trabajo diario. Durante seis semanas puede que vuelvas 
+ a hablar con alguien del pasado\, revises un acuerdo o repienses qué das 
+ y qué recibes en una relación cercana. No es momento ideal para firmar c
+ ontratos nuevos con socios ni para grandes declaraciones: mejor observar\,
+  ajustar\, entender. → Antes de comprometerte con alguien\, pregúntate 
+ qué necesitas realmente revisar.\n\n— Dato técnico: Venus retrógrado 
+ · 8°29' Escorpio → 22°51' Libra · casa 7
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Revisa vínculos y acuerdos con socios · hasta el 14 no
+ v
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260926T161542Z
+UID:a809b1b3583867ae422a256f@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nVenus retroc
+ ede por tu casa 7\, la de la pareja y los acuerdos con otros\, tocando tam
+ bién tu casa 6 de trabajo diario. Durante seis semanas puede que vuelvas 
+ a hablar con alguien del pasado\, revises un acuerdo o repienses qué das 
+ y qué recibes en una relación cercana. No es momento ideal para firmar c
+ ontratos nuevos con socios ni para grandes declaraciones: mejor observar\,
+  ajustar\, entender. → Antes de comprometerte con alguien\, pregúntate 
+ qué necesitas realmente revisar.\n\n— Dato técnico: Venus retrógrado 
+ · 8°29' Escorpio → 22°51' Libra · casa 7
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 Energía creciente en tu forma de expresarte · hasta 
+ el 8 oct
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260926T161542Z
+UID:3d33f079ac338aad6242bc02@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Durante estos días sientes crecer una energía impaciente en 
+ tu casa 5\, la de tu creatividad y tu manera de brillar. Marte se acerca a
+  tu Sol natal\, así que notarás más ganas de actuar\, de mostrarte\, de
+  tomar la iniciativa en algo propio. Todavía no es el pico\, pero la mech
+ a ya está encendida. → Empieza a canalizar esa impaciencia en un proyec
+ to concreto antes de que se vuelva pura frustración.\n\n— Dato técnico
+ : Marte se acerca a conjunción tu Sol natal (casa 5) · exacto 08/10\n\n(
+ hasta el 8 oct)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 Energía creciente en tu forma de expresarte · ha
+ sta el 8 oct
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏹️ Termina · 🔥 Energía creciente en tu forma de expresart
+ e
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20260926T161542Z
+UID:1453b02de9782b4e409473dc@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:\n\n— Dato técnico: Marte se acerca a conjunción tu Sol na
+ tal (casa 5) · exacto 08/10
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏹️ Termina · 🔥 Energía creciente en tu forma de expre
+ sarte
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Impulso para decir lo que piensas
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260926T161542Z
+UID:3911f34a7a9abaa018e7ffd4@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Marte activa tu Mercurio natal en la casa 5: tu mente está m
+ ás rápida\, directa\, casi combativa. Es un buen momento para defender u
+ na idea propia\, escribir algo con fuerza o iniciar una conversación que 
+ venías postergando. El riesgo es hablar antes de pensar o discutir por el
+  simple gusto de tener razón. → Usa esta chispa mental para proponer\, 
+ no para pelear.\n\n— Dato técnico: Marte (3°19' Leo\, casa 5) conjunci
+ ón tu Mercurio natal (3°19' Leo\, casa 5) · exacto 03/10 21:42
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Impulso para decir lo que piensas
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Tensión entre lo que sientes y lo que dices
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20260926T161542Z
+UID:b46372f9d2ecce624651d078@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio\, viajando por tu casa 7 de vínculos\, forma una ten
+ sión con tu Sol en casa 5. Puede aparecer un roce con alguien cercano por
+  un malentendido o por decir tu verdad de forma demasiado directa. No se t
+ rata de callar\, sino de elegir bien las palabras antes de soltar lo prime
+ ro que piensas. → Antes de responder\, tómate un minuto para ordenar la
+  idea.\n\n— Dato técnico: Mercurio (6°09' Escorpio\, casa 7) cuadratur
+ a tu Sol natal (6°09' Leo\, casa 5) · exacto 05/10 08:49
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Tensión entre lo que sientes y lo que dices
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Nueva temporada para tus relaciones
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20260926T161542Z
+UID:09714a04116e95ed84db995f@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol entra en tu casa 7: empieza un mes donde el foco se tra
+ slada de ti hacia los demás\, hacia la pareja\, los socios o las personas
+  con quienes colaboras. Es tiempo de mirar cómo estás vinculándote\, qu
+ é das y qué recibes. → Elige una relación importante y pregúntate c
+ ómo quieres que evolucione este mes.\n\n— Dato técnico: Sol entra en t
+ u casa 7 · 06/10 14:50
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Nueva temporada para tus relaciones
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Equilibrio entre tú y el otro
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20260926T161542Z
+UID:3874873fad77a71f5161c32a@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol se opone exactamente a tu Ascendente\, marcando el punt
+ o máximo de este eje yo-otro. Sientes la necesidad de mirarte a través d
+ el vínculo con alguien: ¿te reconoces en cómo te tratan? Es un buen mom
+ ento para negociar\, escuchar y también para afirmar quién eres sin perd
+ erte en la relación. → Pregúntate si estás cediendo demasiado o si es
+ tás dejando espacio real para el otro.\n\n— Dato técnico: Sol (13°17'
+  Libra\, casa 7) oposición tu Ascendente natal (13°17' Aries\, casa 1) 
+ · exacto 06/10 14:50
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Equilibrio entre tú y el otro
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Momento de mostrar tu fuerza creativa
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20260926T161542Z
+UID:c9c73beff2b79b4a7c20b841@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Marte llega exacto a tu Sol natal en la casa 5: es el pico de 
+ energía que venías sintiendo. Tienes vitalidad\, coraje y ganas de prota
+ gonizar algo propio\, ya sea un proyecto creativo\, un gesto romántico o 
+ una decisión que te represente. Cuida no imponerte de más ni buscar pele
+ a solo por sentirte vivo. → Haz hoy algo que te haga sentir plenamente t
+ ú.\n\n— Dato técnico: Marte (6°09' Leo\, casa 5) conjunción tu Sol n
+ atal (6°09' Leo\, casa 5) · exacto 08/10 20:17
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Momento de mostrar tu fuerza creativa
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌑 Nueva intención para tus vínculos
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260926T161542Z
+UID:6f50e1fd7bd9ef0409b1ef4c@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Esta luna nueva enciende tu casa 7\, la del compañero\, los s
+ ocios y las personas con las que te relacionas de igual a igual. Toca dire
+ ctamente tu Luna natal y tu Ascendente: lo que decidas aquí sobre el otro
+  también habla de ti y de cómo inicias las cosas. Venus\, regente de est
+ a luna\, vive en tu casa 6 pero ahora transita la 7\, así que el cuidado 
+ diario y el trabajo bien hecho se convierten en la base para relacionarte 
+ mejor. Es momento de sembrar cómo quieres construir en pareja o en equipo
+ \, sin perderte a ti mismo. Prueba con: 'Me comprometo a comunicar lo que 
+ necesito en mis relaciones cercanas'\, 'Me comprometo a elegir vínculos q
+ ue respeten mi independencia'\, 'Me comprometo a ser un socio justo y pres
+ ente'. Revisarás esta intención en la luna llena en Libra del 22 de marz
+ o de 2027. → ¿Qué tipo de compañero quieres ser a partir de hoy?\n\n
+ — Dato técnico: Luna nueva · 17°21' Libra · casa 7 · exacto 10/10 1
+ 7:50
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌑 Nueva intención para tus vínculos
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Revisa tu intención de la Luna nueva del 10 oct
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260926T161542Z
+UID:ceee9997f50d27f2a8a928fa@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Hoy\, con la Luna llena en el mismo signo\, se cierra el ciclo
+  que empezaste en la Luna nueva del 10 oct. Relee la intención que escrib
+ iste: ¿qué ha florecido? ¿qué sueltas? ¿qué ajustas?\n\n— Nueva in
+ tención para tus vínculos\nEsta luna nueva enciende tu casa 7\, la del c
+ ompañero\, los socios y las personas con las que te relacionas de igual a
+  igual. Toca directamente tu Luna natal y tu Ascendente: lo que decidas aq
+ uí sobre el otro también habla de ti y de cómo inicias las cosas. Venus
+ \, regente de esta luna\, vive en tu casa 6 pero ahora transita la 7\, as
+ í que el cuidado diario y el trabajo bien hecho se convierten en la base 
+ para relacionarte mejor. Es momento de sembrar cómo quieres construir en 
+ pareja o en equipo\, sin perderte a ti mismo. Prueba con: 'Me comprometo a
+  comunicar lo que necesito en mis relaciones cercanas'\, 'Me comprometo a 
+ elegir vínculos que respeten mi independencia'\, 'Me comprometo a ser un 
+ socio justo y presente'. Revisarás esta intención en la luna llena en Li
+ bra del 22 de marzo de 2027. → ¿Qué tipo de compañero quieres ser a p
+ artir de hoy?
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 Revisa tu intención de la Luna nueva del 10 oct
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Choque entre impulso propio y el otro
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20260926T161542Z
+UID:96438cba73afe33eb38b37d9@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol se opone a tu Luna natal\, el eje más personal de tu c
+ arta entre tu casa 7 y tu casa 1. Tus emociones piden reconocimiento justo
+  cuando estás muy enfocado en el otro. Puede surgir un momento de fricci
+ ón emocional en una relación cercana\, útil para ver qué necesitas de 
+ verdad. → Nombra en voz alta lo que sientes antes de esperar que el otro
+  lo adivine.\n\n— Dato técnico: Sol (20°00' Libra\, casa 7) oposición
+  tu Luna natal (20°00' Aries\, casa 1) · exacto 13/10 10:03
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Choque entre impulso propio y el otro
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Repensar cómo te muestras en pareja
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260926T161542Z
+UID:4dea50c229f5b773d1cd1a10@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Venus retrógrada en tu casa 7 forma tensión con tu Sol en ca
+ sa 5. Es momento de revisar si te estás expresando con autenticidad dentr
+ o de tus vínculos o si estás actuando un papel para agradar. Puede resur
+ gir un tema afectivo pendiente. No es el mejor momento para grandes gestos
+  románticos nuevos. → Pregúntate si en esa relación te muestras como 
+ realmente eres.\n\n— Dato técnico: Venus ℞ (6°09' Escorpio\, casa 7)
+  cuadratura tu Sol natal (6°09' Leo\, casa 5) · exacto 14/10 07:31
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Repensar cómo te muestras en pareja
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌋 Retomas el rumbo en tu comunidad
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260926T161542Z
+UID:a0bffed5898f6e24cad3a224@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Plutón vuelve a avanzar en tu casa 11\, la de las amistades y
+  las metas grupales. Tras meses de revisión profunda sobre a qué comunid
+ ad perteneces y qué metas ya no te representan\, ahora las transformacion
+ es que veías internamente empiezan a moverse hacia afuera. → Da un paso
+  concreto hacia la meta grupal que sí sigue teniendo sentido para ti.\n\n
+ — Dato técnico: Plutón directo · 3°04' Acuario · casa 11 · 16/10 0
+ 4:40
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌋 Retomas el rumbo en tu comunidad
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Tensión entre expansión propia y compartida
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260926T161542Z
+UID:33f0634a9bc5ed92d027af51@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol se opone a tu Júpiter natal\, entre tu casa 7 y tu cas
+ a 1. Sientes ganas de crecer\, de lanzarte a algo grande\, pero el eje del
+  otro te invita a pensar en cómo eso involucra a quienes te rodean. Puede
+  aparecer una oportunidad ligada a una sociedad o colaboración. → Antes
+  de decidir en solitario\, comparte tu entusiasmo con alguien de confianza
+ .\n\n— Dato técnico: Sol (24°17' Libra\, casa 7) oposición tu Júpite
+ r natal (24°17' Aries\, casa 1) · exacto 17/10 17:42
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Tensión entre expansión propia y compartida
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🧱 poner límites entre pareja y familia
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260926T161542Z
+UID:3202d5d8e42bc7894435ce11@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol activa tu casa 7 (vínculos) y tensiona a Saturno en tu
+  casa 4 (hogar\, familia). Es un momento para notar si tus relaciones actu
+ ales exigen que sacrifiques tiempo o espacio en casa\, o al revés. No es 
+ un conflicto grave\, sino una llamada a equilibrar compromisos externos co
+ n tus raíces. Quizás sientas que alguien pide más seriedad justo cuando
+  tú necesitas recogerte. → ¿Qué límite necesitas poner hoy para cuid
+ ar ambos mundos?\n\n— Dato técnico: Sol (24°20' Libra\, casa 7) cuadra
+ tura tu Saturno natal (24°20' Cáncer\, casa 4) · exacto 17/10 19:09
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧱 poner límites entre pareja y familia
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 diálogo directo sobre lo que quieres
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260926T161542Z
+UID:a99eb00e77cffff9d99f58b3@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio\, desde tu casa de pareja\, se opone a tu Marte natal
+  en casa 1\, tu regente natal. Puede surgir una conversación donde sienta
+ s que tu forma de actuar choca con lo que el otro espera o dice. Tu impuls
+ o es defender tu autonomía\; el reto es escuchar sin perder tu voz. Es bu
+ en momento para hablar claro en vez de guardarte la frustración. → ¿Pu
+ edes decir lo que piensas sin necesidad de imponerlo?\n\n— Dato técnico
+ : Mercurio (19°47' Escorpio\, casa 7) oposición tu Marte natal (19°47' 
+ Tauro\, casa 1) · exacto 19/10 21:27
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 diálogo directo sobre lo que quieres
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 revisar cómo te expresas en el amor
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260926T161542Z
+UID:9c8a6edf4b06755116478097@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Venus retrógrada\, en tu casa de vínculos\, tensiona a tu Me
+ rcurio natal en casa 5 (creatividad\, romance\, expresión personal). Pued
+ e que vuelvas a pensar en cómo comunicas cariño o qué esperas de una re
+ lación. Es un buen momento para repasar palabras dichas o proyectos afect
+ ivos antes de dar un paso firme\, sin precipitarte a definir nada nuevo to
+ davía. → ¿Qué necesitas revisar antes de comprometerte con una nueva 
+ forma de mostrar afecto?\n\n— Dato técnico: Venus ℞ (3°19' Escorpio
+ \, casa 7) cuadratura tu Mercurio natal (3°19' Leo\, casa 5) · exacto 19
+ /10 22:24
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 revisar cómo te expresas en el amor
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 energía creciente para afirmar quién eres · hasta e
+ l 3 nov
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260926T161542Z
+UID:2fa9ac2313b91b80a3005029@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Durante estas dos semanas vas a sentir crecer una tensión int
+ erna: Marte transitando se acerca a tu propio Marte natal\, tu regente\, e
+ n tu casa 1. Es una energía de impulso\, de necesidad de actuar y afirmar
+ te\, que puede generar impaciencia o ganas de moverte rápido. No fuerces 
+ decisiones grandes todavía\; deja que la energía se acumule con concienc
+ ia\, sin explotar en impulsividad. → ¿En qué área de tu vida necesita
+ s más iniciativa propia ahora mismo?\n\n— Dato técnico: Marte se acerc
+ a a cuadratura tu Marte natal (casa 1) · exacto 03/11\n\n(hasta el 3 nov)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 energía creciente para afirmar quién eres · has
+ ta el 3 nov
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🔥 energía creciente para afirmar quién eres · hasta el 
+ 3 nov
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20260926T161542Z
+UID:9a585eddf5d9a3654429e271@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nDurante esta
+ s dos semanas vas a sentir crecer una tensión interna: Marte transitando 
+ se acerca a tu propio Marte natal\, tu regente\, en tu casa 1. Es una ener
+ gía de impulso\, de necesidad de actuar y afirmarte\, que puede generar i
+ mpaciencia o ganas de moverte rápido. No fuerces decisiones grandes todav
+ ía\; deja que la energía se acumule con conciencia\, sin explotar en imp
+ ulsividad. → ¿En qué área de tu vida necesitas más iniciativa propia
+  ahora mismo?\n\n— Dato técnico: Marte se acerca a cuadratura tu Marte 
+ natal (casa 1) · exacto 03/11
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ sanar heridas de identidad en pareja
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20260926T161542Z
+UID:d844e127e00147ca3893c559@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol se opone a Chiron\, tu herida sensible ligada a tu iden
+ tidad y autonomía (casa 1)\, desde tu casa de vínculos. Alguien cercano 
+ puede reflejarte una herida antigua sobre sentirte visto o aceptado tal cu
+ al eres. No es casualidad: las relaciones actuales te muestran dónde toda
+ vía te cuesta confiar en tu propio valor. → ¿Qué parte de ti necesita
+  ser aceptada\, aunque nadie más la valide primero?\n\n— Dato técnico:
+  Sol (28°09' Libra\, casa 7) oposición tu Quirón natal (28°09' Aries\,
+  casa 1) · exacto 21/10 15:15
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ sanar heridas de identidad en pareja
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 impulso creativo alineado con tu esencia
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20260926T161542Z
+UID:b500b058d6e53af946ff42ec@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Marte\, transitando tu casa 5 (creatividad\, placer\, proyecto
+ s propios)\, forma un ángulo armonioso con tu Ascendente. Es un día de b
+ uena energía para iniciar algo que te representa: un proyecto creativo\, 
+ una expresión personal\, incluso un gesto romántico. Tu forma de moverte
+  hoy fluye con quién eres realmente. Aprovecha este impulso sin dudar tan
+ to. → ¿Qué proyecto personal puedes empezar hoy con esta energía a fa
+ vor?\n\n— Dato técnico: Marte (13°17' Leo\, casa 5) trígono tu Ascend
+ ente natal (13°17' Aries\, casa 1) · exacto 21/10 19:26
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 impulso creativo alineado con tu esencia
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 pausa para repensar acuerdos y palabras
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260926T161542Z
+UID:3c751ce6b19c55f2182a7afc@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercurio se detiene y comienza su fase retrógrada en tu casa 
+ 7\, justo donde vives tus vínculos y acuerdos con otros. Durante las pró
+ ximas semanas conviene revisar contratos\, mensajes o conversaciones impor
+ tantes antes de cerrarlas. Evita firmar acuerdos de pareja o negocio de fo
+ rma apresurada\; mejor confirma dos veces lo que crees haber entendido. 
+ → ¿Qué conversación pendiente merece ser repasada con calma antes de 
+ avanzar?\n\n— Dato técnico: Mercurio retrógrado · 20°58' Escorpio ·
+  casa 7 · 24/10 09:12
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 pausa para repensar acuerdos y palabras
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💬 revisar vínculos antes de decidir · hasta el 13 nov
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260926T161542Z
+UID:37575998fd7161e13c7acf36@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Durante estas tres semanas\, Mercurio retrógrado recorre tu c
+ asa 7\, la de pareja\, socios y clientes. Es un tiempo para releer acuerdo
+ s\, aclarar malentendidos y no asumir que todo está dicho. Pueden reapare
+ cer personas o temas del pasado relacionados con compromisos compartidos. 
+ Evita firmar contratos importantes o tomar decisiones definitivas en socie
+ dad si puedes esperar a que termine. → ¿Qué acuerdo necesitas revisar 
+ con más calma antes de avanzar?\n\n— Dato técnico: Mercurio retrógrad
+ o · 20°58' Escorpio → 5°02' Escorpio · casa 7\n\n(hasta el 13 nov)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💬 revisar vínculos antes de decidir · hasta el 13 
+ nov
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 cerrar un ciclo de herida y vínculo
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20260926T161542Z
+UID:6647646fef6f6dcade8e6592@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Esta luna llena en Tauro ilumina el eje entre tu identidad (ca
+ sa 1) y tus vínculos (casa 7)\, tocando directamente a Chiron\, tu herida
+  más íntima sobre sentirte suficiente. Venus\, regenta de esta luna\, tr
+ ansita también tu casa 7 en tensión con la Luna\, mostrando que algo en 
+ una relación te confronta con una vieja herida de autoestima\, la misma q
+ ue Venus —regente de tu casa de trabajo y valor personal— conoce bien.
+  Es momento de culminar\, no de reabrir. Esta luna cierra el ciclo de la l
+ una nueva de Tauro del 16 de mayo: vuelve a leer qué intención pusiste e
+ ntonces sobre tu autonomía o tu cuerpo\, y observa qué de eso ya se ha c
+ umplido a través de tus vínculos actuales. → ¿Qué herida antigua pue
+ des finalmente soltar gracias a lo vivido en pareja este año?\n\n— Dato
+  técnico: Luna llena · 2°45' Tauro · casa 1 · exacto 26/10 05:11
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 cerrar un ciclo de herida y vínculo
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ tensión entre lo que dices y lo que sientes
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20260926T161542Z
+UID:e574e70d64cedbbc04cdf963@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:El Sol\, desde tu casa de vínculos\, tensiona a tu Mercurio n
+ atal en casa 5. Puede que sientas fricción entre expresar tu verdad creat
+ iva o emocional y adaptarte a lo que la relación pide de ti. Es un buen d
+ ía para hablar desde el corazón sin perder autenticidad\, aunque incomod
+ e un poco. → ¿Puedes decir lo que sientes sin diluir quién eres?\n\n
+ — Dato técnico: Sol (3°19' Escorpio\, casa 7) cuadratura tu Mercurio n
+ atal (3°19' Leo\, casa 5) · exacto 26/10 18:45
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ tensión entre lo que dices y lo que sientes
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
