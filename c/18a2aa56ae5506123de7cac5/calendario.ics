@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//jentm1-arch.github.io/calendario-astral//ES
+X-WR-CALNAME:My Astro Calendar · Soul Friendly
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:📖 How to read your calendar · Soul Friendly
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260927T133127Z
+UID:legend-c016-v2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Each event has an emoji that tells you what it's about:\n\n
+ 🔥 action & energy\n💬 communication & decisions\n💗 love\, pleasure
+  & money\n🍀 growth & luck\n🧱 commitment & effort\n⚡ sudden change
+ \n🌫️ intuition (or confusion)\n🌋 deep transformation\n☀️ ident
+ ity & vitality\n🌑 New Moon: time to begin\n🌕 Full Moon: time to clos
+ e\n🌘 eclipse\n\nOpen each event to read your personal interpretation. A
+ t the end you'll find the technical detail\, in case you want to learn.\n
+ \n—\n✨ A product created by Soul Friendly\nhttps://mi-calendario-astra
+ l.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🍀 Growth stretches your home comforts · until Sep 28
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260927T133127Z
+UID:0b1f57edca955ad70e26448c@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:For these three weeks\, growth-oriented Jupiter nudges against
+  your natal Venus in your house of home and roots\, while activating your 
+ house of partnerships. You might feel pulled between expanding through a r
+ elationship or client\, and staying loyal to your comfort zone at home. Th
+ is isn't a crisis\, it's an invitation to widen what feels safe. Notice if
+  you're saying yes to growth or shrinking back out of habit.\n\n— Techni
+ cal detail: Jupiter within orb of square your Venus natal (house 4) · exa
+ ct: 16/09/26\n\n(until Sep 28)\n\n—\n✨ A product created by Soul Frien
+ dly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏹️ Ends · 🍀 Growth stretches your home comforts
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260927T133127Z
+UID:2cb9ca612400fbb8e58742b7@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:The stretch between comfort and expansion eases now — notice
+  what you learned about your own flexibility.\n\n— Technical detail: Jup
+ iter within orb of square your Venus natal (house 4) · exact: 16/09/26\n
+ \n—\n✨ A product created by Soul Friendly\nhttps://mi-calendario-astra
+ l.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏹️ Ends · 🍀 Growth stretches your home comforts
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 Drive building around your voice · until Sep 28
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260927T133127Z
+UID:b11a7e3bbeab249d060dbdf7@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:You're starting to feel restless energy build around how you s
+ peak up and where you're headed. This links to your communication house an
+ d your North Node\, your growth path. Something wants to be said or decide
+ d\, but the full push isn't here yet. Use these days to notice the frictio
+ n — where do you hold back words that want to come out? → Journal one 
+ thing you've been avoiding saying out loud.\n\n— Technical detail: Mars 
+ approaching square your North Node natal (house 3) · exact 28/09\n\n(unti
+ l Sep 28)\n\n—\n✨ A product created by Soul Friendly\nhttps://mi-calen
+ dario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 Drive building around your voice · until Sep 28
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏹️ Ends · 🔥 Drive building around your voice
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260927T133127Z
+UID:2070c90f6981aa57292bbe35@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:\n\n— Technical detail: Mars approaching square your North N
+ ode natal (house 3) · exact 28/09\n\n—\n✨ A product created by Soul F
+ riendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏹️ Ends · 🔥 Drive building around your voice
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 A call to balance thinking and doing
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DTSTAMP:20260927T133127Z
+UID:c5325ce3b6cdee896a6e7cd2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercury opposes your Sun today\, pulling your attention betwee
+ n big-picture ideas (house 9: travel\, philosophy\, learning) and your cor
+ e identity and voice (house 3: communication). You may feel torn between t
+ wo viewpoints — yours and someone else's. This is a chance to integrate 
+ rather than pick a side. → Ask: what belief of mine needs updating after
+  hearing this other perspective?\n\n— Technical detail: Mercury (25°46'
+  Libra\, house 9) opposition your Sun natal (25°46' Aries\, house 3) · e
+ xact 27/09 11:23\n\n—\n✨ A product created by Soul Friendly\nhttps://m
+ i-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 A call to balance thinking and doing
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Friction pushes you to speak your truth
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260927T133127Z
+UID:f44d732a324ca8fc4ba9c799@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mars now exactly squares your North Node\, the point that show
+ s your growth direction. It happens between your house of partnerships and
+  your house of self-expression and communication. Tension with someone els
+ e may reveal where you've been too passive about your own path. This frict
+ ion is fuel\, not failure. → Where in a current relationship do you need
+  to assert your direction more clearly?\n\n— Technical detail: Mars (29
+ °59' Cancer\, house 7) square your North Node natal (29°59' Aries\, hous
+ e 3) · exact 28/09 04:11\n\n—\n✨ A product created by Soul Friendly\n
+ https://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Friction pushes you to speak your truth
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🧱 Steady work on emotional habits · until Nov 10
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260927T133127Z
+UID:a90c8eafc74e2bb9e127f5c5@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:For about six weeks\, disciplined Saturn presses against your 
+ Moon\, your emotional core\, while moving through your house of communicat
+ ion and daily environment. This is a slow\, structural process: old emotio
+ nal habits or reactions get tested by real responsibilities. It's not comf
+ ortable\, but it's building resilience. Expect moments where you must choo
+ se maturity over your first emotional impulse. → Notice one recurring fe
+ eling and ask what responsibility would look like instead.\n\n— Technica
+ l detail: Saturn within orb of square your Moon natal (house 6) · exact: 
+ 17/10/26\n\n(until Nov 10)\n\n—\n✨ A product created by Soul Friendly
+ \nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🧱 Steady work on emotional habits · until Nov 10
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🧱 Steady work on emotional habits · until Nov 10
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20260927T133127Z
+UID:adb7b07ad01f7b4b642eb7c2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor about six 
+ weeks\, disciplined Saturn presses against your Moon\, your emotional core
+ \, while moving through your house of communication and daily environment.
+  This is a slow\, structural process: old emotional habits or reactions ge
+ t tested by real responsibilities. It's not comfortable\, but it's buildin
+ g resilience. Expect moments where you must choose maturity over your firs
+ t emotional impulse. → Notice one recurring feeling and ask what respons
+ ibility would look like instead.\n\n— Technical detail: Saturn within or
+ b of square your Moon natal (house 6) · exact: 17/10/26\n\n—\n✨ A pro
+ duct created by Soul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🧱 Steady work on emotional habits · until Nov 10
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20260927T133127Z
+UID:5c9de63d033e6adc55cba634@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor about six 
+ weeks\, disciplined Saturn presses against your Moon\, your emotional core
+ \, while moving through your house of communication and daily environment.
+  This is a slow\, structural process: old emotional habits or reactions ge
+ t tested by real responsibilities. It's not comfortable\, but it's buildin
+ g resilience. Expect moments where you must choose maturity over your firs
+ t emotional impulse. → Notice one recurring feeling and ask what respons
+ ibility would look like instead.\n\n— Technical detail: Saturn within or
+ b of square your Moon natal (house 6) · exact: 17/10/26\n\n—\n✨ A pro
+ duct created by Soul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🧱 Steady work on emotional habits · until Nov 10
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260927T133127Z
+UID:21870a843b6fe3c05cbc7ab0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor about six 
+ weeks\, disciplined Saturn presses against your Moon\, your emotional core
+ \, while moving through your house of communication and daily environment.
+  This is a slow\, structural process: old emotional habits or reactions ge
+ t tested by real responsibilities. It's not comfortable\, but it's buildin
+ g resilience. Expect moments where you must choose maturity over your firs
+ t emotional impulse. → Notice one recurring feeling and ask what respons
+ ibility would look like instead.\n\n— Technical detail: Saturn within or
+ b of square your Moon natal (house 6) · exact: 17/10/26\n\n—\n✨ A pro
+ duct created by Soul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🧱 Steady work on emotional habits · until Nov 10
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20260927T133127Z
+UID:9ff75574fc1d737d4017adc9@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor about six 
+ weeks\, disciplined Saturn presses against your Moon\, your emotional core
+ \, while moving through your house of communication and daily environment.
+  This is a slow\, structural process: old emotional habits or reactions ge
+ t tested by real responsibilities. It's not comfortable\, but it's buildin
+ g resilience. Expect moments where you must choose maturity over your firs
+ t emotional impulse. → Notice one recurring feeling and ask what respons
+ ibility would look like instead.\n\n— Technical detail: Saturn within or
+ b of square your Moon natal (house 6) · exact: 17/10/26\n\n—\n✨ A pro
+ duct created by Soul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Clarity on your growth path arrives
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260927T133127Z
+UID:1aa7d55d1a22a30196aff078@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercury opposes your North Node exactly\, bridging your house 
+ of expansion and beliefs with your house of voice and direction. A convers
+ ation\, idea\, or piece of information could clarify where you're meant to
+  be heading. Listen especially to outside perspectives that challenge your
+  current view — they may hold the missing piece. → What has someone sa
+ id recently that you dismissed too quickly?\n\n— Technical detail: Mercu
+ ry (29°59' Libra\, house 9) opposition your North Node natal (29°59' Ari
+ es\, house 3) · exact 30/09 13:27\n\n—\n✨ A product created by Soul F
+ riendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Clarity on your growth path arrives
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 Ambition tension is building · until Oct 14
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260927T133127Z
+UID:0778fa461010e75bac401b86@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Over these two weeks\, Mars slowly builds tension toward your 
+ Midheaven\, the point of career and public image. You may start feeling im
+ patient about your direction or recognition at work. This energy isn't ful
+ ly exact yet\, so use it to identify what you want to push for\, rather th
+ an reacting impulsively. → What career move have you been putting off as
+ serting?\n\n— Technical detail: Mars approaching square your Midheaven n
+ atal (house 10) · exact 14/10\n\n(until Oct 14)\n\n—\n✨ A product cre
+ ated by Soul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 Ambition tension is building · until Oct 14
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🔥 Ambition tension is building · until Oct 14
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+DTSTAMP:20260927T133127Z
+UID:bf1966422494c1f389cf6f1d@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nOver these two
+  weeks\, Mars slowly builds tension toward your Midheaven\, the point of c
+ areer and public image. You may start feeling impatient about your directi
+ on or recognition at work. This energy isn't fully exact yet\, so use it t
+ o identify what you want to push for\, rather than reacting impulsively. 
+ → What career move have you been putting off asserting?\n\n— Technical
+  detail: Mars approaching square your Midheaven natal (house 10) · exact 
+ 14/10\n\n—\n✨ A product created by Soul Friendly\nhttps://mi-calendari
+ o-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏹️ Ends · 🔥 Ambition tension is building
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260927T133127Z
+UID:fdc5d665cd3be1b813afced4@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:\n\n— Technical detail: Mars approaching square your Midheav
+ en natal (house 10) · exact 14/10\n\n—\n✨ A product created by Soul F
+ riendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏹️ Ends · 🔥 Ambition tension is building
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ New season for expansion and learning
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+DTSTAMP:20260927T133127Z
+UID:4733b632ccc135e53d256baa@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:The Sun enters your house of expansion\, travel\, studies\, an
+ d beliefs\, opening a new season of seeking bigger horizons. For the next 
+ month\, your vitality shifts toward learning\, exploring philosophies\, or
+  planning journeys\, literal or mental. This house also touches how you ma
+ ke meaning of things. Let yourself get curious about a subject or place ou
+ tside your usual scope. → What idea or trip have you been wanting to exp
+ lore but kept postponing?\n\n— Technical detail: Sun enters your house 9
+  · 01/10 18:39\n\n—\n✨ A product created by Soul Friendly\nhttps://mi
+ -calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ New season for expansion and learning
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Confronting hidden drive and rest
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20260927T133127Z
+UID:35966a0409e15e5c44a35a09@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:The Sun squares your natal Mars today\, connecting your house 
+ of exploration and beliefs with your house of rest and the unconscious. Yo
+ u might feel an inner clash between wanting to charge forward and needing 
+ quiet withdrawal. Mars here lives in a private\, internal way for you\, so
+  this tension may show up as restlessness you can't quite explain. → Whe
+ re could you channel restless energy into rest instead of forcing action?
+ \n\n— Technical detail: Sun (9°00' Libra\, house 9) square your Mars na
+ tal (9°00' Capricorn\, house 12) · exact 02/10 06:36\n\n—\n✨ A produ
+ ct created by Soul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Confronting hidden drive and rest
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Love and values turn inward to review
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260927T133127Z
+UID:4d49840eb0d9c7f6a46e1922@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Venus turns retrograde in your house of expansion and beliefs
+ \, starting a six-week review of what you truly value in connection\, mean
+ ing\, and growth. This is a natural pause\, not a loss. Avoid finalizing b
+ ig commitments in love or spending on travel-related plans until Venus mov
+ es forward again. Old themes or people from this life area may resurface f
+ or closure. → What belief about love or worth are you ready to revisit?
+ \n\n— Technical detail: Venus retrograde · 8°29' Scorpio · house 9 ·
+  03/10 09:15\n\n—\n✨ A product created by Soul Friendly\nhttps://mi-ca
+ lendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Love and values turn inward to review
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💗 Reviewing values and connections · until Nov 14
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260927T133127Z
+UID:e735d5df0b54c28f3bf923f0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:For six weeks\, Venus retrogrades through your house of philos
+ ophy\, travel\, and expansion\, pulling you to reconsider what truly feels
+  valuable\, whether in relationships\, beauty\, or beliefs about growth. A
+ void major financial or romantic commitments tied to distant plans during 
+ this window\; instead\, revisit unfinished feelings or reconnect with valu
+ es you may have outgrown or underestimated. This is inner recalibration\, 
+ not stagnation. → What did you value a year ago that no longer fits?\n\n
+ — Technical detail: Venus retrograde · 8°29' Scorpio → 22°51' Libra
+  · house 9\n\n(until Nov 14)\n\n—\n✨ A product created by Soul Friend
+ ly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💗 Reviewing values and connections · until Nov 14
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Reviewing values and connections · until Nov 14
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260927T133127Z
+UID:dd269bcf507f189933792afa@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor six weeks
+ \, Venus retrogrades through your house of philosophy\, travel\, and expan
+ sion\, pulling you to reconsider what truly feels valuable\, whether in re
+ lationships\, beauty\, or beliefs about growth. Avoid major financial or r
+ omantic commitments tied to distant plans during this window\; instead\, r
+ evisit unfinished feelings or reconnect with values you may have outgrown 
+ or underestimated. This is inner recalibration\, not stagnation. → What 
+ did you value a year ago that no longer fits?\n\n— Technical detail: Ven
+ us retrograde · 8°29' Scorpio → 22°51' Libra · house 9\n\n—\n✨ A
+  product created by Soul Friendly\nhttps://mi-calendario-astral.netlify.ap
+ p
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Reviewing values and connections · until Nov 14
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DTSTAMP:20260927T133127Z
+UID:175ae7cb36300bfaa17e98d9@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor six weeks
+ \, Venus retrogrades through your house of philosophy\, travel\, and expan
+ sion\, pulling you to reconsider what truly feels valuable\, whether in re
+ lationships\, beauty\, or beliefs about growth. Avoid major financial or r
+ omantic commitments tied to distant plans during this window\; instead\, r
+ evisit unfinished feelings or reconnect with values you may have outgrown 
+ or underestimated. This is inner recalibration\, not stagnation. → What 
+ did you value a year ago that no longer fits?\n\n— Technical detail: Ven
+ us retrograde · 8°29' Scorpio → 22°51' Libra · house 9\n\n—\n✨ A
+  product created by Soul Friendly\nhttps://mi-calendario-astral.netlify.ap
+ p
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Reviewing values and connections · until Nov 14
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260927T133127Z
+UID:3138101e3bfb0b160243ff20@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor six weeks
+ \, Venus retrogrades through your house of philosophy\, travel\, and expan
+ sion\, pulling you to reconsider what truly feels valuable\, whether in re
+ lationships\, beauty\, or beliefs about growth. Avoid major financial or r
+ omantic commitments tied to distant plans during this window\; instead\, r
+ evisit unfinished feelings or reconnect with values you may have outgrown 
+ or underestimated. This is inner recalibration\, not stagnation. → What 
+ did you value a year ago that no longer fits?\n\n— Technical detail: Ven
+ us retrograde · 8°29' Scorpio → 22°51' Libra · house 9\n\n—\n✨ A
+  product created by Soul Friendly\nhttps://mi-calendario-astral.netlify.ap
+ p
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Belief meets emotional truth
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DTSTAMP:20260927T133127Z
+UID:1de9f68564c05118d260a23d@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:The Sun squares your Moon exactly today\, creating tension bet
+ ween your need for expansive meaning (house 9) and your emotional\, daily-
+ life foundation (house 6). You might feel torn between a bigger vision and
+  practical\, emotional needs at home or work. Rather than choosing one\, n
+ otice how they inform each other. → How can today's routine serve tomorr
+ ow's bigger picture?\n\n— Technical detail: Sun (10°16' Libra\, house 9
+ ) square your Moon natal (10°16' Cancer\, house 6) · exact 03/10 13:29\n
+ \n—\n✨ A product created by Soul Friendly\nhttps://mi-calendario-astra
+ l.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Belief meets emotional truth
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Words that shape your reputation
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20260927T133127Z
+UID:a6bdf82b4c5c84f45c14e296@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercury lands right on your Midheaven\, the point of your care
+ er and public image. This is a day for clear conversations about your dire
+ ction — an email\, a meeting\, a decision about how you present yourself
+  professionally. Since your Midheaven sits in Scorpio\, avoid surface talk
+ : say what really matters. Words spoken now carry weight and can shift how
+  others see your path forward.\n→ What do you need to say out loud about
+  your career right now?\n\n— Technical detail: Mercury (9°27' Scorpio\,
+  house 10) conjunction your Midheaven natal (9°27' Scorpio\, house 10) ·
+  exact 08/10 03:51\n\n—\n✨ A product created by Soul Friendly\nhttps:/
+ /mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Words that shape your reputation
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌑 New Moon: expanding your horizons
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20260927T133127Z
+UID:b9c55aae28350922b665b2bc@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:This New Moon lights up your house of expansion\, studies\, tr
+ avel and big-picture thinking — the same house where your Pluto lives\, 
+ so any intention here touches something deep. Venus\, ruling this Moon\, i
+ s also transiting that house\, adding a layer of pleasure and values to wh
+ atever you're beginning. It's a moment to ask: what do I want to believe i
+ n next? What horizon am I ready to reach for?\nTry intentions like: 'I com
+ mit to exploring one new subject that expands my worldview\,' 'I commit to
+  planning a trip or experience that stretches me\,' or 'I commit to reconn
+ ecting with my personal philosophy of life.' You'll revisit this intention
+  at the Full Moon in Libra on 2027-03-22.\n→ What truth do you want to e
+ xpand into over these months?\n\n— Technical detail: New Moon · 17°21'
+  Libra · house 9 · exact 10/10 17:50\n\n—\n✨ A product created by So
+ ul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌑 New Moon: expanding your horizons
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Review your New Moon intention from Oct 10
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DTSTAMP:20260927T133127Z
+UID:9f59e7ffdfbbcea6865f9d53@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Today\, with the Full Moon in the same sign\, the cycle you be
+ gan at the New Moon of Oct 10 comes full circle. Reread the intention you 
+ wrote: what has blossomed? what do you release? what do you adjust?\n\n—
+  New Moon: expanding your horizons\nThis New Moon lights up your house of 
+ expansion\, studies\, travel and big-picture thinking — the same house w
+ here your Pluto lives\, so any intention here touches something deep. Venu
+ s\, ruling this Moon\, is also transiting that house\, adding a layer of p
+ leasure and values to whatever you're beginning. It's a moment to ask: wha
+ t do I want to believe in next? What horizon am I ready to reach for?\nTry
+  intentions like: 'I commit to exploring one new subject that expands my w
+ orldview\,' 'I commit to planning a trip or experience that stretches me\,
+ ' or 'I commit to reconnecting with my personal philosophy of life.' You'l
+ l revisit this intention at the Full Moon in Libra on 2027-03-22.\n→ Wha
+ t truth do you want to expand into over these months?\n\n—\n✨ A produc
+ t created by Soul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 Review your New Moon intention from Oct 10
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Tension between beliefs and self-image
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20260927T133127Z
+UID:e319fcb22e91f4cfede995fd@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:The Sun in your house of expansion squares your Ascendant\, th
+ e way you show up in the world. You may feel pulled between wanting to gro
+ w\, explore or speak your truth\, and staying true to your grounded\, capa
+ ble image. This isn't a conflict to fix quickly — it's friction that bui
+ lds character. Let your evolving beliefs quietly reshape how you present y
+ ourself\, without forcing an answer today.\n→ Where is your outer image 
+ outdated compared to what you now believe?\n\n— Technical detail: Sun (1
+ 9°37' Libra\, house 9) square your Ascendant natal (19°37' Capricorn\, h
+ ouse 1) · exact 13/10 00:42\n\n—\n✨ A product created by Soul Friendl
+ y\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Tension between beliefs and self-image
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Bold moves supported by discipline
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260927T133127Z
+UID:04c0968dfb36eca8e7c2b3a5@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mars trines your natal Saturn\, your chart ruler\, creating an
+  easy flow between action and structure. Mars is passing through your hous
+ e of partnerships\, so this support may show up in how you assert yourself
+  with others — a client\, a partner\, someone you negotiate with. Saturn
+  in your house of community backs you with steady confidence. This is a go
+ od window to act on something you've been patiently building.\n→ What pa
+ tient effort is finally ready for a confident push?\n\n— Technical detai
+ l: Mars (9°05' Leo\, house 7) trine your Saturn natal (9°05' Sagittarius
+ \, house 11) · exact 14/10 02:00\n\n—\n✨ A product created by Soul Fr
+ iendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Bold moves supported by discipline
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 Rising friction around home and self-worth · until Oc
+ t 28
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260927T133127Z
+UID:2c3dccbad8439cdb91d3c135@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Over these two weeks\, Mars slowly builds toward a square with
+  your natal Venus in your house of home and family. You might feel more re
+ stless or reactive about domestic matters\, money\, or how you value yours
+ elf in close relationships — even before anything peaks. Notice where ir
+ ritation is quietly growing. Use the energy to address what's overdue rath
+ er than letting it explode.\n→ What tension at home has been simmering q
+ uietly?\n\n— Technical detail: Mars approaching square your Venus natal 
+ (house 4) · exact 28/10\n\n(until Oct 28)\n\n—\n✨ A product created b
+ y Soul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 Rising friction around home and self-worth · unti
+ l Oct 28
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🔥 Rising friction around home and self-worth · until Oct 
+ 28
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20260927T133127Z
+UID:ed56832b44728008cc2ffb44@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nOver these two
+  weeks\, Mars slowly builds toward a square with your natal Venus in your 
+ house of home and family. You might feel more restless or reactive about d
+ omestic matters\, money\, or how you value yourself in close relationships
+  — even before anything peaks. Notice where irritation is quietly growin
+ g. Use the energy to address what's overdue rather than letting it explode
+ .\n→ What tension at home has been simmering quietly?\n\n— Technical d
+ etail: Mars approaching square your Venus natal (house 4) · exact 28/10\n
+ \n—\n✨ A product created by Soul Friendly\nhttps://mi-calendario-astra
+ l.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏹️ Ends · 🔥 Rising friction around home and self-worth
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20260927T133127Z
+UID:42e37bf7594df055eaddd5ec@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:The peak has passed — look back at what surfaced around home
+ \, worth or relationships\, and choose what to carry forward calmly.\n\n
+ — Technical detail: Mars approaching square your Venus natal (house 4) 
+ · exact 28/10\n\n—\n✨ A product created by Soul Friendly\nhttps://mi-
+ calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:⏹️ Ends · 🔥 Rising friction around home and self-worth
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Push and pull with your career path
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260927T133127Z
+UID:f9a8165b914ecbaa3abfdaae@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mars squares your Midheaven\, stirring restlessness about your
+  direction and public role\, while it moves through your house of partners
+ hips. You may feel impatient with how a collaboration or relationship is a
+ ffecting your professional image. Avoid impulsive career decisions driven 
+ purely by frustration. This friction reveals where you're ready to assert 
+ more authority.\n→ Where do you need to advocate more firmly for your pr
+ ofessional path?\n\n— Technical detail: Mars (9°27' Leo\, house 7) squa
+ re your Midheaven natal (9°27' Scorpio\, house 10) · exact 14/10 18:31\n
+ \n—\n✨ A product created by Soul Friendly\nhttps://mi-calendario-astra
+ l.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Push and pull with your career path
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🧱 Redefining drive and inner boundaries · until Feb 4\,
+  2027
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20260927T133127Z
+UID:750fe752ab3454fd62f6aab6@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:For several months\, Saturn forms a slow square to your natal 
+ Mars\, hidden in your house of rest and inner processing\, while transitin
+ g your house of communication. This is a quiet\, internal test of willpowe
+ r — you may feel your usual drive blocked or needing more discipline tha
+ n usual\, especially around how you speak up or assert your needs. It's no
+ t punishment\, it's refinement: learning where your energy needs boundarie
+ s and where it needs patience. Avoid forcing action when rest or reflectio
+ n is what's actually needed.\n→ Where is life asking you to channel your
+  energy more deliberately?\n\n— Technical detail: Saturn within orb of s
+ quare your Mars natal (house 12) · exact: 05/11/26\, 14/01/27\n\n(until F
+ eb 4\, 2027)\n\n—\n✨ A product created by Soul Friendly\nhttps://mi-ca
+ lendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🧱 Redefining drive and inner boundaries · until Feb
+  4\, 2027
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 🧱 Redefining drive and inner boundaries · until Feb 4\, 2
+ 027
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20260927T133127Z
+UID:8c6cb7cf0c21140641a1817a@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\nFor several mo
+ nths\, Saturn forms a slow square to your natal Mars\, hidden in your hous
+ e of rest and inner processing\, while transiting your house of communicat
+ ion. This is a quiet\, internal test of willpower — you may feel your us
+ ual drive blocked or needing more discipline than usual\, especially aroun
+ d how you speak up or assert your needs. It's not punishment\, it's refine
+ ment: learning where your energy needs boundaries and where it needs patie
+ nce. Avoid forcing action when rest or reflection is what's actually neede
+ d.\n→ Where is life asking you to channel your energy more deliberately?
+ \n\n— Technical detail: Saturn within orb of square your Mars natal (hou
+ se 12) · exact: 05/11/26\, 14/01/27\n\n—\n✨ A product created by Soul
+  Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Clashing views on relationships and values
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20260927T133127Z
+UID:9a9ae461849fde5feba9f19d@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercury opposes your natal Venus\, creating a conversation —
+  or an inner debate — between your career image (house 10) and your sens
+ e of home and personal values (house 4). Something might come up about how
+  you communicate your worth to others\, or a disagreement about values in 
+ a close relationship. Listen more than you defend today.\n→ What honest 
+ conversation about values have you been avoiding?\n\n— Technical detail:
+  Mercury (16°51' Scorpio\, house 10) opposition your Venus natal (16°51'
+  Taurus\, house 4) · exact 15/10 13:09\n\n—\n✨ A product created by S
+ oul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Clashing views on relationships and values
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌋 Moving forward after deep inner change
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20260927T133127Z
+UID:b63d6376be8215d580faf8f6@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Pluto turns direct in your house of identity\, marking the end
+  of a long inward review of who you are becoming. What felt stuck or inten
+ se over recent months regarding your sense of self can now start moving fo
+ rward again. You're not the same person who started this process — trust
+  the transformation and step into it.\n→ How has your sense of self quie
+ tly shifted these past months?\n\n— Technical detail: Pluto direct · 3
+ °04' Aquarius · house 1 · 16/10 04:40\n\n—\n✨ A product created by 
+ Soul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌋 Moving forward after deep inner change
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Healing through creative confidence
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20260927T133127Z
+UID:2a338244220981abcdc5dde5@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mars makes an easy sextile to your natal Chiron\, the wound ar
+ ound self-expression and creativity in your house of romance and projects.
+  Passing through your house of partnerships\, Mars gives you courage to be
+  seen — perhaps through a creative project\, a playful risk\, or standin
+ g up for a relationship that matters. Old insecurities about not being eno
+ ugh soften today.\n→ What creative part of you is ready to be shown with
+ out apology?\n\n— Technical detail: Mars (11°16' Leo\, house 7) sextile
+  your Chiron natal (11°16' Gemini\, house 5) · exact 18/10 01:51\n\n—
+ \n✨ A product created by Soul Friendly\nhttps://mi-calendario-astral.net
+ lify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Healing through creative confidence
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Balancing identity and communication
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260927T133127Z
+UID:3673a653c8f8214710229147@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:The Sun opposes your natal Sun from your house of expansion\, 
+ shining light on your house of communication and self-expression. This is 
+ a mini-birthday-like tension: your core identity feels stretched between y
+ our everyday voice and your bigger beliefs. A relationship or perspective 
+ from someone else may help you see yourself more clearly.\n→ What does s
+ omeone else's viewpoint reveal about who you're becoming?\n\n— Technical
+  detail: Sun (25°46' Libra\, house 9) opposition your Sun natal (25°46' 
+ Aries\, house 3) · exact 19/10 05:30\n\n—\n✨ A product created by Sou
+ l Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Balancing identity and communication
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Aligning purpose with your true path
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20260927T133127Z
+UID:4f74a420b1f3aa0b60deada3@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:The Sun opposes your North Node\, the point of your soul's gro
+ wth\, right at the edge of your house of expansion and your house of commu
+ nication. This highlights a choice between the comfortable\, familiar way 
+ you express yourself and the growth path you're meant to be walking. Notic
+ e where you're playing small out of habit.\n→ What familiar pattern is i
+ t time to finally outgrow?\n\n— Technical detail: Sun (29°59' Libra\, h
+ ouse 9) opposition your North Node natal (29°59' Aries\, house 3) · exac
+ t 23/10 11:15\n\n—\n✨ A product created by Soul Friendly\nhttps://mi-c
+ alendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Aligning purpose with your true path
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Slow down before big career moves
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260927T133127Z
+UID:0cb53600ac37773a21fe97aa@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Mercury turns retrograde right on your career point\, in the h
+ ouse of your vocation and public image. Over these weeks\, plans about you
+ r direction\, your reputation\, or how others see your work may need a sec
+ ond look. Don't sign\, announce\, or launch anything career-related in a r
+ ush now — go back over the details first. This is a moment to reconsider
+  your professional path more than to push it forward.\n→ What career dec
+ ision deserves more thought before you finalize it?\n\n— Technical detai
+ l: Mercury retrograde · 20°58' Scorpio · house 10 · 24/10 09:12\n\n—
+ \n✨ A product created by Soul Friendly\nhttps://mi-calendario-astral.net
+ lify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Slow down before big career moves
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💬 Review your direction before moving forward · until N
+ ov 13
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20260927T133127Z
+UID:c0b589ca12933055fbc4e748@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:For three weeks\, Mercury moves backward through your career h
+ ouse and then into your house of expansion and beliefs. This is a season t
+ o revisit rather than launch: recheck contracts\, resend messages that may
+  have gotten lost\, and reconsider assumptions about where you're headed p
+ rofessionally or philosophically. Avoid big public statements or agreement
+ s you haven't slept on. Old conversations or opportunities linked to studi
+ es\, travel\, or long-term vision may resurface — listen to what they're
+  telling you.\n→ Use this time to reflect\, not to rush your next big mo
+ ve.\n\n— Technical detail: Mercury retrograde · 20°58' Scorpio → 5°
+ 02' Scorpio · house 10→9\n\n(until Nov 13)\n\n—\n✨ A product create
+ d by Soul Friendly\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💬 Review your direction before moving forward · unt
+ il Nov 13
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Rethink a key relationship direction
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20260927T133127Z
+UID:77fb0ae960253581f5b7ca57@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Retrograde Venus stands opposite the destined point of your gr
+ owth\, activating the tension between your house of expansion (learning\, 
+ travel\, beliefs) and your house of communication and close connections. S
+ ome relationship or shared value may ask you to reconsider what truly alig
+ ns with your path forward. This isn't about forcing change\, but about not
+ icing where you've been avoiding an honest conversation with yourself.\n
+ → Where do you need to realign your relationships with your true directi
+ on?\n\n— Technical detail: Venus ℞ (29°59' Libra\, house 9) oppositio
+ n your North Node natal (29°59' Aries\, house 3) · exact 25/10 10:46\n\n
+ —\n✨ A product created by Soul Friendly\nhttps://mi-calendario-astral.
+ netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Rethink a key relationship direction
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Reflect on words\, ideas\, and your bigger vision
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20260927T133127Z
+UID:c8c617c99b06f41694e5eb64@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:This Full Moon lights up the axis between your house of commun
+ ication and learning and your house of expansion\, beliefs\, and long jour
+ neys — and it lands right on your destined growth point in Aries\, the N
+ orth Node. It's a culmination: something you've been building toward throu
+ gh conversations\, writing\, or daily connections now meets a bigger truth
+  about where you're meant to grow. Retrograde Venus\, currently transiting
+  your expansion house\, opposes this Moon exactly\, asking you to review w
+ hat you value in how you communicate and relate to others — especially s
+ ince Venus also rules your natal house of home and roots. This echoes the 
+ New Moon intention you set in Taurus back in May: what did you commit to a
+ bout your voice\, your ideas\, or your surroundings? Now is the moment to 
+ see what came true\, and let go of what didn't fit.\n→ Look back at your
+  May intention — what needs releasing\, and what deserves to continue?\n
+ \n— Technical detail: Full Moon · 2°45' Taurus · house 3 · exact 26/
+ 10 05:11\n\n—\n✨ A product created by Soul Friendly\nhttps://mi-calend
+ ario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 Reflect on words\, ideas\, and your bigger vision
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
