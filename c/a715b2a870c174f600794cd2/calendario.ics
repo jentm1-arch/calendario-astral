@@ -6,32 +6,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:📖 Cómo leer tu calendario
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-DTSTAMP:20261002T075500Z
-UID:legend-c023-v2@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Cada evento tiene un emoji que te dice de qué va:\n\n🔥 acc
- ión y energía\n💬 comunicación y decisiones\n💗 amor\, relaciones y
-  placer\n💸 dinero\, valor y talentos\n🍀 crecimiento y suerte\n🧱 c
- ompromiso y esfuerzo\n⚡ cambios repentinos\n🌫️ intuición (o confus
- ión)\n🌋 transformación profunda\n☀️ identidad y vitalidad\n🌑 L
- una nueva: momento de empezar\n🌕 Luna llena: momento de cerrar\n🌘 ec
- lipse y temporada de eclipses\n☂️ sombra antes de un retrógrado (junt
- o al icono del planeta)\n🗓️ resumen del mes (el día 1)\n\nEl emoji j
- unto a «Actualizado» (🍇\, 🐝…) cambia cuando hay una versión nue
- va de tu calendario.\n\nAbre cada evento para leer tu interpretación pers
- onal. Al final verás el dato técnico\, por si quieres aprender.\n\n—\n
- ✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-calendario-a
- stral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:💗 Venus se detiene antes de mirar atrás · hasta el 5 oct
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:0b62fbc610b7b36f561d8141@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Venus apenas se mueve estos días en tu casa 11\, justo donde 
  vive tu forma de valorar amistades y pertenencia a un grupo. Es el momento
@@ -55,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:🔄 🔥 Tensión con tu círculo cercano · hasta el 15 oct
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:4c2e4d889616d068c86df230@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Durante estas tres semanas sientes una fricción creciente en 
  tu casa 11: amistades\, comunidad o metas grupales te confrontan con algo 
@@ -76,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:▶️ ☂️💬 Prepara lo que vas a revisar · hasta el 22 oct
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:cba682ef575e9a0f7142f33c@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Mercurio empieza a recorrer los grados que después repetirá 
  retrógrado\, en tu casa 11: conversaciones con amigos\, planes de grupo\,
@@ -102,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:💬 Palabras que remueven el fondo
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:b626e896ec4aa8407bdafe51@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Mercurio toca exactamente tu Plutón natal en casa 11: hoy una
   conversación\, un mensaje o una noticia sobre tu comunidad puede ir más
@@ -127,7 +105,7 @@ SUMMARY:▶️ 💗 Venus retrocede: revisa tus vínculos · hasta el 11 n
  ov
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:8ea4fa381ee41dabb4c15a37@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Venus empieza a caminar hacia atrás en tu casa 11\, repasando
   el terreno de tus amistades\, tu comunidad y tus metas compartidas (y toc
@@ -150,795 +128,1240 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔥 Choque entre impulso y control
+SUMMARY:📖 Cómo leer tu calendario
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
+UID:legend-c023-v2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Cada evento tiene un emoji que te dice de qué va:\n\n🔥 acc
+ ión y energía\n💬 comunicación y decisiones\n💗 amor\, relaciones y
+  placer\n💸 dinero\, valor y talentos\n🍀 crecimiento y suerte\n🧱 c
+ ompromiso y esfuerzo\n⚡ cambios repentinos\n🌫️ intuición (o confus
+ ión)\n🌋 transformación profunda\n☀️ identidad y vitalidad\n🌑 L
+ una nueva: momento de empezar\n🌕 Luna llena: momento de cerrar\n🌘 ec
+ lipse y temporada de eclipses\n☂️ sombra antes de un retrógrado (junt
+ o al icono del planeta)\n🗓️ resumen del mes (el día 1)\n\nEl emoji j
+ unto a «Actualizado» (🍇\, 🐝…) cambia cuando hay una versión nue
+ va de tu calendario.\n\nAbre cada evento para leer tu interpretación pers
+ onal.\n\nCómo se lee cada evento:\n🟠 qué está pasando\n🟢 Si te na
+ ce\, haz: sugerencias\, nunca órdenes\n🟡 Si puedes\, evita\n🟣 → u
+ na pregunta para ti\n🔵 Aspecto: el dato astrológico\, por si quieres a
+ prender\n\nSímbolos de la línea «Aspecto»:\n☉ Sol · ☽ Luna · ☿
+  Mercurio · ♀ Venus · ♂ Marte · ♃ Júpiter · ♄ Saturno · ♅ 
+ Urano · ♆ Neptuno · ♇ Plutón · ⚷ Quirón · ☊ Nodo\n☌ conjun
+ ción (se unen) · ☍ oposición (se enfrentan) · □ cuadratura (tensi
+ ón que empuja) · △ trígono (fluye) · ⚹ sextil (oportunidad)\n℞ r
+ etrógrado\n«en casa X» = el área de tu vida donde ocurre · «influye 
+ en» = las áreas que recibe la huella.\n\n—\nIris Calendar\n🐞 Actual
+ izado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:📖 Cómo leer tu calendario
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 El dinero compartido pide acción
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DTSTAMP:20261008T205752Z
 UID:0159c3280065802ada6c5b4b@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Marte hace cuadratura exacta a tu Plutón natal en casa 11: pu
- ede ser un día de roce fuerte con alguien del grupo o de una necesidad in
- tensa de imponer tu punto de vista. Coincide con Mercurio que ya tocó ese
-  mismo punto hace poco\, así que el tema viene calentándose. No se trata
-  de ganar un pulso\, sino de notar dónde quieres controlar algo que en re
- alidad no te pertenece del todo.\n\n→ Antes de reaccionar hoy\, pregúnt
- ate si defiendes un principio o solo tu orgullo.\n\n— Dato técnico: Mar
- te (5°53' Leo\, casa 8) cuadratura tu Plutón natal (5°53' Escorpio\, ca
- sa 11) · exacto 08/10 09:17\n\n—\n✨ Iris Calendar\n🍎 Actualizado e
- l 02/10/2026\nhttps://mi-calendario-astral.netlify.app
+DESCRIPTION:🟠 Marte choca con tu Plutón natal y empuja un tema de fond
+ o: cómo manejas el poder y los recursos compartidos con tu comunidad. Pue
+ de salir como impaciencia o ganas de controlar algo que no depende solo de
+  ti.\n\n🟢 Si te nace\, haz:\n• Haz ejercicio intenso para soltar la t
+ ensión acumulada\n• Anota qué parte de un recurso compartido quieres r
+ ecuperar\n\n🟡 Si puedes\, evita:\n• Forzar una decisión de dinero co
+ mpartido con amistades o socios\n• Entrar en luchas de poder con tu comu
+ nidad\n\n🟣 → Venus\, que rige el dinero compartido con tu comunidad\,
+  está retrógrada hasta el 14 de noviembre: mejor no cerrar nada de eso a
+ hora. ¿Qué necesitas controlar cuando sientes que el poder no está en t
+ us manos?\n\n🔵 Aspecto: ♂ (5°53' Leo\, en casa 8) □ ♇ natal (5°
+ 53' Escorpio\, en casa 11) · exacto 08/10 09:17\nCómo se conecta: origen
+  en casas 2 y 11 → se vive en casa 8 → influye en casa 5 (regida por 
+ ♂) · casa 12 (regida por ♇) · sistema clásico: casas 5 y 12 (regida
+  por ♂)\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://m
+ i-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🔥 Choque entre impulso y control
-TRIGGER:PT9H
+DESCRIPTION:🔥 El dinero compartido pide acción
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:▶️ 🔥 El deseo y el valor propio se tensan · hasta el 28 oc
- t
+SUMMARY:▶️ 🔥 Choque entre valores y expansión · hasta el 28 oct
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:24fbc4729632d87c52191f26@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Durante estas tres semanas Marte presiona tu Venus natal en ca
- sa 11\, justo mientras Venus está retrógrada ahí mismo: se mezcla el im
- pulso de actuar ya con la necesidad de revisar qué valoras de verdad en t
- us amistades y en tu economía compartida. Puede aparecer impaciencia por 
- resolver algo de dinero o un vínculo que no avanza. Mejor usa esta energ
- ía para ser claro/a sobre tus límites que para forzar una salida rápida
- .\n→ ¿Dónde necesitas más paciencia y dónde más decisión esta temp
- orada?\n\n— Dato técnico: Marte se acerca a cuadratura tu Venus natal (
- casa 11) · exacto 21/10\n\n(hasta el 28 oct)\n\n—\n✨ Iris Calendar\n
- 🍎 Actualizado el 02/10/2026\nhttps://mi-calendario-astral.netlify.app
+DESCRIPTION:🟠 Desde hoy y hasta el 28 de octubre\, con el exacto el 21
+ \, Marte choca con tu Venus natal. Se tensa lo que sientes que vales y lo 
+ que crees que mereces\, justo cuando también buscas expandir tus estudios
+  o tus viajes.\n\n🟢 Si te nace\, haz:\n• Haz una lista de lo que de v
+ erdad valoras en tu comunidad\n• Dale salida física a la frustración c
+ on una caminata larga\n\n🟡 Si puedes\, evita:\n• Prometer de más a a
+ mistades o en proyectos de grupo\n• Tomar decisiones de dinero o pareja 
+ en caliente\n\n🟣 → Venus está retrógrada hasta el 14 de noviembre\,
+  así que conviene revisar antes de decidir nada de pareja o dinero compar
+ tido. Este choque empuja lo que Júpiter y Plutón ya vienen trabajando so
+ bre tu valor propio: ¿qué crees que mereces de tu comunidad que aún no 
+ te has atrevido a pedir?\n\n🔵 Aspecto: ♂ se acerca a □ ♀ natal (e
+ n casa 11) · exacto 21/10\nCómo se conecta: origen en casas 2 y 11 → s
+ e vive en casa 9 → influye en casa 5 (regida por ♂) · casas 6 y 11 (r
+ egida por ♀) · sistema clásico: casa 12 (regida por ♂)\n\n(hasta el 
+ 28 oct)\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-
+ calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:▶️ 🔥 El deseo y el valor propio se tensan · hasta el 2
- 8 oct
-TRIGGER:PT9H
+DESCRIPTION:▶️ 🔥 Choque entre valores y expansión · hasta el 28 o
+ ct
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌋 Plutón retoma su rumbo · hasta el 23 oct
+SUMMARY:🌋 Plutón se detiene en tu dinero · hasta el 23 oct
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:99befa529a14bc5678011b3f@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Plutón se detiene y retoma su marcha hacia delante en tu casa
-  2\, el área del dinero\, el valor propio y tus talentos. Son días de po
- ca acción externa pero mucha fuerza interna: evita decisiones económicas
-  drásticas y usa este tiempo para observar qué ha cambiado en tu relaci
- ón con el dinero y tu autoestima en los últimos meses. Coincide con todo
-  lo que se mueve en tu casa 11\, así que lo personal y lo comunitario est
- án conectados.\n→ ¿Qué creencia sobre tu propio valor ya no te repres
- enta?\n\n— Dato técnico: Plutón estacionario (antes de directo) · 3°
- 04' Acuario · casa 2 · 09/10 – 23/10 (exacto 16/10 04:40)\n\n—\n✨ 
- Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-calendario-astra
- l.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🌋 Plutón retoma su rumbo · hasta el 23 oct
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:☀️ Tu voz se alinea con tu carrera
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-DTSTAMP:20261002T075500Z
-UID:d92e5a4be785f94ccad94a87@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:El Sol toca exactamente tu Mercurio natal en casa 10: un día 
- potente para comunicar quién eres profesionalmente. Puede llegar una conv
- ersación\, propuesta o reconocimiento relacionado con tu imagen pública 
- o vocación. Justo al día siguiente el Sol entra en tu casa 11\, así que
-  esta claridad sobre tu carrera se conecta pronto con tu comunidad: lo que
-  digas hoy puede abrirte puertas en tu red de contactos.\n→ Comparte hoy
-  una idea tuya en voz alta\, no la guardes.\n\n— Dato técnico: Sol (15
- °49' Libra\, casa 10) conjunción tu Mercurio natal (15°49' Libra\, casa
-  10) · exacto 09/10 04:43\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 
- 02/10/2026\nhttps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:☀️ Tu voz se alinea con tu carrera
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:☀️ Entras en modo comunidad
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-DTSTAMP:20261002T075500Z
-UID:8d8c5ae5126d33d01ad4d352@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:El Sol entra en tu casa 11: toca de lleno proyectos de grupo\,
-  amistades y metas a futuro. Buen momento para mostrarte dentro de tu comu
- nidad.\n→ ¿A qué grupo o proyecto quieres dar más visibilidad este me
- s?\n\n— Dato técnico: Sol entra en tu casa 11 · 09/10 12:39\n\n—\n
- ✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-calendario-a
- stral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:☀️ Entras en modo comunidad
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔄 🔥 Tensión con tu círculo cercano · hasta el 15 oct
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-DTSTAMP:20261002T075500Z
-UID:d39f71e0a385e858623a69c8@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nDurante esta
- s tres semanas sientes una fricción creciente en tu casa 11: amistades\, 
- comunidad o metas grupales te confrontan con algo que tienes muy adentro (
- tu Plutón natal) sobre poder\, control o lealtad. Quizá alguien del grup
- o te cuestiona\, o tú mismo/a notas que ya no quieres jugar un rol que an
- tes aceptabas. No es casualidad: coincide con Mercurio y Venus tocando ese
-  mismo punto estos días\, así que todo se concentra ahí. No reprimas la
-  tensión\, úsala para decir lo que de verdad piensas.\n→ ¿Qué víncu
- lo o meta grupal necesita que seas más honesto/a esta semana?\n\n— Dato
-  técnico: Marte se acerca a cuadratura tu Plutón natal (casa 11) · exac
- to 08/10\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps:
- //mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🌑 Luna nueva: siembra en tu tribu
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DTSTAMP:20261002T075500Z
-UID:948b7cbe1ae3e471f8b025d7@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Esta luna nueva en Libra cae en tu casa 11\, con el Sol tambi
- én ahí: es momento de sembrar intenciones sobre tu comunidad\, tus amist
- ades y tus metas a futuro. La Luna hace trígono a tu Luna natal\, lo que 
- facilita conectar con lo que sientes de verdad en tus vínculos\; también
-  se une a tu Mercurio natal\, favoreciendo conversaciones sinceras con tu 
- entorno. La oposición a tu Nodo Norte te recuerda no quedarte en lo cómo
- do del grupo si tu camino pide algo más individual. Venus\, regente de es
- ta luna\, está retrógrada justo en tu casa 11: revisa antes de lanzar na
- da nuevo.\nPrueba con: «Me comprometo a cuidar las amistades que me suman
- »\, «Me comprometo a expresar con honestidad lo que necesito de mi comun
- idad»\, «Me comprometo a dar un paso hacia una meta grupal que vengo pos
- poniendo». Revisarás esto en la luna llena en Libra del 22 de marzo de 2
- 027.\n\n→ Escribe hoy una intención concreta para tu círculo cercano.
- \n\n— Dato técnico: Luna nueva · 17°21' Libra · casa 11 · exacto 10
- /10 17:50\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps
- ://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🌑 Luna nueva: siembra en tu tribu
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:💬 Palabras que tocan tu forma de amar
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-DTSTAMP:20261002T075500Z
-UID:bc548cc063aa9a55d88b0b61@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Mercurio se une exactamente a tu Venus natal en casa 11: día 
- propicio para hablar de lo que valoras en tus amistades y relaciones\, jus
- to mientras Venus sigue retrógrada en ese mismo punto. Puede surgir una c
- onversación reveladora sobre qué esperas de tu comunidad o de alguien ce
- rcano. Como Venus está revisando este terreno\, escucha más de lo que co
- ncluyes hoy.\n→ Pregunta a alguien cercano qué espera realmente de ti.
- \n\n— Dato técnico: Mercurio (13°04' Escorpio\, casa 11) conjunción t
- u Venus natal (13°04' Escorpio\, casa 11) · exacto 11/10 11:25\n\n—\n
- ✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-calendario-a
- stral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:💬 Palabras que tocan tu forma de amar
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔄 💗 Venus retrocede: revisa tus vínculos · hasta el 11 nov
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-DTSTAMP:20261002T075500Z
-UID:aa512fde24633d558bfc18ef@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nVenus empiez
- a a caminar hacia atrás en tu casa 11\, repasando el terreno de tus amist
- ades\, tu comunidad y tus metas compartidas (y tocando tu Plutón y tu pro
- pia Venus natal en el camino). Es momento de revisar\, no de iniciar: no f
- irmes acuerdos económicos nuevos ni declares amor de forma definitiva. S
- í puedes reconectar con vínculos antiguos o entender qué papel juegas r
- ealmente en tu grupo. La claridad llega hacia el 11 de noviembre.\n→ ¿Q
- ué amistad o acuerdo del pasado merece una segunda mirada\, sin prisa?\n
- \n— Dato técnico: Venus retrógrado · 8°29' Escorpio → 22°51' Libr
- a · casa 11\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nht
- tps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:💗 Deseos intensos que piden verdad
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20261002T075500Z
-UID:8354336945bb8c724e2875a7@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Venus retrógrada toca a tu Plutón natal en tu casa 11\, la d
- e amistades\, comunidad y metas compartidas. Puede aflorar algo intenso: c
- elos\, deseo de control\, o una verdad incómoda sobre un vínculo o un gr
- upo al que perteneces. Como Venus va hacia atrás\, es momento de mirar ha
- cia dentro antes que de actuar: ¿qué papel juegas realmente en esa relac
- ión o comunidad? No decidas nada drástico hoy\, solo observa qué se rem
- ueve. → Pregúntate qué parte de ese vínculo necesitas soltar y cuál 
- merece quedarse.\n\n— Dato técnico: Venus ℞ (5°53' Escorpio\, casa 1
- 1) conjunción tu Plutón natal (5°53' Escorpio\, casa 11) · exacto 14/1
- 0 22:01\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps:/
- /mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:💗 Deseos intensos que piden verdad
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:💬 La mente se vuelve hacia dentro
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20261002T075500Z
-UID:d266b13df3dab533c775c9e9@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Mercurio entra en tu casa 12\, la del descanso\, el inconscien
- te y los cierres. Es un buen momento para pensar menos en voz alta y más 
- hacia adentro: diarios\, meditación\, revisar asuntos pendientes sin pris
- a por resolverlos ya. Además\, esto coincide con la sombra previa a su re
- trogradación (que ya empezó)\, así que todo lo que hables o decidas est
- os días conviene revisarlo con calma más adelante\, no darlo por cerrado
-  todavía. → Dedica un rato a escribir lo que te ronda la cabeza\, sin b
- uscar respuestas inmediatas.\n\n— Dato técnico: Mercurio entra en tu ca
- sa 12 · 14/10 03:21\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/
- 2026\nhttps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:💬 La mente se vuelve hacia dentro
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏹️ Termina · 🔥 Tensión con tu círculo cercano
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DTSTAMP:20261002T075500Z
-UID:f9bfea383ec5837187779581@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:La tensión baja\, pero lo que removiste en tus vínculos de c
- omunidad ya no vuelve a su sitio anterior: te deja más claro quién suma 
- de verdad.\n\n— Dato técnico: Marte se acerca a cuadratura tu Plutón n
- atal (casa 11) · exacto 08/10\n\n—\n✨ Iris Calendar\n🍎 Actualizado
-  el 02/10/2026\nhttps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏹️ Termina · 🔥 Tensión con tu círculo cercano
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔄 🔥 El deseo y el valor propio se tensan · hasta el 28 oct
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DTSTAMP:20261002T075500Z
-UID:d11da11ad98a0903069d4855@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nDurante esta
- s tres semanas Marte presiona tu Venus natal en casa 11\, justo mientras V
- enus está retrógrada ahí mismo: se mezcla el impulso de actuar ya con l
- a necesidad de revisar qué valoras de verdad en tus amistades y en tu eco
- nomía compartida. Puede aparecer impaciencia por resolver algo de dinero 
- o un vínculo que no avanza. Mejor usa esta energía para ser claro/a sobr
- e tus límites que para forzar una salida rápida.\n→ ¿Dónde necesitas
-  más paciencia y dónde más decisión esta temporada?\n\n— Dato técni
- co: Marte se acerca a cuadratura tu Venus natal (casa 11) · exacto 21/10
- \n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-cal
- endario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:☀️ Tensión entre lo social y el esfuerzo
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-DTSTAMP:20261002T075500Z
-UID:20c8d24297371407c84c2d8b@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:El Sol\, desde tu casa 11 de amistades y proyectos de futuro\,
-  choca con tu Marte natal en la casa 2 del dinero y el valor propio. Puede
-  surgir fricción entre lo que quieres construir en grupo y lo que necesit
- as para ti mismo a nivel económico o de autoestima. No te pelees por demo
- strar algo: usa esta energía para poner límites claros sobre tu tiempo y
-  tu esfuerzo. → ¿Estás invirtiendo tu energía donde realmente te valo
- ran?\n\n— Dato técnico: Sol (22°41' Libra\, casa 11) cuadratura tu Mar
- te natal (22°41' Capricornio\, casa 2) · exacto 16/10 03:09\n\n—\n✨ 
- Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-calendario-astra
- l.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:☀️ Tensión entre lo social y el esfuerzo
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔥 Ganas de explorar y aprender
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DTSTAMP:20261002T075500Z
-UID:90e2828a834073ec22e161a1@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Marte entra en tu casa 9\, la de la expansión\, los estudios 
- y los viajes. Sentirás más impulso para lanzarte a aprender algo nuevo\,
-  emprender un viaje o defender tus ideas con más fuerza. Es buena energí
- a para romper la rutina mental y buscar horizontes más amplios\, aunque p
- uede traer algo de impaciencia si sientes que las cosas no avanzan tan rá
- pido como quieres. → ¿Qué idea o proyecto llevas tiempo queriendo expl
- orar?\n\n— Dato técnico: Marte entra en tu casa 9 · 18/10 21:27\n\n—
- \n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-calendario
- -astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🔥 Ganas de explorar y aprender
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔄 💗 Venus retrocede: revisa tus vínculos · hasta el 11 nov
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261002T075500Z
-UID:39cdefd335a6c7960344d96d@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nVenus empiez
- a a caminar hacia atrás en tu casa 11\, repasando el terreno de tus amist
- ades\, tu comunidad y tus metas compartidas (y tocando tu Plutón y tu pro
- pia Venus natal en el camino). Es momento de revisar\, no de iniciar: no f
- irmes acuerdos económicos nuevos ni declares amor de forma definitiva. S
- í puedes reconectar con vínculos antiguos o entender qué papel juegas r
- ealmente en tu grupo. La claridad llega hacia el 11 de noviembre.\n→ ¿Q
- ué amistad o acuerdo del pasado merece una segunda mirada\, sin prisa?\n
- \n— Dato técnico: Venus retrógrado · 8°29' Escorpio → 22°51' Libr
- a · casa 11\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nht
- tps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔥 El deseo choca con la acción
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-DTSTAMP:20261002T075500Z
-UID:7df4c650470b4a8d1cb0b914@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Marte\, ya en tu casa 9 de expansión y aprendizaje\, hace cua
- dratura exacta a tu Venus natal en la casa 11. Puede haber tensión entre 
- lo que deseas (afecto\, reconocimiento\, dinero) y cómo actúas para cons
- eguirlo\, sobre todo en el terreno de las amistades o proyectos compartido
- s. Coincide con Venus retrógrada tocando a Plutón: la pregunta de fondo 
- es si estás persiguiendo algo por deseo real o por orgullo. → Antes de 
- insistir\, pregúntate qué necesitas de verdad.\n\n— Dato técnico: Mar
- te (13°04' Leo\, casa 9) cuadratura tu Venus natal (13°04' Escorpio\, ca
- sa 11) · exacto 21/10 09:50\n\n—\n✨ Iris Calendar\n🍎 Actualizado e
- l 02/10/2026\nhttps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🔥 El deseo choca con la acción
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🌋 Un proceso largo de transformación en vínculos
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-DTSTAMP:20261002T075500Z
-UID:f25e95a1015606d519ee4805@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Empieza a sentirse un proceso de fondo que durará años: Plut
- ón entra en el orbe de cuadratura a tu Venus natal\, en tu casa 11 de ami
- stades y comunidad. Es una invitación lenta pero profunda a transformar c
- ómo amas\, qué valoras y con quién compartes tu vida social\, soltando 
- vínculos o lealtades que ya no reflejan quién eres. No pasará de golpe:
-  irá marcando los próximos años\, con momentos clave entre 2031 y 2032.
-  → Observa qué relaciones te hacen crecer y cuáles te retienen.\n\n—
-  Dato técnico: Plutón cuadratura tu Venus natal (casa 11) · entra en or
- be 21/10/26 · exacto: 24/03/31\, 07/07/31\, 28/01/32\, 23/09/32\, 26/11/3
- 2\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-ca
- lendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🌋 Un proceso largo de transformación en vínculos
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:💬 La mente se detiene antes de girar · hasta el 25 oct
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261002T075500Z
-UID:50589f85da33952232b66891@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Mercurio se queda casi quieto en tu casa 12\, con más fuerza 
- que nunca\, antes de girar retrógrado el día 24. Son días para cerrar t
- emas pendientes\, firmar lo urgente y evitar lanzar mensajes o decisiones 
- importantes: todo lo que inicies ahora se revisará en las próximas seman
- as. Aprovecha para descansar la mente y no forzar respuestas. → Pospón 
- decisiones grandes hasta pasados unos días.\n\n— Dato técnico: Mercuri
- o estacionario (antes de retrógrado) · 20°58' Escorpio · casa 12 · 22
- /10 – 25/10 (exacto 24/10 09:12)\n\n—\n✨ Iris Calendar\n🍎 Actuali
- zado el 02/10/2026\nhttps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:💬 La mente se detiene antes de girar · hasta el 25 oct
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🍀 Se cierra una lección sobre tu valor
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20261002T075500Z
-UID:6fc6f1dd625564ebe33fa914@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Júpiter termina de soltar la cuadratura a tu Venus natal en l
- a casa 11. Durante este tiempo has podido aprender a calibrar el exceso: q
- uizá idealizaste una amistad\, gastaste de más o te comprometiste más d
- e la cuenta en lo social. Lo que queda es un aprendizaje sobre el equilibr
- io entre generosidad y mesura. → ¿Qué límite aprendiste a poner en tu
- s relaciones o en tus gastos?\n\n— Dato técnico: Júpiter cuadratura tu
-  Venus natal (casa 11) · sale de orbe 22/10/26 · exacto: 29/08/26\n\n—
- \n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-calendario
- -astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🍀 Se cierra una lección sobre tu valor
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔄 🔥 El deseo y el valor propio se tensan · hasta el 28 oct
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20261002T075500Z
-UID:ce540bd17ad790042e1f53cf@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nDurante esta
- s tres semanas Marte presiona tu Venus natal en casa 11\, justo mientras V
- enus está retrógrada ahí mismo: se mezcla el impulso de actuar ya con l
- a necesidad de revisar qué valoras de verdad en tus amistades y en tu eco
- nomía compartida. Puede aparecer impaciencia por resolver algo de dinero 
- o un vínculo que no avanza. Mejor usa esta energía para ser claro/a sobr
- e tus límites que para forzar una salida rápida.\n→ ¿Dónde necesitas
-  más paciencia y dónde más decisión esta temporada?\n\n— Dato técni
- co: Marte se acerca a cuadratura tu Venus natal (casa 11) · exacto 21/10
- \n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-cal
- endario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:☀️ Cambio de energía: intensidad social
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20261002T075500Z
-UID:ef56573048e3312a18f9ceff@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:El Sol entra en Escorpio\, todavía en tu casa 11. La energía
-  se vuelve más intensa y profunda en lo social: menos charla superficial
- \, más vínculos de verdad. Venus retrógrada también está en Escorpio
- \, así que el tema del valor propio en tus relaciones sigue muy presente.
-  → Elige calidad sobre cantidad en tus círculos estos días.\n\n— Dat
- o técnico: Sol entra en Escorpio · casa 11 · 23/10 11:37\n\n—\n✨ Ir
- is Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-calendario-astral.
- netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:☀️ Cambio de energía: intensidad social
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:💗 Nace un nuevo ciclo de amor propio
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20261002T075500Z
-UID:20ec83c10a66cbba107632d8@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Venus se une al Sol y se convierte en estrella de la mañana: 
- empieza un nuevo ciclo de ocho meses para el amor\, el valor propio y el d
- inero\, en tu casa 11 de amistades y metas compartidas. Al ser retrógrada
- \, este renacer es sobre todo interior: replantear qué mereces de verdad 
- en tus vínculos\, sin la presión de demostrarlo fuera todavía. Pluton s
- igue de fondo cuestionando lealtades. → Marca una intención de amor pro
- pio para los próximos meses\, aunque aún no la compartas.\n\n— Dato t
- écnico: Venus\, estrella de la mañana · ☉☌♀ 0°45' Escorpio · ca
- sa 11 · 24/10 05:44\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/
- 2026\nhttps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:💗 Nace un nuevo ciclo de amor propio
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:💗 Cambio de energía: vuelta al equilibrio
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261002T075500Z
-UID:3a0e24179dc8ba101af49ee7@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Venus retrógrada regresa a Libra\, aunque sigue transitando t
- u casa 11. La energía se vuelve más diplomática y pide equilibrio en lo
-  que ya se removió con Plutón: busca justicia en tus vínculos\, no solo
-  intensidad. → Dialoga antes de reaccionar en temas de amistad o dinero 
- compartido.\n\n— Dato técnico: Venus vuelve a Libra · casa 11 · 25/10
-  10:09\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://
- mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:💗 Cambio de energía: vuelta al equilibrio
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:▶️ 💬 Revisa antes de avanzar · hasta el 12 nov
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261002T075500Z
-UID:cc6dc336fc8c6f4df0f2ec8e@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Mercurio retrocede desde tu casa 12 hacia tu casa 11\, entre e
- l descanso interior y los vínculos sociales. Es momento de revisar conver
- saciones pasadas con amigos o grupos\, releer contratos antes de firmar y 
- evitar lanzar mensajes importantes o compras grandes sin pensarlo dos vece
- s. Aprovecha para reconectar con personas o ideas que quedaron pendientes
- \, más que para empezar cosas nuevas. → Antes de enviar o firmar algo i
- mportante\, espera un día más.\n\n— Dato técnico: Mercurio retrógrad
- o · 20°58' Escorpio → 5°02' Escorpio · casa 12→11\n\n(hasta el 12 
- nov)\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi
+DESCRIPTION:🟠 Plutón queda casi quieto en tu casa del dinero\, tu valo
+ r propio y tus talentos\, del 9 al 23 de octubre\, con el giro exacto el 1
+ 6. Es el momento de más fuerza de todo este proceso: algo sobre cómo gan
+ as y valoras lo tuyo se reacomoda desde dentro.\n\n🟢 Si te nace\, haz:
+ \n• Revisa en qué trabajo o talento sientes que no te pagan lo justo\n
+ • Haz una lista de lo que realmente te da seguridad económica\n\n🟡 S
+ i puedes\, evita:\n• Tomar decisiones grandes de dinero solo por miedo a
+  perderlo\n• Entrar en pulsos de poder sobre quién controla un gasto co
+ mpartido\n\n🟣 → Tu Plutón natal vive en tu casa de amistades y comun
+ idad\, así que lo que ganas o vales suele ligarse a lo que el grupo opina
+  de ti. Esta pausa planetaria invita a soltar lo viejo y descansar la ment
+ e de esa comparación. ¿De quién necesitas dejar de pedir permiso para s
+ entirte valioso con tu dinero?\n\n🔵 Aspecto: ♇ estacionario (antes de
+  directo) · 3°04' Acuario · en casa 2 · 09/10 – 23/10 (exacto 16/10 
+ 04:40)\nCómo se conecta: origen en casa 11 → se vive en casa 2 → infl
+ uye en casa 12 (regida por ♇) · sistema clásico: casas 5 y 12 (regida 
+ por ♂)\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi
  -calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:▶️ 💬 Revisa antes de avanzar · hasta el 12 nov
-TRIGGER:PT9H
+DESCRIPTION:🌋 Plutón se detiene en tu dinero · hasta el 23 oct
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌕 Revisa lo que vales de verdad
+SUMMARY:☀️ Tu mente y tu identidad se alinean
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261008T205752Z
+UID:d92e5a4be785f94ccad94a87@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 El Sol se une a tu Mercurio natal en tu casa de carrera e
+  imagen pública: hoy piensas con más claridad sobre quién eres y qué q
+ uieres mostrar al mundo. Este día le da un empujón al proceso más grand
+ e que vive Saturno\, que lleva meses enfrentando tu identidad desde tu cas
+ a de pareja y compromisos: hoy sientes ese peso con más nitidez.\n\n🟢 
+ Si te nace\, haz:\n• Escribe en un papel qué logros de tu carrera quier
+ es reconocer hoy\n• Habla con alguien cercano sobre tu propósito profes
+ ional actual\n\n🟡 Si puedes\, evita:\n• Enviar propuestas de trabajo 
+ definitivas: Mercurio entra en sombra hasta el 13 de noviembre\n• Promet
+ er cosas en tu carrera que luego te cuesten cumplir\n\n🟣 → Saturno te
+  enfrenta desde tu casa de pareja y te pide revisar si tu forma de mostrar
+ te profesionalmente encaja con los compromisos que sostienes con otra pers
+ ona. ¿Qué parte de tu identidad sientes que debes negociar en tus relaci
+ ones comprometidas para sentirte íntegro?\n\n🔵 Aspecto: ☉ (15°49' L
+ ibra\, en casa 10) ☌ ☿ natal (15°49' Libra\, en casa 10) · exacto 09
+ /10 04:43\nCómo se conecta: origen en casa 10 → se vive en casa 10 → 
+ influye en casa 9 (regida por ☉) · casas 7 y 10 (regida por ☿)\n\n—
+ \nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-ast
+ ral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Tu mente y tu identidad se alinean
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ El Sol ilumina tu comunidad
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20261008T205752Z
+UID:8d8c5ae5126d33d01ad4d352@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 El Sol entra en tu casa de la comunidad\, las amistades y
+  las metas: toca brillar en tus grupos y revisar hacia dónde van tus meta
+ s compartidas.\n\n🟢 Si te nace\, haz:\n• Reconecta con una amistad o 
+ un grupo que tenías abandonado\n\n🟡 Si puedes\, evita:\n• Firmar com
+ promisos grandes con tu comunidad estos días\n\n🟣 → Venus está retr
+ ógrada en esta misma área hasta el 14 de noviembre: mejor observar antes
+  de comprometerte con un grupo nuevo.\n\n🔵 Aspecto: ☉ entra en tu cas
+ a 11 · 09/10 12:39\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026
+ \nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ El Sol ilumina tu comunidad
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌑 Luna nueva para tu comunidad
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DTSTAMP:20261008T205752Z
+UID:948b7cbe1ae3e471f8b025d7@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Luna nueva en Libra: tanto el Sol como la Luna caen en tu
+  casa de la comunidad\, las amistades y las metas\, en trígono con tu Lun
+ a natal y unida a tu Mercurio natal\, frente a tu Nodo Norte. Es momento d
+ e sembrar una intención para tus grupos y tus metas compartidas\; se revi
+ sa en la luna llena del mismo signo\, el 22 de marzo de 2027.\n\n🟢 Si t
+ e nace\, intenciones para esta luna:\n• Me comprometo a cuidar una amist
+ ad que me sostiene\n• Me comprometo a escribir hacia dónde quiero lleva
+ r una meta compartida\n• Me comprometo a escuchar antes de prometer algo
+  a mi comunidad\n\n🟡 Si puedes\, evita:\n• Firmar o cerrar compromiso
+ s nuevos con grupos o amistades\n\n🟣 → Venus\, regente de esta luna\,
+  está retrógrada en esta misma casa hasta el 14 de noviembre: toca mirar
+  hacia dentro antes de comprometerte hacia fuera. Esta luna también conec
+ ta con tu Nodo Norte en creatividad y proyectos propios: ¿qué meta compa
+ rtida sirve de verdad a tu camino personal?\n\n🔵 Aspecto: Luna nueva ·
+  17°21' Libra · en casa 11 · exacto 10/10 17:50\n\n—\nIris Calendar\n
+ 🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌑 Luna nueva para tu comunidad
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Una conversación que remueve el amor
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DTSTAMP:20261008T205752Z
+UID:bc548cc063aa9a55d88b0b61@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercurio se une a tu Venus natal en tu casa de amistades 
+ y metas de grupo: hoy una conversación o un mensaje puede sacar a la luz 
+ lo que sientes por alguien cercano o por tu propio dinero. Además\, esto 
+ le da un empujón al proceso más grande que vive tu Venus natal con Júpi
+ ter en tránsito\, cuyo cuadre se acerca.\n\n🟢 Si te nace\, haz:\n• H
+ abla con calma de lo que valoras en una amistad o en el grupo\n• Anota l
+ o que de verdad te hace sentir valorado antes de decirlo\n\n🟡 Si puedes
+ \, evita:\n• Confesar sentimientos definitivos a alguien del grupo justo
+  hoy\n• Firmar o cerrar un trato de dinero compartido en esta charla\n\n
+ 🟣 → Mercurio está en sombra hasta el 13 de noviembre y Venus retróg
+ rada hasta el 14\, así que conviene pensarlo bien antes de decirlo: hay t
+ iempo de madurar la idea antes de hablarla del todo. Tu Mercurio natal con
+ ecta tu forma de hablar con tu carrera y con tu pareja: ¿qué necesitas d
+ ecir sobre tu propio valor antes de decirlo a los demás?\n\n🔵 Aspecto:
+  ☿ (13°04' Escorpio\, en casa 11) ☌ ♀ natal (13°04' Escorpio\, en 
+ casa 11) · exacto 11/10 11:25\nCómo se conecta: origen en casas 10 y 11 
+ → se vive en casa 11 → influye en casas 7 y 10 (regida por ☿) · cas
+ as 6 y 11 (regida por ♀)\n\n—\nIris Calendar\n🐞 Actualizado el 08/1
+ 0/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Una conversación que remueve el amor
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌋 Venus retrógrada revisa el poder
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20261008T205752Z
+UID:8354336945bb8c724e2875a7@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Venus retrógrada se une a tu Plutón natal: revisas desd
+ e dentro cómo el poder y el control se mezclan con tu valor propio en tu 
+ comunidad.\n\n🟢 Si te nace\, haz:\n• Anota qué vínculo de tu comuni
+ dad te hace sentir con poder\n• Haz una pausa antes de reaccionar ante a
+ lgo intenso\n\n🟡 Si puedes\, evita:\n• Decidir o confirmar un comprom
+ iso de pareja o dinero ahora\n\n🟣 → Venus sigue retrógrada hasta el 
+ 14 de noviembre: esto es para revisar\, no para actuar. ¿Qué parte de tu
+  poder le has entregado a otra persona sin darte cuenta?\n\n🔵 Aspecto: 
+ ♀ ℞ (5°53' Escorpio\, en casa 11) ☌ ♇ natal (5°53' Escorpio\, en
+  casa 11) · exacto 14/10 22:01\nCómo se conecta: origen en casa 11 → s
+ e vive en casa 11 → influye en casas 6 y 11 (regida por ♀) · casa 12 
+ (regida por ♇) · sistema clásico: casas 5 y 12 (regida por ♂)\n\n—
+ \nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-ast
+ ral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌋 Venus retrógrada revisa el poder
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 La mente baja el ritmo y descansa
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20261008T205752Z
+UID:d266b13df3dab533c775c9e9@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercurio entra en tu casa de descanso y cierres: los pró
+ ximos días tu mente pide bajar el ritmo y procesar cosas por dentro antes
+  de hablar de ellas. Mercurio ya está en sombra hasta el 13 de noviembre
+ \, así que esta entrada es parte de esa misma pausa mental.\n\n🟢 Si te
+  nace\, haz:\n• Date tiempo a solas para pensar antes de responder algo 
+ importante\n• Duerme un poco más si lo necesitas estos días\n\n🟡 Si
+  puedes\, evita:\n• Firmar documentos o cerrar tratos: Mercurio sigue en
+  sombra hasta el 13 de noviembre\n• Forzarte a tener conversaciones dif
+ íciles si no te sientes listo\n\n🟣 → ¿Qué pensamiento o preocupaci
+ ón llevas cargando en silencio y que necesita más reflexión antes que p
+ alabras?\n\n🔵 Aspecto: ☿ entra en tu casa 12 · 14/10 03:21\n\n—\nI
+ ris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-astral
+ .netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 La mente baja el ritmo y descansa
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Un roce pasajero entre el deber y las ganas
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DTSTAMP:20261008T205752Z
+UID:20c8d24297371407c84c2d8b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 El Sol choca brevemente con tu Marte natal: puede aparece
+ r un pequeño tirón entre lo que haces por tu comunidad y lo que gastas o
+  inviertes en ti.\n\n🟢 Si te nace\, haz:\n• Haz algo físico y breve 
+ para soltar la tensión del día\n\n🟡 Si puedes\, evita:\n• Discutir 
+ por dinero con alguien de tu grupo o comunidad hoy\n\n🟣 → ¿Dónde si
+ entes hoy que tu energía y tu bolsillo tiran en direcciones distintas?\n
+ \n🔵 Aspecto: ☉ (22°41' Libra\, en casa 11) □ ♂ natal (22°41' Ca
+ pricornio\, en casa 2) · exacto 16/10 03:09\nCómo se conecta: origen en 
+ casas 2 y 10 → se vive en casa 11 → influye en casa 9 (regida por ☉)
+  · casa 5 (regida por ♂) · sistema clásico: casa 12 (regida por ♂)
+ \n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calenda
+ rio-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Un roce pasajero entre el deber y las ganas
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Las ganas de explorar se encienden
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DTSTAMP:20261008T205752Z
+UID:90e2828a834073ec22e161a1@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Marte entra en tu casa de estudios\, viajes y expansión:
+  los próximos días puede crecer el impulso de aprender algo nuevo o move
+ rte fuera de tu rutina habitual.\n\n🟢 Si te nace\, haz:\n• Inscríbet
+ e en un curso o retoma una lectura que te amplíe la mirada\n• Planea un
+  viaje corto o una salida que rompa tu rutina\n\n🟡 Si puedes\, evita:\n
+ • Discutir de creencias o filosofía de vida solo por tener razón\n\n
+ 🟣 → ¿Qué idea o lugar llevas tiempo queriendo explorar y no te has 
+ dado el permiso?\n\n🔵 Aspecto: ♂ entra en tu casa 9 · 18/10 21:27\n
+ \n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calendari
+ o-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Las ganas de explorar se encienden
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 El deseo choca con lo que valoras
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261008T205752Z
+UID:7df4c650470b4a8d1cb0b914@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Marte\, desde tu casa de estudios y expansión\, choca co
+ n tu Venus natal en tu casa de comunidad y amistades: hoy puede aparecer i
+ mpaciencia o fricción entre lo que quieres hacer y lo que valoras en tus 
+ vínculos. Esto le da fuerza a dos procesos largos: Júpiter y Plutón lle
+ van tiempo desafiando esa misma Venus\, el primero desde tus rutinas y el 
+ segundo desde tu dinero y talentos propios.\n\n🟢 Si te nace\, haz:\n•
+  Haz una actividad física que te ayude a soltar la tensión acumulada\n
+ • Revisa en privado qué te molesta antes de decirlo en voz alta\n\n🟡
+  Si puedes\, evita:\n• Discutir sobre dinero o compromisos de pareja: Ve
+ nus sigue retrógrada hasta el 14 de noviembre\n• Tomar decisiones impul
+ sivas sobre un viaje o un proyecto de estudios\n\n🟣 → El 11 de octubr
+ e Mercurio ya tocó este mismo punto invitándote a pensar en lo que valor
+ as\; hoy el deseo de actuar se enfrenta a eso. ¿Dónde sientes que tu nec
+ esidad de crecer choca con tu sentido de poder personal y tu valor propio?
+ \n\n🔵 Aspecto: ♂ (13°04' Leo\, en casa 9) □ ♀ natal (13°04' Esc
+ orpio\, en casa 11) · exacto 21/10 09:50\nCómo se conecta: origen en cas
+ as 2 y 11 → se vive en casa 9 → influye en casa 5 (regida por ♂) · 
+ casas 6 y 11 (regida por ♀) · sistema clásico: casa 12 (regida por ♂
+ )\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calend
+ ario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 El deseo choca con lo que valoras
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌋 Dinero y poder se reordenan
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261008T205752Z
+UID:f25e95a1015606d519ee4805@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Plutón entra en orbe de cuadratura a tu Venus natal: emp
+ ieza un proceso largo (hasta 2034) que pone a prueba cómo manejas tu dine
+ ro y tu valor propio\, conectado con tu comunidad y tus metas (casa 11)\, 
+ y te empuja a soltar algo en tu descanso y tus cierres internos (casa 12).
+  Es la primera de cinco cuadraturas\; hoy arranca el primer capítulo.\n\n
+ 🟢 Si te nace\, haz:\n• Anota qué grupo o amistad influye demasiado e
+ n tus decisiones de dinero\n• Empieza a observar qué talento propio no 
+ estás valorando lo suficiente\n\n🟡 Si puedes\, evita:\n• Firmar acue
+ rdos de dinero compartido en caliente\, con Venus aún retrógrada hasta e
+ l 14 de noviembre\n• Dejar que una lucha de poder en tu comunidad decida
+  por ti\n\n🟣 → Esto conecta con algo que empezó en mayo de 1989\, cu
+ ando tenías unos 2 años: una forma temprana de relacionarte con el valor
+  propio y el dinero compartido. ¿Qué parte de tu valor propio sigues dej
+ ando en manos de otros\, en tu comunidad o tus amistades?\n\n🔵 Aspecto:
+  ♇ □ ♀ natal (en casa 11) · entra en orbe 21/10/26 · exacto: 24/03
+ /31\, 07/07/31\, 28/01/32\, 23/09/32\, 26/11/32\nCómo se conecta: origen 
+ en casa 11 → se vive en casa 2 → influye en casa 12 (regida por ♇) 
+ · casas 6 y 11 (regida por ♀) · sistema clásico: casas 5 y 12 (regida
+  por ♂)\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://m
+ i-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌋 Dinero y poder se reordenan
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Mente que revisa hacia adentro · hasta el 25 oct
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261008T205752Z
+UID:50589f85da33952232b66891@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercurio queda casi quieto entre el 22 y el 25 de octubre
+  (exacto el 24) y ahí empieza su retroceso: vuelve de tu casa de descanso
+  y cierres a tu casa de comunidad y metas\, hasta el 13 de noviembre. Es m
+ omento de revisar\, no de lanzar nada nuevo en tu carrera ni en tus víncu
+ los.\n\n🟢 Si te nace\, haz:\n• Dedica estos días a ordenar pensamien
+ tos sobre tu descanso y tus cierres pendientes\n• Revisa qué meta de tu
+  comunidad o tus amistades quieres replantear\n\n🟡 Si puedes\, evita:\n
+ • Enviar propuestas o mensajes clave sobre tu carrera estos días\, con 
+ Mercurio detenido\n• Comprometerte con una amistad o un grupo nuevo mien
+ tras Venus sigue retrógrada hasta el 14 de noviembre\n\n🟣 → Tu mente
+  suele conectar bien ideas con sentimientos\, y este freno te pide mirar h
+ acia atrás antes de seguir. ¿Qué conversación pendiente sobre tu carre
+ ra o tu imagen pública necesita más reflexión antes de decirla?\n\n🔵
+  Aspecto: ☿ estacionario (antes de retrógrado) · 20°58' Escorpio · e
+ n casa 12 · 22/10 – 25/10 (exacto 24/10 09:12)\nCómo se conecta: orige
+ n en casa 10 → se vive en casa 12 → influye en casas 7 y 10 (regida po
+ r ☿)\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-c
+ alendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Mente que revisa hacia adentro · hasta el 25 oct
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Nueva energía en tu comunidad
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20261008T205752Z
+UID:ef56573048e3312a18f9ceff@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 El Sol entra en Escorpio\, en tu casa de la comunidad y l
+ as metas. Sigues en la misma área\, pero con una energía más profunda e
+  intensa. Venus retrógrada también está en Escorpio: mejor revisar los 
+ vínculos de grupo que forzarlos ahora.\n\n🟢 Si te nace\, haz:\n• Obs
+ erva con quién de tu comunidad te sientes más en sintonía estos días\n
+ \n🟡 Si puedes\, evita:\n• Forzar un acercamiento grande con tu grupo 
+ justo ahora\n\n🟣 → ¿Qué meta compartida te mueve de verdad ahora mi
+ smo?\n\n🔵 Aspecto: ☉ entra en Escorpio · en casa 11 · 23/10 11:37\n
+ \n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calendari
+ o-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Nueva energía en tu comunidad
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Venus renace desde dentro
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261008T205752Z
+UID:20ec83c10a66cbba107632d8@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Venus se une al Sol y empieza un ciclo nuevo de unos 8 me
+ ses para tu amor propio\, tu dinero y tus vínculos de comunidad (casa 11)
+ \, justo cuando Plutón choca con este mismo punto de tu carta: se abre un
+ a revisión honda de lo que valoras y de con quién te vinculas.\n\n🟢 S
+ i te nace\, haz:\n• Pon por escrito qué quieres sentir en tus vínculos
+  de comunidad este nuevo ciclo\n• Dedica un rato a pensar en tu valor pr
+ opio\, sin compartirlo todavía\n\n🟡 Si puedes\, evita:\n• Tomar deci
+ siones de pareja o de dinero compartido mientras Venus sigue retrógrada h
+ asta el 14 de noviembre\n• Mandar mensajes importantes sobre esto\, con 
+ Mercurio también retrógrado\n\n🟣 → Este renacer de Venus se constru
+ ye desde dentro hacia afuera\, justo cuando Plutón te pide revisar qué t
+ anto tu valor depende de tu grupo. ¿Qué quieres que valga tu presencia e
+ n una comunidad\, más allá de lo que esta te devuelve?\n\n🔵 Aspecto: 
+ Venus\, estrella de la mañana · ☉☌♀ 0°45' Escorpio · en casa 11 
+ · 24/10 05:44\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttp
+ s://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Venus renace desde dentro
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Venus retrocede hacia un tema conocido
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261008T205752Z
+UID:3a0e24179dc8ba101af49ee7@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Venus retrógrada vuelve a entrar en Libra\, siguiendo en
+  tu casa de la comunidad y las metas. La energía se vuelve más mental y 
+ equilibrada: toca revisar acuerdos y vínculos antes que lanzarse a algo n
+ uevo.\n\n🟢 Si te nace\, haz:\n• Repasa qué acuerdos de grupo o de di
+ nero compartido quieres ajustar\n\n🟡 Si puedes\, evita:\n• Iniciar un
+  vínculo nuevo de pareja o de dinero mientras Venus sigue retrógrada\n\n
+ 🟣 → ¿Qué equilibrio buscas entre lo que das a tu comunidad y lo que
+  recibes?\n\n🔵 Aspecto: ♀ vuelve a Libra · en casa 11 · 25/10 10:09
+ \n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calenda
+ rio-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Venus retrocede hacia un tema conocido
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Revisa tus proyectos y tu rutina
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:f1cba8e033e13e0504ab38f0@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Luna llena en tu casa 5 (creatividad\, proyectos propios\, rom
- ance) que ilumina tu casa 11 (comunidad\, amistades\, metas)\, donde tiene
- s Venus y Plutón natales. Venus en tránsito\, regente de esta luna\, hac
- e oposición justa a tu propia Venus: se remueve algo sobre lo que das y l
- o que recibes en tus vínculos de grupo o en un proyecto creativo que comp
- artes con otros. Es momento de revisar la intención que pusiste en la lun
- a nueva de Tauro del 16 de mayo: ¿qué dijiste que querías construir o d
- isfrutar? Mira si tus amistades o tu comunidad realmente reflejan tu valor
- \, o si das más de lo que recibes. → ¿Qué proyecto personal necesita 
- que dejes de esconderlo y lo compartas con tu gente?\n\n— Dato técnico:
-  Luna llena · 2°45' Tauro · casa 5 · exacto 26/10 05:11\n\n—\n✨ Ir
- is Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-calendario-astral.
- netlify.app
+DESCRIPTION:🟠 La luna nueva del 16 de mayo puso intención en tu rutina
+  y tu trabajo diario. Esta luna llena cae entre tus proyectos propios y cr
+ eatividad (Luna) y tu comunidad y metas (Sol)\, con Venus —regente de es
+ te signo— retrógrada en esa misma casa 11: toca revisar qué vínculo o
+  meta compartida ya no encaja con lo que valoras.\n\n🟢 Si te nace\, haz
+ :\n• Revisa qué proyecto propio quieres mostrar más a tu comunidad\n
+ • Celebra a solas un avance personal antes de compartirlo\n\n🟡 Si pue
+ des\, evita:\n• Cerrar un acuerdo de dinero o de grupo en estos días\, 
+ con Venus retrógrada\n• Comprometerte con una meta nueva solo por encaj
+ ar con otros\n\n🟣 → En la luna nueva del 16 de mayo tus intenciones i
+ ban hacia tu rutina y tu trabajo diario: ¿qué de eso has materializado? 
+ Hoy el espejo está entre tu creatividad personal y tu lugar en un grupo: 
+ ¿tu meta compartida nace de ti o de encajar?\n\n🔵 Aspecto: Luna llena 
+ · 2°45' Tauro · en casa 5 · exacto 26/10 05:11\n\n—\nIris Calendar\n
+ 🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🌕 Revisa lo que vales de verdad
-TRIGGER:PT9H
+DESCRIPTION:🌕 Revisa tus proyectos y tu rutina
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔄 💗 Venus retrocede: revisa tus vínculos · hasta el 11 nov
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-DTSTAMP:20261002T075500Z
-UID:54ea39f8a4a5ecc48d9638d4@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nVenus empiez
- a a caminar hacia atrás en tu casa 11\, repasando el terreno de tus amist
- ades\, tu comunidad y tus metas compartidas (y tocando tu Plutón y tu pro
- pia Venus natal en el camino). Es momento de revisar\, no de iniciar: no f
- irmes acuerdos económicos nuevos ni declares amor de forma definitiva. S
- í puedes reconectar con vínculos antiguos o entender qué papel juegas r
- ealmente en tu grupo. La claridad llega hacia el 11 de noviembre.\n→ ¿Q
- ué amistad o acuerdo del pasado merece una segunda mirada\, sin prisa?\n
- \n— Dato técnico: Venus retrógrado · 8°29' Escorpio → 22°51' Libr
- a · casa 11\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nht
- tps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:⏹️ Termina · 🔥 El deseo y el valor propio se tensan
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261002T075500Z
-UID:4de861c416cdb05d5bca304e@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:La urgencia baja\, pero te deja más claro qué relaciones y q
- ué recursos compartidos de verdad valen tu energía.\n\n— Dato técnico
- : Marte se acerca a cuadratura tu Venus natal (casa 11) · exacto 21/10\n
- \n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhttps://mi-calen
- dario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:⏹️ Termina · 🔥 El deseo y el valor propio se tensan
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🌋 Tu identidad se transforma en grupo
+SUMMARY:☀️ Tu identidad se reencuentra con tu poder
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:96ac02026257c9d7635565cf@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:El Sol toca exactamente a Plutón en tu casa 11\, la de la com
- unidad y las metas compartidas. Con Venus retrógrada ahí mismo estos dí
- as\, el tema es claro: tu lugar dentro de un grupo\, equipo o círculo de 
- amistades pide una mirada profunda. Puede que sientas que necesitas mostra
- rte con más autenticidad\, o que una relación de ese ámbito se vuelve i
- ntensa\, casi de todo o nada. No es un día para huir del conflicto: es pa
- ra entender qué poder estás reclamando como tuyo. → ¿En qué grupo ne
- cesitas dejar de adaptarte y empezar a ser tú?\n\n— Dato técnico: Sol 
- (5°53' Escorpio\, casa 11) conjunción tu Plutón natal (5°53' Escorpio
- \, casa 11) · exacto 29/10 08:28\n\n—\n✨ Iris Calendar\n🍎 Actualiz
- ado el 02/10/2026\nhttps://mi-calendario-astral.netlify.app
+DESCRIPTION:🟠 El Sol se une a tu Plutón natal en tu casa de comunidad 
+ y metas: tu identidad y propósito (origen en tu casa de carrera e imagen)
+  se cruzan hoy con un tema de poder y transformación que también Mercuri
+ o retrógrado tocará el 10 de noviembre.\n\n🟢 Si te nace\, haz:\n• R
+ econoce en voz baja un logro propio\, sin necesitar validación externa\n
+ \n🟡 Si puedes\, evita:\n• Imponer tu punto de vista a tu comunidad so
+ lo por necesidad de control\n\n🟣 → ¿Qué parte de tu identidad se si
+ ente más fuerte cuando está rodeada de una comunidad o una meta comparti
+ da?\n\n🔵 Aspecto: ☉ (5°53' Escorpio\, en casa 11) ☌ ♇ natal (5°
+ 53' Escorpio\, en casa 11) · exacto 29/10 08:28\nCómo se conecta: origen
+  en casas 10 y 11 → se vive en casa 11 → influye en casa 9 (regida por
+  ☉) · casa 12 (regida por ♇) · sistema clásico: casas 5 y 12 (regid
+ a por ♂)\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://
+ mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🌋 Tu identidad se transforma en grupo
-TRIGGER:PT9H
+DESCRIPTION:☀️ Tu identidad se reencuentra con tu poder
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Suelta lo que ya no encaja · hasta el 11 nov
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261008T205752Z
+UID:eea161d70cfe05ccb7822cb7@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\n🟠 Venus s
+ igue retrocediendo por tu casa de comunidad y metas. Esta semana nota qué
+  vínculo de grupo o qué forma de gastar ya no te representa.\n\n🟢 Si 
+ te nace\, haz:\n• Anota qué amistad o meta compartida sientes que ya no
+  te aporta\n\n🟡 Si puedes\, evita:\n• Cortar una amistad o un comprom
+ iso de golpe mientras Venus sigue retrógrada\n\n🟣 → ¿Qué ya no nec
+ esitas sostener en tu comunidad?\n\n🔵 Aspecto: ♀ retrógrado · 27°3
+ 4' Libra · en casa 11\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/20
+ 26\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💗 Suelta lo que ya no encaja · hasta el 11 nov
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🗓️ Tu noviembre\, de un vistazo
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:65fea06658d56c7926ef89d5@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Noviembre es un mes de revisión antes de avanzar. Venus (retr
- ógrada desde el 5 de octubre en tu casa 11) y Mercurio (retrógrado desde
-  el 25 en tu casa 12) terminan su ciclo: Venus se vuelve directa el 11 y M
- ercurio el 12-13\, aunque ambos siguen pisando terreno conocido varios dí
- as más\, así que evita firmar o decidir del todo hasta pasada la primera
-  quincena. De fondo\, Saturno sigue presionando a tu Mercurio y a tu Sol n
- atal (casa 10): tu forma de comunicar y tu identidad profesional piden mad
- urar con paciencia\, mientras Neptuno difumina esa misma zona\, invitando 
- a soltar el control sobre cómo te ven. Urano roza tu Ascendente y tu Medi
- o Cielo: inquietud de cambio que aún no estalla. El 9 de noviembre\, luna
-  nueva en Escorpio en tu casa 12 abre un ciclo de introspección\; el 24\,
-  luna llena en Géminis ilumina tu casa 6 desde tu casa 12. Marte entra en
-  pre-sombra\, preparando una revisión futura de tu casa 9. → Con Mercur
- io pidiendo paciencia y Saturno presionando tu casa 10\, ¿qué palabra o 
- proyecto profesional mereces madurar antes de lanzarlo?\n\nTienes más inf
- ormación y detalle en los eventos de noviembre de tu calendario. ¡Feliz 
- noviembre! ✨\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\n
+DESCRIPTION:🟠 Noviembre se abre con Mercurio aún retrógrado en tu cas
+ a de comunidad y metas\, pidiéndote revisar qué valoras en el amor\, el 
+ dinero y tus talentos\; cuando el Sol se une a tu Venus natal el 5\, el te
+ ma se ilumina con más claridad\, justo cuando Plutón lleva meses presion
+ ando ese mismo punto desde dentro. El Sol entra luego en tu casa del desca
+ nso y los cierres\, acompañado por la luna nueva del 9 que invita a solta
+ r y cuidarte\, no a decidir sobre amor o dinero todavía. Mercurio y Venus
+  quedan directos a mitad de mes\, pero ambos repasan sus propios grados ha
+ sta fin de mes: conviene mirar atrás antes de avanzar en tus amistades\, 
+ tus estudios y tus valores. La luna llena del 24 revisa tus rutinas y conf
+ ronta tu Saturno natal\, preguntando qué tan sostenible es tu día a día
+ . Marte entra en sombra desde el 5 y cambia a Virgo el 25\, preparando con
+  más método tu casa de estudios y expansión.\n\nDe fondo\, Saturno culm
+ ina su oposición a tu Mercurio natal\, un proceso que empezó en 2011 y h
+ oy te pide madurar cómo comunicas tu lugar en el mundo\; algo parecido pi
+ de Saturno frente a tu Sol\, iniciado en 2010. Neptuno\, en su punto más 
+ fuerte\, se enfrenta a tu Sol natal desde antes de que nacieras\, cuestion
+ ando la claridad de tu identidad y tu carrera\, mientras en cuadratura a s
+ u propia posición te empuja a construir una intuición propia desde cero.
+  Plutón\, en cuadratura a tu Venus y a tu propio Plutón natal\, sigue re
+ moviendo el poder y el valor dentro de tu comunidad. Urano\, por su parte
+ \, se asoma a tu Descendente y a tu Medio Cielo: algo nuevo busca libertad
+  en tus relaciones comprometidas y en tu imagen de carrera.\n\nTienes más
+  información y detalle en los eventos de noviembre de tu calendario. ¡Fe
+ liz noviembre! ✨\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\n
  https://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🗓️ Tu noviembre\, de un vistazo
-TRIGGER:PT9H
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:💬 Palabras que vuelven a revisarse
+SUMMARY:💬 Mercurio retrógrado llega a tu comunidad
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261002T075500Z
+DTSTAMP:20261008T205752Z
 UID:d8e9624d6b932cd0bab407a7@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Mercurio retrógrado entra en tu casa 11\, la de amistades y m
- etas compartidas. Conversaciones o acuerdos con tu comunidad pueden repeti
- rse o pedir aclaración: alguien del pasado reaparece\, o un malentendido 
- grupal necesita ponerse sobre la mesa. No es el mejor momento para lanzar 
- un proyecto colectivo nuevo\, pero sí para revisar cómo te comunicas den
- tro de tu círculo. → ¿Qué conversación pendiente con tu grupo de ami
- gos merece una segunda vuelta?\n\n— Dato técnico: Mercurio entra en tu 
- casa 11 · 01/11 22:05\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/1
- 0/2026\nhttps://mi-calendario-astral.netlify.app
+DESCRIPTION:🟠 Mercurio retrógrado entra en tu casa de comunidad y meta
+ s: toca revisar conversaciones pendientes con tu grupo o amistades\, no ab
+ rir temas nuevos con ellos.\n\n🟢 Si te nace\, haz:\n• Retoma una conv
+ ersación pendiente con alguien de tu comunidad\n\n🟡 Si puedes\, evita:
+ \n• Proponer una meta nueva de grupo mientras Mercurio sigue retrógrado
+  hasta el 13 de noviembre\n\n🟣 → ¿Qué conversación con tu comunida
+ d llevas tiempo posponiendo?\n\n🔵 Aspecto: ☿ entra en tu casa 11 · 0
+ 1/11 22:05\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://
+ mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:💬 Palabras que vuelven a revisarse
-TRIGGER:PT9H
+DESCRIPTION:💬 Mercurio retrógrado llega a tu comunidad
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔄 💬 Revisa antes de avanzar · hasta el 12 nov
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DTSTAMP:20261002T075500Z
-UID:da5800221829018cbaaaf83f@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nMercurio ret
- rocede desde tu casa 12 hacia tu casa 11\, entre el descanso interior y lo
- s vínculos sociales. Es momento de revisar conversaciones pasadas con ami
- gos o grupos\, releer contratos antes de firmar y evitar lanzar mensajes i
- mportantes o compras grandes sin pensarlo dos veces. Aprovecha para recone
- ctar con personas o ideas que quedaron pendientes\, más que para empezar 
- cosas nuevas. → Antes de enviar o firmar algo importante\, espera un dí
- a más.\n\n— Dato técnico: Mercurio retrógrado · 20°58' Escorpio →
-  5°02' Escorpio · casa 12→11\n\n—\n✨ Iris Calendar\n🍎 Actualiza
- do el 02/10/2026\nhttps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔄 💗 Venus retrocede: revisa tus vínculos · hasta el 11 nov
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-DTSTAMP:20261002T075500Z
-UID:0d3fe5b5fbbd0fc408617b24@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\nVenus empiez
- a a caminar hacia atrás en tu casa 11\, repasando el terreno de tus amist
- ades\, tu comunidad y tus metas compartidas (y tocando tu Plutón y tu pro
- pia Venus natal en el camino). Es momento de revisar\, no de iniciar: no f
- irmes acuerdos económicos nuevos ni declares amor de forma definitiva. S
- í puedes reconectar con vínculos antiguos o entender qué papel juegas r
- ealmente en tu grupo. La claridad llega hacia el 11 de noviembre.\n→ ¿Q
- ué amistad o acuerdo del pasado merece una segunda mirada\, sin prisa?\n
- \n— Dato técnico: Venus retrógrado · 8°29' Escorpio → 22°51' Libr
- a · casa 11\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nht
- tps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🌕 Revisa tu intención de la Luna nueva del 10 oct
-DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270323
-DTSTAMP:20261002T075500Z
-UID:f5eeb7cd47882ba5f53762b9@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Hoy\, con la Luna llena en el mismo signo\, se cierra el ciclo
-  que empezaste en la Luna nueva del 10 oct. Relee la intención que escrib
- iste: ¿qué ha florecido? ¿qué sueltas? ¿qué ajustas?\n\n— Luna nue
- va: siembra en tu tribu\nEsta luna nueva en Libra cae en tu casa 11\, con 
- el Sol también ahí: es momento de sembrar intenciones sobre tu comunidad
- \, tus amistades y tus metas a futuro. La Luna hace trígono a tu Luna nat
- al\, lo que facilita conectar con lo que sientes de verdad en tus vínculo
- s\; también se une a tu Mercurio natal\, favoreciendo conversaciones sinc
- eras con tu entorno. La oposición a tu Nodo Norte te recuerda no quedarte
-  en lo cómodo del grupo si tu camino pide algo más individual. Venus\, r
- egente de esta luna\, está retrógrada justo en tu casa 11: revisa antes 
- de lanzar nada nuevo.\nPrueba con: «Me comprometo a cuidar las amistades 
- que me suman»\, «Me comprometo a expresar con honestidad lo que necesito
-  de mi comunidad»\, «Me comprometo a dar un paso hacia una meta grupal q
- ue vengo posponiendo». Revisarás esto en la luna llena en Libra del 22 d
- e marzo de 2027.\n\n→ Escribe hoy una intención concreta para tu círcu
- lo cercano.\n\n—\n✨ Iris Calendar\n🍎 Actualizado el 02/10/2026\nhtt
- ps://mi-calendario-astral.netlify.app
+SUMMARY:💬 Tu mente revisa lo que valoras
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20261008T205752Z
+UID:905bdef20b2b7794302343f6@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercurio retrógrado se une a tu Venus natal en tu casa d
+ e comunidad: tu mente (que nace de tu carrera e imagen\, casa 10) revisa a
+  fondo lo que valoras en el amor y el dinero\, justo cuando Plutón tambi
+ én presiona este punto. El Sol tocará lo mismo el 5 de noviembre: es un 
+ mismo proceso.\n\n🟢 Si te nace\, haz:\n• Escribe qué aprendiste sobr
+ e tu valor propio en los últimos meses\n• Revisa (sin firmar aún) un a
+ cuerdo de dinero o pareja pendiente\n\n🟡 Si puedes\, evita:\n• Firmar
+  o cerrar un acuerdo de pareja o dinero con Mercurio y Venus retrógrados
+ \n• Mandar un mensaje importante sobre esto antes del 13 de noviembre\n
+ \n🟣 → Esta conversación interna mezcla tu forma de pensar y comunica
+ rte con lo que valoras en el amor y el dinero. ¿Qué parte de tu valor pr
+ opio necesita ser repensada antes de mostrarla de nuevo a tu comunidad?\n
+ \n🔵 Aspecto: ☿ ℞ (13°04' Escorpio\, en casa 11) ☌ ♀ natal (13
+ °04' Escorpio\, en casa 11) · exacto 03/11 23:00\nCómo se conecta: orig
+ en en casas 10 y 11 → se vive en casa 11 → influye en casas 7 y 10 (re
+ gida por ☿) · casas 6 y 11 (regida por ♀)\n\n—\nIris Calendar\n🐞
+  Actualizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🌕 Revisa tu intención de la Luna nueva del 10 oct
-TRIGGER:PT9H
+DESCRIPTION:💬 Tu mente revisa lo que valoras
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💸 Luz sobre tu valor propio
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261008T205752Z
+UID:9b800f8010a6106f8ae46078@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 El Sol se une a tu Venus natal y le da un empujón al pro
+ ceso largo de Plutón que ya está trabajando tu dinero y tu valor propio 
+ desde tu comunidad. Hoy puedes ver con más claridad qué tanto valoras tu
+ s propios talentos frente al grupo al que perteneces.\n\n🟢 Si te nace\,
+  haz:\n• Reconoce en voz alta un talento tuyo que aporta a tu comunidad
+ \n• Revisa con calma tus gastos recientes sin tomar decisiones grandes t
+ odavía\n\n🟡 Si puedes\, evita:\n• Decidir hoy sobre dinero compartid
+ o o un vínculo cercano: Venus sigue retrógrada hasta el 14 de noviembre
+ \n• Comparar tu valor con el de otras personas de tu entorno\n\n🟣 →
+  Mercurio retrógrado tocó este mismo punto el 3 de noviembre: la mente y
+  la identidad están mirando juntas el mismo tema de tu valor propio. ¿Qu
+ é necesitas reconocer en ti mismo antes de buscarlo fuera\, en tu comunid
+ ad?\n\n🔵 Aspecto: ☉ (13°04' Escorpio\, en casa 11) ☌ ♀ natal (13
+ °04' Escorpio\, en casa 11) · exacto 05/11 12:47\nCómo se conecta: orig
+ en en casas 10 y 11 → se vive en casa 11 → influye en casa 9 (regida p
+ or ☉) · casas 6 y 11 (regida por ♀)\n\n—\nIris Calendar\n🐞 Actua
+ lizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💸 Luz sobre tu valor propio
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ ☂️🔥 Prepara lo que viene con tus estudios · hasta e
+ l 6 ene 2027
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261008T205752Z
+UID:ef4664a98ad6e39de64f7b37@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Desde hoy y hasta el 6 de enero\, Marte recorre los grado
+ s que volverá a pisar retrógrado entre enero y abril: una etapa de prepa
+ ración en tu casa de estudios\, viajes y expansión de mirada.\n\n🟢 Si
+  te nace\, haz:\n• Avanza en un proyecto de estudio o viaje que ya tení
+ as en mente\n• Define bien una meta de aprendizaje antes de lanzarte de 
+ lleno\n\n🟡 Si puedes\, evita:\n• Comprometerte a un viaje largo o est
+ udio costoso sin pensarlo bien\n\n🟣 → ¿Qué idea o viaje quieres dej
+ ar bien definido antes de que llegue el momento de actuar?\n\n🔵 Aspecto
+ : Sombra pre-retrógrada de ♂ · 20°55' Leo → 10°25' Virgo · retró
+ grado 10/01 – 01/04\n\n(hasta el 6 ene 2027)\n\n—\nIris Calendar\n🐞
+  Actualizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ ☂️🔥 Prepara lo que viene con tus estudios · has
+ ta el 6 ene 2027
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Prepárate para avanzar en calma · hasta el 11 nov
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261008T205752Z
+UID:6e1c457d2f6cbc053ce1fcb0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\n🟠 Venus s
+ igue retrógrada en tu casa de la comunidad\, las amistades y las metas: t
+ odavía es momento de revisar vínculos y valores antes de decidir.\n\n
+ 🟢 Si te nace\, haz:\n• Prepara con calma qué quieres retomar con tu 
+ comunidad o tus metas\n\n🟡 Si puedes\, evita:\n• No cierres todavía 
+ compromisos de dinero o de amistad importantes\n\n🟣 → ¿Qué meta o a
+ mistad sientes que necesita un replanteamiento antes de actuar?\n\n🔵 As
+ pecto: ♀ retrógrado · 24°20' Libra · en casa 11\n\n—\nIris Calenda
+ r\n🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.ap
+ p
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💗 Prepárate para avanzar en calma · hasta el 11 nov
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Temporada de pausa y cierre interior
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261008T205752Z
+UID:2e1b18aa1a6c0c76476d49dc@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 El Sol entra en tu casa del descanso\, lo inconsciente y 
+ los cierres: toca bajar el ritmo y soltar lo que ya no necesitas cargar.\n
+ \n🟢 Si te nace\, haz:\n• Date espacios de descanso real\, sin agenda
+ \n• Dedica tiempo a cerrar pendientes emocionales o espirituales\n\n🟡
+  Si puedes\, evita:\n• No fuerces tu agenda social estos días\n• Evit
+ a firmar acuerdos nuevos: Mercurio y Venus siguen retrógrados\n\n🟣 →
+  ¿Qué etapa sientes que ya terminó pero sigues cargando? El Sol aquí i
+ nvita a soltarla con conciencia\, no con prisa.\n\n🔵 Aspecto: ☉ entra
+  en tu casa 12 · 08/11 02:22\n\n—\nIris Calendar\n🐞 Actualizado el 0
+ 8/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Temporada de pausa y cierre interior
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌑 Luna nueva para soltar y descansar
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261008T205752Z
+UID:658e6e435125ae81db018bbf@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Luna nueva en tu casa del descanso y los cierres\, que se
+  une a tu Venus natal: toca sembrar una intención sobre soltar y cuidarte
+ \, no sobre el amor o el dinero ahora mismo.\n\n🟢 Si te nace\, intencio
+ nes para esta luna:\n• Me comprometo a reservar tiempo de descanso real 
+ cada semana\n• Me comprometo a cerrar algo pendiente de mi casa de lo co
+ mpartido con calma\n• Me comprometo a escuchar qué necesito en soledad 
+ antes de decidir en pareja\n\n🟡 Si puedes\, evita:\n• No fuerces deci
+ siones de pareja o de dinero: Venus y Mercurio siguen retrógrados\n• No
+  llenes la agenda: esta luna pide silencio\, no acción\n\n🟣 → Plutó
+ n\, regente de esta luna\, ahora transita tu casa de dinero y talentos: ¿
+ qué parte de tu valor propio necesita soltarse para sanar? ¿Qué cierre 
+ te permitirías si no tuvieras prisa?\n\n🔵 Aspecto: Luna nueva · 16°5
+ 3' Escorpio · en casa 12 · exacto 09/11 08:02\n\n—\nIris Calendar\n
+ 🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌑 Luna nueva para soltar y descansar
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Palabras que remueven el control
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261008T205752Z
+UID:4a42c3fb74da695c11e4ce8c@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercurio retrógrado se une hoy a tu Plutón natal\, en t
+ u casa de comunidad y amistades. Esto empuja el tema de fondo que ya traba
+ jaba el cuadrante lento de Plutón: quién controla qué en tus vínculos 
+ de grupo.\n\n🟢 Si te nace\, haz:\n• Anota lo que descubras sobre un v
+ ínculo de amistad\, sin enviarlo aún\n\n🟡 Si puedes\, evita:\n• Man
+ dar un mensaje decisivo a un amigo o grupo: Mercurio sigue retrógrado has
+ ta el 13/11\n\n🟣 → ¿Con qué amistad o comunidad sientes que hay un 
+ juego de poder oculto? Mercurio retrógrado te da la oportunidad de verlo 
+ antes de hablarlo.\n\n🔵 Aspecto: ☿ ℞ (5°53' Escorpio\, en casa 11)
+  ☌ ♇ natal (5°53' Escorpio\, en casa 11) · exacto 10/11 17:13\nCómo
+  se conecta: origen en casas 10 y 11 → se vive en casa 11 → influye en
+  casas 7 y 10 (regida por ☿) · casa 12 (regida por ♇) · sistema clá
+ sico: casas 5 y 12 (regida por ♂)\n\n—\nIris Calendar\n🐞 Actualizad
+ o el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Palabras que remueven el control
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Venus retoma su camino · hasta el 16 nov
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261008T205752Z
+UID:b22d7b883bbf5b32e961bbb5@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Venus queda casi quieta antes de avanzar de nuevo\, en tu
+  casa de la comunidad y las metas: estos días tienen más fuerza para dec
+ idir sobre tus amistades y tus valores.\n\n🟢 Si te nace\, haz:\n• Obs
+ erva qué amistad o meta quieres impulsar de nuevo\n• Agradece lo que re
+ visaste en estas semanas sobre tu valor propio\n\n🟡 Si puedes\, evita:
+ \n• No firmes ni cierres acuerdos de dinero o de pareja todavía\n• No
+  fuerces una conversación importante hoy mismo\n\n🟣 → Este cierre de
+  ciclo toca tu rutina diaria y tus metas de comunidad: ¿qué aprendiste d
+ e ti y tus valores mientras Venus miraba hacia atrás?\n\n🔵 Aspecto: 
+ ♀ estacionario (antes de directo) · 22°51' Libra · en casa 11 · 11/1
+ 1 – 16/11 (exacto 14/11 01:27)\nCómo se conecta: origen en casa 11 → 
+ se vive en casa 11 → influye en casas 6 y 11 (regida por ♀)\n\n—\nIr
+ is Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-astral.
+ netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Venus retoma su camino · hasta el 16 nov
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Mercurio recupera su rumbo · hasta el 14 nov
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261008T205752Z
+UID:8c5fce57079c15176294507b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercurio queda casi quieto antes de avanzar\, en tu casa 
+ de la comunidad: estos días marcan el final de su revisión sobre mensaje
+ s y vínculos.\n\n🟢 Si te nace\, haz:\n• Deja claro en tu cabeza qué
+  quieres comunicar en tu entorno social\n• Espera unos días más antes 
+ de enviar algo importante\n\n🟡 Si puedes\, evita:\n• No firmes contra
+ tos de pareja o de trabajo todavía\n• No tomes a Venus retrógrada como
+  señal de que algo de amor está decidido\n\n🟣 → Esto cierra una rev
+ isión sobre tu carrera y tus vínculos de comunidad: ¿qué mensaje o ver
+ dad quedó más clara estas semanas?\n\n🔵 Aspecto: ☿ estacionario (an
+ tes de directo) · 5°02' Escorpio · en casa 11 · 12/11 – 14/11 (exact
+ o 13/11 16:53)\nCómo se conecta: origen en casa 10 → se vive en casa 11
+  → influye en casas 7 y 10 (regida por ☿)\n\n—\nIris Calendar\n🐞 
+ Actualizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Mercurio recupera su rumbo · hasta el 14 nov
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💬 Mercurio avanza\, mirando atrás · hasta el 30 nov
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261008T205752Z
+UID:c4a487c4cb6c8f07087e17a7@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercurio ya avanza\, pero repite los mismos grados que re
+ corrió retrógrado en tu casa de la comunidad: conviene conectar lo vivid
+ o entre el 4 de octubre y el 13 de noviembre con lo que llega ahora.\n\n
+ 🟢 Si te nace\, haz:\n• Revisa qué conversación o decisión de esas 
+ semanas cobra sentido ahora\n• Espera a que termine noviembre para lanza
+ r algo nuevo en tu entorno social\n\n🟡 Si puedes\, evita:\n• No actú
+ es todavía como si todo estuviera resuelto del todo\n• No ignores a Mar
+ te\, que ya prepara su propia revisión en tus estudios y viajes\n\n🟣 
+ → ¿Qué de lo que se movió en tu comunidad o tus metas durante octubre
+  y noviembre recién ahora termina de acomodarse?\n\n🔵 Aspecto: ☿ dir
+ ecto · 5°02' Escorpio → 20°58' Escorpio · retrógrado 24/10 – 13/1
+ 1\n\n(hasta el 30 nov)\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/20
+ 26\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💬 Mercurio avanza\, mirando atrás · hasta el 30 no
+ v
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Una conversación que destapa algo
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261008T205752Z
+UID:491737e8bba1b28f8a66db44@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercurio se une a tu Plutón natal en tu casa de amistade
+ s y comunidad: hoy una conversación o un mensaje puede sacar a la luz un 
+ tema de poder o de dinero compartido que Plutón en cuadratura lleva meses
+  removiendo.\n\n🟢 Si te nace\, haz:\n• Habla con honestidad sobre un 
+ tema de control en tu comunidad o grupo\n• Anota qué verdad incómoda n
+ ecesitas nombrar en tu entorno cercano\n\n🟡 Si puedes\, evita:\n• Usa
+ r la información que descubras para manipular a alguien\n\n🟣 → ¿Qu
+ é tema de poder o confianza dentro de tu grupo de amistades llevas tiempo
+  evitando decir en voz alta? Esta cuadratura te empuja a dejar de callarlo
+ .\n\n🔵 Aspecto: ☿ (5°53' Escorpio\, en casa 11) ☌ ♇ natal (5°53
+ ' Escorpio\, en casa 11) · exacto 16/11 20:10\nCómo se conecta: origen e
+ n casas 10 y 11 → se vive en casa 11 → influye en casas 7 y 10 (regida
+  por ☿) · casa 12 (regida por ♇) · sistema clásico: casas 5 y 12 (r
+ egida por ♂)\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttp
+ s://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Una conversación que destapa algo
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💗 Avanza\, pero revisa el camino andado · hasta el 15 d
+ ic
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261008T205752Z
+UID:e3a68b18d47dc783febb4635@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Venus sigue directa\, pero hasta el 15 de diciembre vuelv
+ e a pisar los grados que recorrió retrógrada. Es momento de mirar atrás
+ \, al 31 de agosto y al 14 de noviembre\, y conectarlo con tus amistades y
+  tus estudios o viajes de ahora.\n\n🟢 Si te nace\, haz:\n• Revisa qu
+ é aprendiste sobre el dinero o el cariño en una amistad desde agosto\n\n
+ 🟡 Si puedes\, evita:\n• Cerrar un acuerdo de dinero o de valores con 
+ prisa: deja pasar estos días\n\n🟣 → ¿Qué cambió en cómo valoras 
+ una amistad o un plan de estudios desde finales de agosto? No se siente de
+ l todo resuelto hasta que termines de recorrer este camino.\n\n🔵 Aspect
+ o: ♀ directo · 22°51' Libra → 8°29' Escorpio · retrógrado 03/10 
+ – 14/11\n\n(hasta el 15 dic)\n\n—\nIris Calendar\n🐞 Actualizado el 
+ 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💗 Avanza\, pero revisa el camino andado · hasta el 
+ 15 dic
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Cambia el tono del descanso
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261008T205752Z
+UID:c1693bf3f432aebe4630595d@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 El Sol entra en Sagitario\, siguiendo en tu casa del desc
+ anso y los cierres: la energía se vuelve más expansiva y filosófica par
+ a procesar lo que estás soltando.\n\n🟢 Si te nace\, haz:\n• Lee o es
+ cucha algo que te amplíe la mirada mientras descansas\n\n🟡 Si puedes\,
+  evita:\n• No fuerces respuestas rápidas en temas espirituales o de cie
+ rre\n\n🟣 → ¿Qué cierre necesitas mirar con más perspectiva y menos
+  urgencia?\n\n🔵 Aspecto: ☉ entra en Sagitario · en casa 12 · 22/11 
+ 08:23\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-ca
+ lendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Cambia el tono del descanso
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Mira de nuevo lo que ya tienes · hasta el 15 dic
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+DTSTAMP:20261008T205752Z
+UID:d3fc2d20d806a05b49aada84@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\n🟠 Venus s
+ igue repasando los mismos grados en tu casa de la comunidad: buen momento 
+ para revisar lo que ya construiste en tus amistades y tu valor propio.\n\n
+ 🟢 Si te nace\, haz:\n• Revisa una amistad o meta que ya tienes\, sin 
+ buscar algo nuevo\n\n🟡 Si puedes\, evita:\n• No inviertas en algo nue
+ vo de dinero o imagen todavía\n\n🟣 → ¿Qué de lo que ya tienes en t
+ u comunidad merece más atención que algo nuevo?\n\n🔵 Aspecto: ♀ ret
+ rógrado · 24°34' Libra · en casa 11\n\n—\nIris Calendar\n🐞 Actual
+ izado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💗 Mira de nuevo lo que ya tienes · hasta el 15 dic
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Luna llena: revisa tus rutinas
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261008T205752Z
+UID:2d721b53845d056b077ea8da@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 La luna nueva del 15 de junio cayó en tu casa de pareja 
+ y tocó a tu Quirón natal: sembraste algo sobre sanar heridas en los vín
+ culos. Esta luna llena en tu casa de rutinas y trabajo diario se enfrenta 
+ a tu Saturno natal y pide revisar qué tan sostenible es tu día a día.\n
+ \n🟢 Si te nace\, haz:\n• Revisa qué rutina de trabajo o salud necesi
+ tas ajustar ya\n• Repasa qué avanzaste en esa herida de pareja desde ju
+ nio\n\n🟡 Si puedes\, evita:\n• No tomes decisiones grandes de pareja 
+ en caliente: Marte ya está en sombra\n• No sobrecargues tu agenda esta 
+ semana\n\n🟣 → Mercurio\, regente de esta luna\, ya está directo en t
+ u casa de comunidad y metas: ¿qué estructura de tu rutina diaria sientes
+  que ya no te sostiene como antes?\n\n🔵 Aspecto: Luna llena · 2°20' G
+ éminis · en casa 6 · exacto 24/11 15:53\n\n—\nIris Calendar\n🐞 Act
+ ualizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 Luna llena: revisa tus rutinas
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Palabras que acarician el amor
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261008T205752Z
+UID:5cb3cfe93acf06f4fe9324d0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercurio se une a tu Venus natal en tu casa de la comunid
+ ad y las amistades\, mientras Plutón sigue empujando ese mismo punto desd
+ e el fondo: hoy puedes poner en palabras algo que llevas tiempo sintiendo 
+ sobre tu valor propio o tu forma de amar.\n\n🟢 Si te nace\, haz:\n• D
+ ile a alguien cercano lo que valoras de esa amistad o vínculo\n• Escrib
+ e qué necesitas revisar en tu forma de dar y recibir cariño\n\n🟡 Si p
+ uedes\, evita:\n• Forzar una conversación de pareja o dinero mientras M
+ arte sigue en sombra\n• Prometer más de lo que puedes sostener con un a
+ migo o socio\n\n🟣 → Plutón lleva meses presionando este punto de tu 
+ valor y tus vínculos: ¿qué verdad sobre lo que mereces en el amor o en 
+ tu círculo cercano te cuesta decir en voz alta? Hoy las palabras pueden a
+ yudarte a soltarla.\n\n🔵 Aspecto: ☿ (13°04' Escorpio\, en casa 11) 
+ ☌ ♀ natal (13°04' Escorpio\, en casa 11) · exacto 24/11 11:07\nCómo
+  se conecta: origen en casas 10 y 11 → se vive en casa 11 → influye en
+  casas 7 y 10 (regida por ☿) · casas 6 y 11 (regida por ♀)\n\n—\nIr
+ is Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-astral.
+ netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Palabras que acarician el amor
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 Energía que pide hacer algo · hasta el 16 dic
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261008T205752Z
+UID:2616d7c796d1885341ac8ab3@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Desde hoy y hasta el 16 de diciembre (exacto el 9) Marte 
+ choca con tu Saturno natal: puedes sentir más impaciencia con tus estudio
+ s\, viajes o planes de expansión\, como si algo te frenara justo cuando q
+ uieres avanzar.\n\n🟢 Si te nace\, haz:\n• Avanza en tus estudios o pl
+ anes de viaje con pasos pequeños y realistas\n\n🟡 Si puedes\, evita:\n
+ • Forzar una decisión de viaje o estudio solo por salir de la frustraci
+ ón\n\n🟣 → ¿Qué límite tuyo con tus estudios o tu expansión de mi
+ rada necesita constancia en vez de impulso?\n\n🔵 Aspecto: ♂ se acerca
+  a □ ♄ natal (en casa 12) · exacto 09/12\nCómo se conecta: origen en
+  casas 2 y 12 → se vive en casa 9 → influye en casa 5 (regida por ♂)
+  · casa 2 (regida por ♄) · sistema clásico: casa 12 (regida por ♂) 
+ · casa 3 (regida por ♄)\n\n(hasta el 16 dic)\n\n—\nIris Calendar\n
+ 🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 Energía que pide hacer algo · hasta el 16 dic
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 La acción se vuelve más analítica
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261008T205752Z
+UID:4d5f6c26f4473a52597a750b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Marte entra en Virgo\, siguiendo en tu casa de estudios\,
+  viajes y expansión de mirada: la energía se vuelve más detallista y me
+ nos impulsiva para encarar lo que quieres aprender o explorar.\n\n🟢 Si 
+ te nace\, haz:\n• Organiza el plan de un curso\, viaje o proyecto de est
+ udio\n\n🟡 Si puedes\, evita:\n• Lanzarte a firmar un viaje largo o un
+  curso nuevo ya\n\n🟣 → Marte sigue en sombra hasta el 1 de abril de 2
+ 027: mejor preparar que arrancar del todo. ¿Qué parte de tus estudios o 
+ tu forma de ver el mundo quieres encarar con más método?\n\n🔵 Aspecto
+ : ♂ entra en Virgo · en casa 9 · 26/11 00:37\n\n—\nIris Calendar\n
+ 🐞 Actualizado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 La acción se vuelve más analítica
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 La mente busca silencio
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261008T205752Z
+UID:03792c8ddb62f0e04d4c558b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercurio entra en tu casa del descanso\, lo inconsciente 
+ y los cierres: la mente pide procesar hacia dentro en vez de comunicar hac
+ ia fuera.\n\n🟢 Si te nace\, haz:\n• Escribe en un diario lo que te ro
+ nda sin necesidad de compartirlo\n• Deja algunos pendientes de comunicac
+ ión para más adelante\n\n🟡 Si puedes\, evita:\n• Forzar conversacio
+ nes importantes estos días\n• Tomar decisiones de estudios o viajes con
+  la mente dispersa\n\n🟣 → ¿Qué pensamiento o conversación pendient
+ e necesitas simplemente dejar reposar antes de hablarlo?\n\n🔵 Aspecto: 
+ ☿ entra en tu casa 12 · 26/11 11:07\n\n—\nIris Calendar\n🐞 Actuali
+ zado el 08/10/2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 La mente busca silencio
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Un día de pausa filosófica
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20261008T205752Z
+UID:e769846f596cb23b5a19a6a0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 El Sol se une a tu Saturno natal en tu casa del descanso:
+  un momento pasajero para sentir el peso de tus responsabilidades de carre
+ ra desde la calma\, sin que te exija nada aún.\n\n🟢 Si te nace\, haz:
+ \n• Dedica un rato a descansar sin culpa\n\n🟡 Si puedes\, evita:\n•
+  Autoexigirte más de lo normal en tu imagen pública hoy\n\n🟣 → ¿Qu
+ é responsabilidad de tu carrera sientes que cargas incluso cuando intenta
+ s descansar?\n\n🔵 Aspecto: ☉ (4°53' Sagitario\, en casa 12) ☌ ♄ 
+ natal (4°53' Sagitario\, en casa 12) · exacto 27/11 04:36\nCómo se cone
+ cta: origen en casas 10 y 12 → se vive en casa 12 → influye en casa 9 
+ (regida por ☉) · casa 2 (regida por ♄) · sistema clásico: casa 3 (r
+ egida por ♄)\n\n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttp
+ s://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Un día de pausa filosófica
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Cierra lo que dejaste pendiente · hasta el 15 dic
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261008T205752Z
+UID:37325c457e8913558686bcdc@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Recordatorio semanal: esta etapa sigue activa.\n\n🟠 Venus s
+ igue recorriendo hacia delante los mismos grados que pisó retrógrada en 
+ tu casa de la comunidad y las amistades: es buen momento para retomar algo
+  de cariño o de dinero compartido que quedó sin cerrar.\n\n🟢 Si te na
+ ce\, haz:\n• Retoma esa conversación de cariño o agradecimiento que de
+ jaste a medias\n\n🟡 Si puedes\, evita:\n• Empezar un vínculo o acuer
+ do de dinero totalmente nuevo estos días\n\n🟣 → ¿Qué gesto de afec
+ to o qué cuenta pendiente con una amistad quedó sin terminar hace unas s
+ emanas?\n\n🔵 Aspecto: ♀ retrógrado · 27°43' Libra · en casa 11\n
+ \n—\nIris Calendar\n🐞 Actualizado el 08/10/2026\nhttps://mi-calendari
+ o-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💗 Cierra lo que dejaste pendiente · hasta el 15 dic
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 END:VCALENDAR

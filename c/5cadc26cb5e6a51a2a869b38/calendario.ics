@@ -6,31 +6,10 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:📖 How to read your calendar
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-DTSTAMP:20261001T212435Z
-UID:legend-c007-v2@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Each event has an emoji that tells you what it's about:\n\n
- 🔥 action & energy\n💬 communication & decisions\n💗 love\, relation
- ships & pleasure\n💸 money\, worth & talents\n🍀 growth & luck\n🧱 c
- ommitment & effort\n⚡ sudden change\n🌫️ intuition (or confusion)\n
- 🌋 deep transformation\n☀️ identity & vitality\n🌑 New Moon: time 
- to begin\n🌕 Full Moon: time to close\n🌘 eclipse & eclipse season\n
- ☂️ shadow before a retrograde (next to the planet's icon)\n🗓️ mon
- th summary (on the 1st)\n\nThe emoji next to “Updated” (🍇\, 🐝…
- ) changes when there is a new version of your calendar.\n\nOpen each event
-  to read your personal interpretation. At the end you'll find the technica
- l detail\, in case you want to learn.\n\n—\n✨ Iris Calendar\n🥝 Upda
- ted on 01 Oct 2026\nhttps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:💬 A clash between mind and gut
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:7d3d473548f2a19aa5eb7196@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Today\, quick-thinking energy sits exactly opposite your Moon
  \, activating the axis between your house of intimacy and your house of mo
@@ -54,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:🔄 ☂️💗 Love slows down to clarify · until Sep 30
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:3f0ef7f59090a617b692580f@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Venus starts tracing degrees in your 8th house of intimacy\, s
  hared resources and deep bonds — ground it will revisit retrograde from 
@@ -75,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:🔄 🔥 Intensity building toward release · until Oct 8
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:5f3f714561e539c53b3a7d7b@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Energy is building for about two weeks\, peaking October 1st\,
   as action-planet friction touches your house 8 — deep transformation\, 
@@ -93,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:🌕 Facing yourself in the mirror
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:92b4b787ccb44e4b6003307c@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:This Full Moon lands right on your Sun and Mercury\, lighting 
  up who you are versus what you've built with others (house 7). Add transit
@@ -119,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:🔥 Bolder energy at work
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:4995001966126880f3c10a09@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Mars moves into Leo\, still working through your 6th house of 
  daily routines and health habits. The mood turns more expressive and proud
@@ -140,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:💬 Sharper focus on shared matters
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:4fc1da9e0f3c30fe4c6755ea@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Mercury enters Scorpio\, still moving through your 8th house o
  f shared resources and intimacy. Conversations turn more probing and direc
@@ -161,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:🗓️ Your October at a glance
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:5a257e8ee58e689e014af68f@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:October asks you to slow down in the places that matter most: 
  love\, money\, identity and direction. Venus turns retrograde on October 3
@@ -199,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:💗 Venus pauses before turning inward · until Oct 5
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:c6e642faf3b67253f91096b6@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Venus comes to a near standstill at 8°29' Scorpio in your 8th
   house\, its most intense point before turning retrograde on October 3. Th
@@ -224,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:🌋 Old wounds surface for healing
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:d0de0bdce86475b3a701d831@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Action-energy in your work and routines (house 6) pushes hard 
  against deep\, buried material tied to shared resources and intimacy (hous
@@ -247,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:🍀 Your worth meets a growth test
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:1d07c4b2ca0cd42b6228e13e@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Jupiter reaches its exact opposition to your natal Venus today
  \, stretching a line between your 12th house of inner life and your 6th ho
@@ -275,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:☀️ Big vision meets real limits
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:687578110c68953f51a29a87@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:The Sun is moving through your relationship house\, lighting u
  p how partnerships and close ties feel right now. It's squaring your natal
@@ -301,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:🔄 🔥 Intensity building toward release · until Oct 8
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:9e2fe8d55950d27338726497@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Weekly reminder: this phase is still active.\n\nEnergy is buil
  ding for about two weeks\, peaking October 1st\, as action-planet friction
@@ -321,7 +300,7 @@ SUMMARY:▶️ ☂️💬 Tie up loose ends before Mercury turns · until
  Oct 22
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:d50309a0c3c13309b91f489d@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Mercury begins tracing degrees across your 8th and 9th houses 
  — shared resources\, beliefs\, travel and bigger-picture plans — groun
@@ -347,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:▶️ 💗 Venus turns inward on intimacy · until Nov 11
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:ce8412907e6f0d22c6c91807@jentm1-arch.github.io/calendario-astral
 DESCRIPTION:Venus begins moving backward through your 8th house\, retracin
  g the ground it covered since August. This is a time to revisit — not la
@@ -370,538 +349,1533 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⏹️ Ends · 🔥 Intensity building toward release
+SUMMARY:📖 How to read your calendar
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20261001T212435Z
-UID:bb69e3361a7bfce29500a209@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:\n\n— Technical detail: Mars approaching square your Pluto n
- atal (house 8) · exact 01/10\n\n—\n✨ Iris Calendar\n🥝 Updated on 0
- 1 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+DTSTAMP:20261008T202844Z
+UID:legend-c007-v2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Each event has an emoji that tells you what it's about:\n\n
+ 🔥 action & energy\n💬 communication & decisions\n💗 love\, relation
+ ships & pleasure\n💸 money\, worth & talents\n🍀 growth & luck\n🧱 c
+ ommitment & effort\n⚡ sudden change\n🌫️ intuition (or confusion)\n
+ 🌋 deep transformation\n☀️ identity & vitality\n🌑 New Moon: time 
+ to begin\n🌕 Full Moon: time to close\n🌘 eclipse & eclipse season\n
+ ☂️ shadow before a retrograde (next to the planet's icon)\n🗓️ mon
+ th summary (on the 1st)\n\nThe emoji next to “Updated” (🍇\, 🐝…
+ ) changes when there is a new version of your calendar.\n\nOpen each event
+  to read your personal interpretation.\n\nHow to read each event:\n🟠 wh
+ at is going on\n🟢 If it feels right\, do: suggestions\, never orders\n
+ 🟡 If you can\, avoid\n🟣 → a question for you\n🔵 Aspect: the ast
+ rological detail\, in case you want to learn\n\nSymbols in the “Aspect
+ ” line:\n☉ Sun · ☽ Moon · ☿ Mercury · ♀ Venus · ♂ Mars · 
+ ♃ Jupiter · ♄ Saturn · ♅ Uranus · ♆ Neptune · ♇ Pluto · ⚷
+  Chiron · ☊ Node\n☌ conjunction · ☍ opposition · □ square · 
+ △ trine · ⚹ sextile\n℞ retrograde\n“in house X” = the life area
+  where it happens · “influences” = the areas that receive the mark.\n
+ \n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-a
+ stral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:⏹️ Ends · 🔥 Intensity building toward release
-TRIGGER:PT9H
+DESCRIPTION:📖 How to read your calendar
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:☀️ Spotlight on trust and intimacy
+SUMMARY:☀️ A deeper layer of intimacy opens
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:4424a131a8f31678cde7feda@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:The Sun moves into your house of shared resources\, intimacy\,
-  and transformation (house 8) for the next month. Expect themes of trust\,
-  vulnerability\, and what you share with others (money\, emotional depth\,
-  secrets) to take center stage. This is a natural time for honest\, close 
- conversations. → Ask yourself what you're ready to be more open about in
-  one close relationship.\n\n— Technical detail: Sun enters your house 8 
- · 08/10 15:40\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nhtt
- ps://mi-calendario-astral.netlify.app
+DESCRIPTION:🟠 The Sun joins your house of shared resources\, intimacy a
+ nd deep transformation for the next month. It's a good stretch to look hon
+ estly at what you share with others — money\, trust\, emotional weight.
+ \n\n🟢 If it feels right\, do:\n• Review a shared account or joint exp
+ ense calmly\n• Have one honest conversation about trust with someone clo
+ se\n\n🟡 If you can\, avoid:\n• Signing new shared financial agreement
+ s right now\, with Venus retrograde\n• Avoiding a hard conversation abou
+ t intimacy just to keep peace\n\n🟣 → This month shines a light on wha
+ t you share with others — money\, trust\, vulnerability. What part of th
+ at do you usually avoid looking at directly?\n\n🔵 Aspect: ☉ enters yo
+ ur house 8 · 08/10 15:40\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 20
+ 26\nhttps://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:☀️ Spotlight on trust and intimacy
-TRIGGER:PT9H
+DESCRIPTION:☀️ A deeper layer of intimacy opens
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌋 Quiet power shift settles · until Oct 23
+SUMMARY:🌋 A long inner shift settles · until Oct 23
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:7adc4143bdf5b662a4f4e578@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Pluto slows to its most powerful point in your 12th house of r
- est\, inner life and release. Whatever deep transformation has been workin
- g behind the scenes quietly locks into forward motion now. These days favo
- r solitude\, reflection and letting go of what no longer serves your inner
-  world — avoid forcing outer decisions while this settles.\n→ What are
-  you ready to finally release from your inner world?\n\n— Technical deta
- il: Pluto stationary (before direct) · 3°04' Aquarius · house 12 · 09/
- 10 – 23/10 (exact 16/10 04:40)\n\n—\n✨ Iris Calendar\n🥝 Updated o
- n 01 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+DESCRIPTION:🟠 Pluto turns direct this week after months moving backward
+ \, sitting in your house of rest and quiet endings. Your natal Pluto lives
+  in your house of shared resources and deep transformation\, so this is ab
+ out what power or control you've been reclaiming there\, now finally movin
+ g forward again.\n\n🟢 If it feels right\, do:\n• Give yourself quiet 
+ time to notice what already changed inside\n• Write down what you stoppe
+ d needing to control\n\n🟡 If you can\, avoid:\n• Force a decision abo
+ ut shared money or intimacy this week (Venus retrograde until Nov 14)\n•
+  Rush back into old patterns just because the pressure eased\n\n🟣 → S
+ ince Pluto turned retrograde\, something about control\, power or what you
+  share with others has been quietly reworking itself underneath. Now that 
+ it moves forward again\, what do you no longer need to grip so tightly?\n
+ \n🔵 Aspect: ♇ stationary (before direct) · 3°04' Aquarius · in hou
+ se 12 · 09/10 – 23/10 (exact 16/10 04:40)\nHow it connects: origin in h
+ ouse 8 → lived in house 12 → influences house 9 (ruled by ♇) · clas
+ sical: houses 2 and 9 (ruled by ♂)\n\n—\nIris Calendar\n🐥 Updated o
+ n 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🌋 Quiet power shift settles · until Oct 23
-TRIGGER:PT9H
+DESCRIPTION:🌋 A long inner shift settles · until Oct 23
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌑 New Moon Opens Deep Trust
+SUMMARY:🌑 New moon on shared resources and intimacy
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:32479a9bacf46d671330f238@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:This New Moon lands in your house of intimacy and shared resou
- rces\, exactly where your Sun and Moon both already live in your chart —
-  this is deeply personal. Venus\, ruling this Moon\, sits naturally in you
- r house of quiet reflection but now moves through this same deep zone\, as
- king you to blend emotional honesty with financial or intimate trust. It's
-  time to seed something around shared money\, deep bonds\, or emotional ex
- posure. Try: 'I open honest conversations about shared resources\,' 'I let
-  myself be truly seen by someone I trust\,' 'I release old fears around me
- rging my life with another's.' You'll revisit this on March 22\, 2027\, at
-  the Full Moon in Libra.\n→ What deep bond is asking for more honesty ri
- ght now?\n\n— Technical detail: New Moon · 17°21' Libra · house 8 · 
- exact 10/10 17:50\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\n
- https://mi-calendario-astral.netlify.app
+DESCRIPTION:🟠 This New Moon lands in your house of shared resources\, i
+ ntimacy and deep transformation\, touching both your Sun and Moon placemen
+ ts there. Venus\, ruler of this Moon's sign\, is retrograde in that very h
+ ouse\, so the energy favors quiet review over fresh starts in love or mone
+ y matters shared with others.\n\n🟢 If it feels right\, intentions for t
+ his moon:\n• I commit to reviewing honestly what I share financially wit
+ h someone close\n• I commit to noticing where I give up too much control
+  in intimacy\n• I commit to waiting until Venus moves direct on Nov 14 b
+ efore any big shared decision\n\n🟡 If you can\, avoid:\n• Push a new 
+ joint investment or shared account right now\n• Reopen an old intimate c
+ onversation expecting a clean resolution yet\n\n🟣 → This intention wi
+ ll be reviewed at the Full Moon in Libra on March 22\, 2027. With Venus re
+ trograde in this same house\, what you set now is less about starting and 
+ more about understanding what you actually value when you merge your life 
+ with someone else's.\n\n🔵 Aspect: New Moon · 17°21' Libra · in house
+  8 · exact 10/10 17:50\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026
+ \nhttps://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🌑 New Moon Opens Deep Trust
-TRIGGER:PT9H
+DESCRIPTION:🌑 New moon on shared resources and intimacy
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔄 💗 Venus turns inward on intimacy · until Nov 11
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-DTSTAMP:20261001T212435Z
-UID:88f61670bb18c7d51ba4d6cf@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Weekly reminder: this phase is still active.\n\nVenus begins m
- oving backward through your 8th house\, retracing the ground it covered si
- nce August. This is a time to revisit — not launch — questions of trus
- t\, shared money and emotional closeness. Old patterns around intimacy or 
- financial entanglements may resurface for review. Avoid signing new financ
- ial agreements\, starting major joint investments or declaring big romanti
- c commitments until it turns direct. Instead\, use this period to understa
- nd what you really value in your closest bonds.\n→ What pattern around t
- rust or shared resources is asking to be understood\, not repeated?\n\n—
-  Technical detail: Venus retrograde · 8°29' Scorpio → 22°51' Libra ·
-  house 8\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nhttps://m
- i-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:▶️ 🔥 Friction Around Shared Resources · until Nov 3
+SUMMARY:▶️ 🔥 Friction builds around rules and routine · until Nov 
+ 3
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:9d35ab20f7642169d062035b@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Building energy is stirring around commitments tied to shared 
- money\, deep bonds or long-held responsibilities in your house of intimacy
-  and transformation. Expect friction: maybe a bill\, a boundary\, or an ol
- d emotional debt asking to be addressed. Exact tension peaks October 27\, 
- felt about a week after too. Use it to face what you've been avoiding\, no
- t to force conflict.\n→ What responsibility around shared resources have
-  you been postponing?\n\n— Technical detail: Mars approaching square you
- r Saturn natal (house 8) · exact 27/10\n\n(until Nov 3)\n\n—\n✨ Iris 
- Calendar\n🥝 Updated on 01 Oct 2026\nhttps://mi-calendario-astral.netlif
- y.app
+DESCRIPTION:🟠 From October 13 to November 3\, Mars grows into a square 
+ with your natal Saturn\, felt through your daily work and routines\, while
+  the pressure actually traces back to your deeper drive around shared reso
+ urces. It can feel like restrictions are blocking your energy at work.\n\n
+ 🟢 If it feels right\, do:\n• Channel frustration into a workout or wa
+ lk you already know works\n• Write down what rule at work feels unfair b
+ efore reacting\n\n🟡 If you can\, avoid:\n• Push back hard on a boss o
+ r routine commitment this week\n• Make big calls about money or talents 
+ while this friction peaks\n\n🟣 → What part of your daily routine or s
+ ense of your own worth feels restricted by rules you didn't choose? This f
+ riction often marks where discipline and desire haven't yet found a way to
+  work together.\n\n🔵 Aspect: ♂ approaching □ ♄ natal (in house 8)
+  · exact 27/10\nHow it connects: origin in houses 8 and 9 → lived in ho
+ use 6 → influences house 2 (ruled by ♂) · houses 11 and 12 (ruled by 
+ ♄) · classical: house 9 (ruled by ♂) · house 1 (ruled by ♄)\n\n(un
+ til Nov 3)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-
+ calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:▶️ 🔥 Friction Around Shared Resources · until Nov 3
-TRIGGER:PT9H
+DESCRIPTION:▶️ 🔥 Friction builds around rules and routine · until 
+ Nov 3
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🧱 Serious Talk\, Solid Ground
+SUMMARY:💬 A serious thought needs airtime
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:2d3e30d74713b55f72525e03@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Mercury meets your natal Saturn exactly today\, both in your h
- ouse of deep bonds and shared resources. This favors serious\, grounded co
- nversations — about debt\, commitment\, or long-term plans with someone 
- close. Words carry weight now\; use them to build something real\, not to 
- overthink.\n→ Have the serious conversation you've been rehearsing in yo
- ur head.\n\n— Technical detail: Mercury (16°17' Scorpio\, house 8) conj
- unction your Saturn natal (16°17' Scorpio\, house 8) · exact 14/10 20:44
- \n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nhttps://mi-calend
+DESCRIPTION:🟠 Mercury joins your natal Saturn today\, both in your hous
+ e of shared resources and intimacy. It's a quick but weighty moment: a ser
+ ious thought about commitment or trust wants to be said out loud.\n\n🟢 
+ If it feels right\, do:\n• Write down the serious thought instead of dis
+ missing it\n\n🟡 If you can\, avoid:\n• Signing anything about shared 
+ money while Mercury is in shadow until November 13\n\n🟣 → Your mind a
+ nd your sense of duty agree today\, even if briefly. What commitment aroun
+ d home\, partnership or shared resources have you been quietly weighing?\n
+ \n🔵 Aspect: ☿ (16°17' Scorpio\, in house 8) ☌ ♄ natal (16°17' S
+ corpio\, in house 8) · exact 14/10 20:44\nHow it connects: origin in hous
+ es 1 and 8 → lived in house 8 → influences houses 4 and 7 (ruled by 
+ ☿) · houses 11 and 12 (ruled by ♄) · classical: house 1 (ruled by 
+ ♄)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calend
  ario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🧱 Serious Talk\, Solid Ground
-TRIGGER:PT9H
+DESCRIPTION:💬 A serious thought needs airtime
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:☀️ Emotions Meet Deep Change
+SUMMARY:🔄 💗 Look again at what you already have · until Nov 11
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20261008T202844Z
+UID:35e125bd8efa29f875722269@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\n🟠 Venus kee
+ ps moving backward through your house of shared resources and intimacy\, n
+ ow inviting a second look at what you already have rather than reaching fo
+ r something new.\n\n🟢 If it feels right\, do:\n• Revisit an old share
+ d expense or saving plan with fresh eyes\n\n🟡 If you can\, avoid:\n• 
+ Start a new joint purchase or investment this week\n\n🟣 → What do you
+  already have in your shared resources that you haven't fully appreciated?
+ \n\n🔵 Aspect: ♀ retrograde · 5°35' Scorpio · in house 8\n\n—\nIr
+ is Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.net
+ lify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💗 Look again at what you already have · until Nov 11
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Your needs face your instincts
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:904050421a8a0b8a86e6092e@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:The Sun opposes your natal Moon exactly today\, stretched betw
- een your house of deep transformation and your house of money and self-wor
- th. This can stir up feelings about security — emotional versus financia
- l\, yours versus shared. Old instincts around safety may clash with a need
-  to merge resources or trust more deeply with someone else.\n→ Where doe
- s your gut reaction need to meet someone else's needs halfway?\n\n— Tech
- nical detail: Sun (23°07' Libra\, house 8) opposition your Moon natal (23
- °07' Aries\, house 2) · exact 16/10 13:41\n\n—\n✨ Iris Calendar\n
- 🥝 Updated on 01 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+DESCRIPTION:🟠 The Sun\, moving through your house of shared resources\,
+  faces off with your natal Moon in your house of money and self-worth. A p
+ ull between what you feel you need emotionally and what you value material
+ ly.\n\n🟢 If it feels right\, do:\n• Notice if an emotional reaction i
+ s really about money or worth\n• Talk openly with a partner about what y
+ ou both need right now\n\n🟡 If you can\, avoid:\n• Making a big finan
+ cial decision purely from an emotional reaction\n\n🟣 → Your gut react
+ ions around your own worth meet a deeper question about what you share wit
+ h others. Where is an old emotional habit shaping how you handle shared re
+ sources?\n\n🔵 Aspect: ☉ (23°07' Libra\, in house 8) ☍ ☽ natal (2
+ 3°07' Aries\, in house 2) · exact 16/10 13:41\nHow it connects: origin i
+ n houses 1 and 2 → lived in house 8 → influences house 7 (ruled by ☉
+ ) · houses 5 and 6 (ruled by ☽)\n\n—\nIris Calendar\n🐥 Updated on 
+ 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:☀️ Emotions Meet Deep Change
-TRIGGER:PT9H
+DESCRIPTION:☀️ Your needs face your instincts
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:💬 Big-Picture Thinking Begins
+SUMMARY:💬 Mind turns toward bigger questions
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:26dfe1010d417908b4621ed6@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Mercury moves into your house of expansion\, study and long jo
- urneys. The next few weeks favor big-picture thinking — planning a trip
- \, starting a course\, or exploring ideas that stretch your worldview.\n
- → What bigger question do you want to explore this month?\n\n— Technic
- al detail: Mercury enters your house 9 · 17/10 20:58\n\n—\n✨ Iris Cal
- endar\n🥝 Updated on 01 Oct 2026\nhttps://mi-calendario-astral.netlify.a
- pp
+DESCRIPTION:🟠 Mercury moves into your house of studies\, travel and bel
+ iefs\, shifting your focus from shared resources toward bigger-picture thi
+ nking. It's still in its pre-retrograde shadow until November 13\, so good
+  for exploring ideas\, less so for locking in travel plans or big decision
+ s.\n\n🟢 If it feels right\, do:\n• Research a course\, trip or belief
+  you're curious about\n• Journal about what you really think\, without c
+ ommitting yet\n\n🟡 If you can\, avoid:\n• Book a trip or sign up for 
+ a course today\n• Make a final call on a belief-driven decision this wee
+ k\n\n🟣 → What bigger question about your beliefs or your path have yo
+ u been circling without naming it?\n\n🔵 Aspect: ☿ enters your house 9
+  · 17/10 20:58\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps:
+ //mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:💬 Big-Picture Thinking Begins
-TRIGGER:PT9H
+DESCRIPTION:💬 Mind turns toward bigger questions
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:💬 Words that test your values
+SUMMARY:💬 A belief about love gets questioned
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:0d9e6c1a9680f6f99bfa0b8c@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Communication now (house 9 — beliefs\, learning\, bigger pic
- ture) squares your Venus in house 12\, the quiet place of your inner world
- \, rest and hidden values. A conversation\, message or opinion might clash
-  with what you privately love or believe. Don't argue just to win. Notice 
- if you're changing your words to please someone\, or hiding what you truly
-  value to avoid friction. → Speak your truth gently\, without needing fu
- ll agreement.\n\n— Technical detail: Mercury (19°42' Scorpio\, house 9)
-  square your Venus natal (19°42' Aquarius\, house 12) · exact 19/10 17:5
- 8\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nhttps://mi-calen
- dario-astral.netlify.app
+DESCRIPTION:🟠 Mercury\, now in your house of studies and expansion\, cl
+ ashes with your natal Venus in your house of rest and endings — the same
+  point the August 12 eclipse already shook. A belief about love or self-wo
+ rth asks to be rethought\, with Jupiter's slow opposition also peaking aro
+ und this point.\n\n🟢 If it feels right\, do:\n• Journal about a belie
+ f on love or money you inherited quietly\n• Talk to a trusted friend abo
+ ut what you truly value in a partner\n\n🟡 If you can\, avoid:\n• Decl
+ aring your feelings or making a love decision right now\, with Venus retro
+ grade\n• Sending an important message about values before thinking it th
+ rough\, Mercury's in shadow\n\n🟣 → Since August\, this same point in 
+ you — around love\, worth and what you quietly hide away — has been as
+ king for review. What old belief about your own value is surfacing again t
+ oday?\n\n🔵 Aspect: ☿ (19°42' Scorpio\, in house 9) □ ♀ natal (19
+ °42' Aquarius\, in house 12) · exact 19/10 17:58\nHow it connects: origi
+ n in houses 1 and 12 → lived in house 9 → influences houses 4 and 7 (r
+ uled by ☿) · houses 3 and 8 (ruled by ♀)\n\n—\nIris Calendar\n🐥 
+ Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:💬 Words that test your values
-TRIGGER:PT9H
+DESCRIPTION:💬 A belief about love gets questioned
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🔄 💗 Venus turns inward on intimacy · until Nov 11
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20261001T212435Z
-UID:0b4b9fa9ab76ca371639b9ce@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Weekly reminder: this phase is still active.\n\nVenus begins m
- oving backward through your 8th house\, retracing the ground it covered si
- nce August. This is a time to revisit — not launch — questions of trus
- t\, shared money and emotional closeness. Old patterns around intimacy or 
- financial entanglements may resurface for review. Avoid signing new financ
- ial agreements\, starting major joint investments or declaring big romanti
- c commitments until it turns direct. Instead\, use this period to understa
- nd what you really value in your closest bonds.\n→ What pattern around t
- rust or shared resources is asking to be understood\, not repeated?\n\n—
-  Technical detail: Venus retrograde · 8°29' Scorpio → 22°51' Libra ·
-  house 8\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nhttps://m
- i-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔄 🔥 Friction Around Shared Resources · until Nov 3
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-DTSTAMP:20261001T212435Z
-UID:b443bdb14bc42e9828b7ecc3@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Weekly reminder: this phase is still active.\n\nBuilding energ
- y is stirring around commitments tied to shared money\, deep bonds or long
- -held responsibilities in your house of intimacy and transformation. Expec
- t friction: maybe a bill\, a boundary\, or an old emotional debt asking to
-  be addressed. Exact tension peaks October 27\, felt about a week after to
- o. Use it to face what you've been avoiding\, not to force conflict.\n→ 
- What responsibility around shared resources have you been postponing?\n\n
- — Technical detail: Mars approaching square your Saturn natal (house 8) 
- · exact 27/10\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nhtt
- ps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:💬 Mind slows before turning back · until Oct 25
+SUMMARY:💬 Mercury turns back\, review before you move · until Oct 25
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:525f9a1214f00ae493580d50@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Mercury reaches its most intense\, near-still point at 20°58'
-  Scorpio in your 9th house of beliefs\, travel and bigger plans. This is w
- here the preparation of recent weeks becomes real: starting October 24\, M
- ercury moves backward\, asking you to revisit decisions about studies\, tr
- avel or long-held beliefs rather than launch new ones. Avoid signing contr
- acts\, booking major trips or making firm philosophical declarations these
-  days — clarity comes later.\n→ What belief or plan deserves a second 
- look before you commit further?\n\n— Technical detail: Mercury stationar
- y (before retrograde) · 20°58' Scorpio · house 9 · 22/10 – 25/10 (ex
- act 24/10 09:12)\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nh
+DESCRIPTION:🟠 From October 22 to 25\, Mercury barely moves and reaches 
+ its most intense point before turning retrograde on October 24. From here 
+ until November 13\, it retraces its steps back through your house of studi
+ es and travel and into your house of shared resources and intimacy: expect
+  to revisit beliefs\, trips\, shared money or trust issues you thought wer
+ e settled.\n\n🟢 If it feels right\, do:\n• List pending conversations
+  about shared money or trust to revisit later\n• Reread any travel or st
+ udy plans before confirming details\n\n🟡 If you can\, avoid:\n• Signi
+ ng new agreements about shared resources until mid-November\n• Starting 
+ a new trip or course without double-checking the details\n\n🟣 → This 
+ retrograde takes you back through both what you believe about the world an
+ d what you share with others. What unfinished business in either area is q
+ uietly asking to be reconsidered?\n\n🔵 Aspect: ☿ stationary (before r
+ etrograde) · 20°58' Scorpio · in house 9 · 22/10 – 25/10 (exact 24/1
+ 0 09:12)\nHow it connects: origin in house 1 → lived in house 9 → infl
+ uences houses 4 and 7 (ruled by ☿)\n\n—\nIris Calendar\n🐥 Updated o
+ n 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Mercury turns back\, review before you move · until Oct 
+ 25
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌋 Power and values meet again
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20261008T202844Z
+UID:a4f18a3c197f94cdb9687fbb@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Venus\, still retrograde\, joins your natal Pluto exactly
+  today in your house of shared resources and intimacy\, giving a push to t
+ he slower Pluto square already peaking on that same point. This is a momen
+ t to feel what's really driving your sense of worth\, not to act on it yet
+ .\n\n🟢 If it feels right\, do:\n• Notice what control patterns show u
+ p in shared finances\n• Sit with any intense feeling about intimacy with
+ out reacting\n\n🟡 If you can\, avoid:\n• Confront a power struggle ab
+ out shared money today\n• Make a love or money decision until Venus turn
+ s direct (Nov 14)\n\n🟣 → Your natal Venus sits near your Ascendant an
+ d squares both Saturn and Mars\, so how you value yourself has always been
+  tangled with control and restriction. What old pattern of power around sh
+ ared resources is surfacing again right now?\n\n🔵 Aspect: ♀ ℞ (1°5
+ 1' Scorpio\, in house 8) ☌ ♇ natal (1°51' Scorpio\, in house 8) · ex
+ act 22/10 10:01\nHow it connects: origin in houses 8 and 12 → lived in h
+ ouse 8 → influences houses 3 and 8 (ruled by ♀) · house 9 (ruled by 
+ ♇) · classical: houses 2 and 9 (ruled by ♂)\n\n—\nIris Calendar\n
+ 🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌋 Power and values meet again
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Energy deepens around shared resources
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20261008T202844Z
+UID:ff2f48d8845cd19ddd9b2694@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 The Sun enters Scorpio while still moving through your ho
+ use of shared resources and intimacy\, deepening the focus on merging\, tr
+ ust and transformation. Venus is also retrograde here\, so the mood favors
+  reflection over bold new moves.\n\n🟢 If it feels right\, do:\n• Sit 
+ with one honest question about intimacy or shared money\n\n🟡 If you can
+ \, avoid:\n• Start a big new shared financial commitment this week\n\n
+ 🟣 → What is this deeper Scorpio energy asking you to finally face abo
+ ut trust and shared resources?\n\n🔵 Aspect: ☉ enters Scorpio · in ho
+ use 8 · 23/10 11:37\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nh
  ttps://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:💬 Mind slows before turning back · until Oct 25
-TRIGGER:PT9H
+DESCRIPTION:☀️ Energy deepens around shared resources
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌋 Deep honesty about desire
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20261001T212435Z
-UID:a4f18a3c197f94cdb9687fbb@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Venus\, moving retrograde\, meets your natal Pluto exactly in 
- house 8 — the zone of intimacy\, shared resources and psychological dept
- h. This asks you to look again at what you truly want from closeness\, mon
- ey tied to others\, or a relationship's power balance. Old patterns of con
- trol or intensity may resurface for review\, not repetition. → Ask yours
- elf what you're really hungry for underneath the surface want.\n\n— Tech
- nical detail: Venus ℞ (1°51' Scorpio\, house 8) conjunction your Pluto 
- natal (1°51' Scorpio\, house 8) · exact 22/10 10:01\n\n—\n✨ Iris Cal
- endar\n🥝 Updated on 01 Oct 2026\nhttps://mi-calendario-astral.netlify.a
- pp
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🌋 Deep honesty about desire
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:☀️ Deeper focus on shared bonds
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20261001T212435Z
-UID:ff2f48d8845cd19ddd9b2694@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:The Sun enters Scorpio\, still lighting up your 8th house of i
- ntimacy and shared resources — and Venus retrograde is moving through th
- is same territory\, intensifying the call to look honestly at trust and sh
- ared money.\n→ Let this season sharpen your honesty about what you share
-  with others.\n\n— Technical detail: Sun enters Scorpio · house 8 · 23
- /10 11:37\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nhttps://
- mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:☀️ Deeper focus on shared bonds
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:💗 A new cycle for love and worth
+SUMMARY:🍀 Commitment gets a fresh start
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
+UID:a7bf06a7e09f1b3dd0cdb560@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Jupiter joins your natal Descendant today\, opening a new
+  chapter around partners and commitment. It's the first of three exact mee
+ tings (also 2027-01-31 and 2027-06-20)\, so this is just the opening seed
+ \, felt now through your daily work and routines.\n\n🟢 If it feels righ
+ t\, do:\n• List what you'd want from a partner or close collaborator\n
+ • Say yes to a coffee or project talk with someone new\n\n🟡 If you ca
+ n\, avoid:\n• Rushing to define a relationship or partnership label\n•
+  Signing a shared deal while Mercury and Venus are retrograde in Scorpio (
+ both until mid-November)\n\n🟣 → This opens a new 12-year chapter arou
+ nd partnership\, different from the one that closed back in 2015. What kin
+ d of partner or collaborator do you actually want to welcome in\, now that
+  you're seeing this fresh?\n\n🔵 Aspect: ♃ ☌ Descendant natal (in ho
+ use 7) · exact: 24/10/26\, 31/01/27\, 20/06/27\nHow it connects: origin i
+ n houses 7 and 11 → lived in house 6 → influences house 10 (ruled by 
+ ♃) · house 7 (ruled by ☉) · classical: house 1 (ruled by ♃)\n\n—
+ \nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral
+ .netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🍀 Commitment gets a fresh start
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Love and values rebuild from inside
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261008T202844Z
 UID:f96c8598b3220e906db3f516@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Venus meets the Sun in your 8th house of intimacy and shared r
- esources\, becoming the morning star — the start of a new roughly 8-mont
- h cycle for love\, trust and money. Because this happens while Venus is re
- trograde\, it's an inward rebirth first: a quiet realization about your ow
- n worth before anything shows outwardly. Pluto also squares this point fro
- m your 12th house\, adding pressure to release old patterns of control or 
- fear around intimacy. Let this be a private recalibration of what you valu
- e\, not yet a public declaration.\n→ What truth about your own worth is 
- quietly becoming clear to you?\n\n— Technical detail: Venus as morning s
- tar · ☉☌♀ 0°45' Scorpio · house 8 · 24/10 05:44\n\n—\n✨ Iris
-  Calendar\n🥝 Updated on 01 Oct 2026\nhttps://mi-calendario-astral.netli
- fy.app
+DESCRIPTION:🟠 Venus becomes the morning star today\, joining the Sun at
+  the start of your intimacy and shared-resources house\, while Pluto pushe
+ s from your house of rest and endings. A new 8-month cycle begins for love
+ \, money and self-worth\, built from the inside out.\n\n🟢 If it feels r
+ ight\, do:\n• Journal what you actually value in intimacy and shared mon
+ ey\n• Rest and let quiet time reveal what you really want\n\n🟡 If you
+  can\, avoid:\n• Deciding anything about shared finances or a relationsh
+ ip status now — Venus is retrograde until Nov 14\n• Confronting someon
+ e about control or power in a relationship\n\n🟣 → This rebirth of Ven
+ us starts underground\, in the parts of your intimacy and shared resources
+  you don't usually show. What old pattern around trust or control are you 
+ quietly ready to release?\n\n🔵 Aspect: Venus as morning star · ☉☌
+ ♀ 0°45' Scorpio · in house 8 · 24/10 05:44\n\n—\nIris Calendar\n
+ 🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:💗 A new cycle for love and worth
-TRIGGER:PT9H
+DESCRIPTION:💗 Love and values rebuild from inside
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🍀 Rethinking who you are
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20261001T212435Z
-UID:0fe975fff1a6ce19f76446eb@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Jupiter is now opposite your Ascendant\, the point that shows 
- how you walk into the world. This is the first of three exact hits (24 Oct
- \, 31 Jan\, 20 Jun)\, so this is a long process\, not a one-day event. It 
- happens through your house of daily work and routines\, so it likely arriv
- es through other people\, colleagues or habits that mirror back to you a b
- igger version of yourself than the one you're used to showing. Someone may
-  encourage you to take more space\, be seen more\, say yes to something th
- at stretches your usual image. The growth isn't selfish: it's about lettin
- g your identity catch up with how much you've actually expanded inside. 
- → Where could you let yourself take up a little more room this week?\n\n
- — Technical detail: Jupiter opposition your Ascendant natal (house 1) ·
-  exact: 24/10/26\, 31/01/27\, 20/06/27\n\n—\n✨ Iris Calendar\n🥝 Upd
- ated on 01 Oct 2026\nhttps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🍀 Rethinking who you are
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🌋 Facing your own intensity
+SUMMARY:🍀 A values check on drive and beliefs
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261001T212435Z
-UID:11f912d175f787220a5b729f@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:The Sun conjoins your natal Pluto in house 8\, shining direct 
- light on themes of control\, shared money\, intimacy and transformation. S
- omething you've buried may want to be seen. This isn't about drama — it'
- s about owning your depth instead of fearing it. Combined with the Venus s
- tory this week\, it's a powerful few days for honest self-reckoning. → L
- et yourself feel the intensity without needing to fix or hide it.\n\n— T
- echnical detail: Sun (1°51' Scorpio\, house 8) conjunction your Pluto nat
- al (1°51' Scorpio\, house 8) · exact 25/10 07:29\n\n—\n✨ Iris Calend
- ar\n🥝 Updated on 01 Oct 2026\nhttps://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:🌋 Facing your own intensity
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🍀 Beliefs under pressure to grow
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:8ded358deaa96e62e91dd7e5@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Jupiter squares your Mars today\, the first of three exact mom
- ents (25 Oct\, 31 Jan\, 21 Jun) — this tension builds and releases over 
- many months\, so don't expect it resolved overnight. Your Mars lives in th
- e house of beliefs\, travel and big-picture thinking\, and Jupiter now pus
- hes from your house of partnerships. A partner\, client or collaborator mi
- ght challenge your convictions or push you to act faster than feels comfor
- table. The friction is useful: it tests whether your drive and your philos
- ophy of life are actually aligned\, or whether you've been coasting on old
-  certainties. → Where is someone asking you to back your beliefs with re
- al action?\n\n— Technical detail: Jupiter square your Mars natal (house 
- 9) · exact: 25/10/26\, 31/01/27\, 21/06/27\n\n—\n✨ Iris Calendar\n
- 🥝 Updated on 01 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+DESCRIPTION:🟠 Jupiter squares your natal Mars today\, the first of thre
+ e exact hits (also 2027-01-31 and 2027-06-21). This pushes on how you act 
+ and travel\, lived now in your partnerships\, closing a chapter that opene
+ d with Jupiter's conjunction back in 2018 when you were about 34.\n\n🟢 
+ If it feels right\, do:\n• Ask a partner directly for more room to pursu
+ e your own plans\n• Revisit a belief about travel or study you adopted i
+ n 2018\n\n🟡 If you can\, avoid:\n• Pushing a partner into a decision 
+ about money or career today\n• Overcommitting to a trip or course before
+  thinking it through\n\n🟣 → This is the last square of a cycle that b
+ egan in 2018: what did you set out to expand in your beliefs and drive bac
+ k then\, and where has it clashed with what a partner or client wants from
+  you?\n\n🔵 Aspect: ♃ □ ♂ natal (in house 9) · exact: 25/10/26\, 
+ 31/01/27\, 21/06/27\nHow it connects: origin in houses 9 and 11 → lived 
+ in house 7 → influences house 10 (ruled by ♃) · house 2 (ruled by ♂
+ ) · classical: house 1 (ruled by ♃) · house 9 (ruled by ♂)\n\n—\nI
+ ris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.ne
+ tlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🍀 Beliefs under pressure to grow
-TRIGGER:PT9H
+DESCRIPTION:🍀 A values check on drive and beliefs
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:💗 Relating slows back down
+SUMMARY:💗 Intimacy slows down to weigh fairness
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261001T212435Z
+DTSTAMP:20261008T202844Z
 UID:6dcbe68e2bae65925793dc58@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Retrograde Venus steps back into Aquarius\, still moving throu
- gh your house of shared intimacy and transformation. The energy shifts fro
- m Scorpio's intensity to Aquarius's need for space and honesty about what 
- you truly value in closeness. → Notice if you need more distance to see 
- a bond clearly.\n\n— Technical detail: Venus returns to Libra · house 8
-  · 25/10 10:09\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nht
- tps://mi-calendario-astral.netlify.app
+DESCRIPTION:🟠 Venus re-enters Libra\, backing up again through your hou
+ se of shared resources and intimacy. The energy now is about fairness and 
+ balance in what you share with others\, not intensity.\n\n🟢 If it feels
+  right\, do:\n• Reflect on what feels fair in a shared financial arrange
+ ment\n\n🟡 If you can\, avoid:\n• Deciding how to split shared money o
+ r assets right now — Venus is still retrograde until Nov 14\n\n🟣 → 
+ What does a fair exchange of intimacy and resources look like to you these
+  days?\n\n🔵 Aspect: ♀ returns to Libra · in house 8 · 25/10 10:09\n
+ \n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-a
+ stral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:💗 Relating slows back down
-TRIGGER:PT9H
+DESCRIPTION:💗 Intimacy slows down to weigh fairness
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:▶️ 💬 Communication needs rechecking · until Nov 12
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261001T212435Z
-UID:71b30c660412a67748f7f063@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Mercury turns retrograde in your house of beliefs and worldvie
- w\, moving back toward your house of shared resources and deep transformat
- ion — mirroring the shadow that began on 4 October. Conversations about 
- philosophy\, travel plans or big decisions may need a second look\, and an
- ything tied to shared money\, debts or intimate conversations could resurf
- ace for review. This is a good stretch to re-read contracts\, double-check
-  joint finances\, and revisit discussions you thought were closed rather t
- han start new ones. Misunderstandings now usually point to something that 
- was rushed or left vague before. → What belief or shared agreement deser
- ves a second\, slower look before November 12?\n\n— Technical detail: Me
- rcury retrograde · 20°58' Scorpio → 5°02' Scorpio · house 9→8\n\n(
- until Nov 12)\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nhttp
- s://mi-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:▶️ 💬 Communication needs rechecking · until Nov 12
-TRIGGER:PT9H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🔄 💗 Venus turns inward on intimacy · until Nov 11
+SUMMARY:🌕 Full moon weighs your worth and bonds
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20261001T212435Z
-UID:1f0e1ec12beae8404d8f9e1b@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Weekly reminder: this phase is still active.\n\nVenus begins m
- oving backward through your 8th house\, retracing the ground it covered si
- nce August. This is a time to revisit — not launch — questions of trus
- t\, shared money and emotional closeness. Old patterns around intimacy or 
- financial entanglements may resurface for review. Avoid signing new financ
- ial agreements\, starting major joint investments or declaring big romanti
- c commitments until it turns direct. Instead\, use this period to understa
- nd what you really value in your closest bonds.\n→ What pattern around t
- rust or shared resources is asking to be understood\, not repeated?\n\n—
-  Technical detail: Venus retrograde · 8°29' Scorpio → 22°51' Libra ·
-  house 8\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct 2026\nhttps://m
- i-calendario-astral.netlify.app
-TRANSP:TRANSPARENT
-URL:https://mi-calendario-astral.netlify.app
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🌕 Review your New Moon intention from Oct 10
-DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270323
-DTSTAMP:20261001T212435Z
-UID:9141ebd9e2c5dae8a7e9ede7@jentm1-arch.github.io/calendario-astral
-DESCRIPTION:Today\, with the Full Moon in the same sign\, the cycle you be
- gan at the New Moon of Oct 10 comes full circle. Reread the intention you 
- wrote: what has blossomed? what do you release? what do you adjust?\n\n—
-  New Moon Opens Deep Trust\nThis New Moon lands in your house of intimacy 
- and shared resources\, exactly where your Sun and Moon both already live i
- n your chart — this is deeply personal. Venus\, ruling this Moon\, sits 
- naturally in your house of quiet reflection but now moves through this sam
- e deep zone\, asking you to blend emotional honesty with financial or inti
- mate trust. It's time to seed something around shared money\, deep bonds\,
-  or emotional exposure. Try: 'I open honest conversations about shared res
- ources\,' 'I let myself be truly seen by someone I trust\,' 'I release old
-  fears around merging my life with another's.' You'll revisit this on Marc
- h 22\, 2027\, at the Full Moon in Libra.\n→ What deep bond is asking for
-  more honesty right now?\n\n—\n✨ Iris Calendar\n🥝 Updated on 01 Oct
-  2026\nhttps://mi-calendario-astral.netlify.app
+DTSTAMP:20261008T202844Z
+UID:a9b077ee2c0b802fc8e7a332@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 This Full Moon in Taurus lands in your money and talent h
+ ouse\, opposing the Sun in your house of shared resources and intimacy\, w
+ hile Venus — ruler of this Moon\, still retrograde in Libra in that same
+  house — opposes it closely. Back on 2026-05-16\, a New Moon in your com
+ munication house touched your Mars\, Chiron and Ascendant\, asking you to 
+ speak up about an old wound. Tonight's Full Moon asks what you've actually
+  done about your own worth since then.\n\n🟢 If it feels right\, do:\n
+ • List what you bring financially or emotionally to a shared bond\n• R
+ evisit the intention you set about speaking up back in May\n\n🟡 If you 
+ can\, avoid:\n• Signing a joint financial agreement this week — Venus 
+ is retrograde until Nov 14\n• Measuring your worth only by what a partne
+ r gives back\n\n🟣 → Since May\, when you set an intention around find
+ ing your voice\, how has your sense of self-worth shifted when it meets so
+ meone else's money or resources? What still needs balancing between what's
+  yours and what's shared?\n\n🔵 Aspect: Full Moon · 2°45' Taurus · in
+  house 2 · exact 26/10 05:11\n\n—\nIris Calendar\n🐥 Updated on 08 Oc
+ t 2026\nhttps://mi-calendario-astral.netlify.app
 TRANSP:TRANSPARENT
 URL:https://mi-calendario-astral.netlify.app
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:🌕 Review your New Moon intention from Oct 10
-TRIGGER:PT9H
+DESCRIPTION:🌕 Full moon weighs your worth and bonds
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 A short flash of friction at work
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20261008T202844Z
+UID:9bf9bf7afccc5f5b9d33150c@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mars briefly clashes with your natal Saturn today\, stirr
+ ing impatience around daily routines or responsibilities at work. It's a q
+ uick friction\, not a lasting story — Mercury retrograde joins this same
+  point on Nov 1\, so more will unfold then.\n\n🟢 If it feels right\, do
+ :\n• Move your body to burn off any frustration at work today\n\n🟡 If
+  you can\, avoid:\n• Snapping at a coworker or supervisor over a small d
+ elay\n\n🟣 → What daily responsibility is testing your patience right 
+ now?\n\n🔵 Aspect: ♂ (16°17' Leo\, in house 6) □ ♄ natal (16°17'
+  Scorpio\, in house 8) · exact 27/10 11:20\nHow it connects: origin in ho
+ uses 8 and 9 → lived in house 6 → influences house 2 (ruled by ♂) ·
+  houses 11 and 12 (ruled by ♄) · classical: house 9 (ruled by ♂) · h
+ ouse 1 (ruled by ♄)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\n
+ https://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 A short flash of friction at work
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 Drive and love pull in different ways · until Nov 10
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20261008T202844Z
+UID:c56a49b82f46bd2b320dec71@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 From Oct 27 to Nov 10\, Mars builds toward an exact oppos
+ ition to your natal Venus on Nov 3\, peaking a Jupiter opposition that's b
+ een active on this same point and still sensitive since the August 12 sola
+ r eclipse. Your drive at work and your need for rest or private affection 
+ pull against each other.\n\n🟢 If it feels right\, do:\n• Channel rest
+ lessness into solo exercise instead of a confrontation\n• Name clearly w
+ hat you need from rest versus from action this week\n\n🟡 If you can\, a
+ void:\n• Forcing a conversation about love or money while Venus is retro
+ grade until Nov 14\n• Picking a fight just to release tension\n\n🟣 
+ → This echoes the August eclipse that already shook this same point betw
+ een your drive and your need for quiet. What old tug between pushing forwa
+ rd and needing rest or privacy is asking to be resolved\, not just repeate
+ d?\n\n🔵 Aspect: ♂ approaching ☍ ♀ natal (in house 12) · exact 03
+ /11\nHow it connects: origin in houses 9 and 12 → lived in house 6 → i
+ nfluences house 2 (ruled by ♂) · houses 3 and 8 (ruled by ♀) · class
+ ical: house 9 (ruled by ♂)\n\n(until Nov 10)\n\n—\nIris Calendar\n🐥
+  Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 Drive and love pull in different ways · until Nov
+  10
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Old values get rethought\, not settled
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20261008T202844Z
+UID:06495b694d03b15ff87f4d62@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercury\, retrograde\, squares your natal Venus today\, p
+ ushing you to rethink your values and relationships\, felt through study\,
+  travel or big beliefs. This triggers the Jupiter opposition peaking on th
+ is same point\, still charged since the August 12 eclipse\, with Mars arri
+ ving here again on Nov 3.\n\n🟢 If it feels right\, do:\n• Write down 
+ doubts about a relationship or value instead of texting them\n• Reread a
+ n old journal entry about what you believe in\n\n🟡 If you can\, avoid:
+ \n• Sending a message that redefines a relationship — Mercury is retro
+ grade until Nov 13\n\n🟣 → Since the August eclipse put your values an
+ d relationships under pressure\, what belief about love or worth are you q
+ uietly revising\, and why does it keep resurfacing now?\n\n🔵 Aspect: 
+ ☿ ℞ (19°42' Scorpio\, in house 9) □ ♀ natal (19°42' Aquarius\, i
+ n house 12) · exact 28/10 13:11\nHow it connects: origin in houses 1 and 
+ 12 → lived in house 9 → influences houses 4 and 7 (ruled by ☿) · ho
+ uses 3 and 8 (ruled by ♀)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 
+ 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Old values get rethought\, not settled
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Notice what you've outgrown · until Nov 11
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261008T202844Z
+UID:fab10ce0549bd7261620bdd3@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\n🟠 Venus kee
+ ps retrograde through your house of shared resources and intimacy\, and th
+ is week it's pointing at what you no longer want there.\n\n🟢 If it feel
+ s right\, do:\n• Write down one shared expense or intimate habit that fe
+ els outdated\n\n🟡 If you can\, avoid:\n• Deciding to end or renegotia
+ te a shared financial deal now\n\n🟣 → What's one thing about how you 
+ share money or closeness that you're ready to release?\n\n🔵 Aspect: ♀
+  retrograde · 27°34' Libra · in house 8\n\n—\nIris Calendar\n🐥 Upd
+ ated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💗 Notice what you've outgrown · until Nov 11
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Mind turns inward toward shared matters
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DTSTAMP:20261008T202844Z
+UID:36ca6cf837011256707715f6@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercury\, still retrograde\, moves back into your house o
+ f shared resources and intimacy. Conversations about joint money or deep t
+ rust need rereading\, not resolving\, until it moves forward again on Nov 
+ 13.\n\n🟢 If it feels right\, do:\n• Reread any shared financial agree
+ ment line by line\n\n🟡 If you can\, avoid:\n• Starting a new conversa
+ tion about debts or shared resources now\n\n🟣 → What shared financial
+  or intimate matter deserves a second look before you act on it?\n\n🔵 A
+ spect: ☿ enters your house 8 · 30/10 01:31\n\n—\nIris Calendar\n🐥 
+ Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Mind turns inward toward shared matters
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🗓️ Your November at a glance
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261008T202844Z
+UID:7849e44dda20e98e3207efd0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 This month's deepest current is Pluto squaring your own n
+ atal Pluto in your house of shared resources\, a first-square crisis askin
+ g you to build on something that began at birth\, in power\, control or wh
+ at you share with others. Mercury retrograde (through November 12) and Ven
+ us retrograde (through November 14) both run through this same house\, so 
+ the early weeks are about finishing old conversations and revisiting what 
+ you value\, not starting new ones\; the New Moon on November 9 lands right
+  here too\, next to your natal Saturn\, asking for quiet intention-setting
+  rather than action. Mars moves through this same territory\, opposing and
+  then conjoining your natal Venus and Descendant\, heating up questions of
+  partnership and worth that the August eclipse already left sensitive\, be
+ fore slipping into its own pre-retrograde shadow on November 5 around work
+  and commitments. The Full Moon on November 24 in your house of communicat
+ ion\, joined by Mercury near your natal Chiron\, offers a chance for an ol
+ d wound about being unheard to finally find words.\n\nIn the background\, 
+ Neptune squares its own natal position in your identity\, asking you to bu
+ ild a clearer sense of self out of old illusions. Uranus is forming a new
+ \, long conjunction with your IC and North Node that began before you were
+  born\, a generational theme around home and direction just starting to st
+ ir\, while it also peaks in opposition to its own natal position in your c
+ areer house\, a mirror moment for how free you feel in your path. Jupiter 
+ is especially active: a new conjunction cycle begins on your Descendant ar
+ ound partnership\, its opposition to your natal Venus culminates a cycle t
+ hat started in 2021\, and its square to your natal Mars reaches a final cr
+ isis of awareness about a cycle from 2018\, urging you to reorient rather 
+ than push harder.\n\nYou will find more information and detail in the even
+ ts of November in your calendar. Happy November! ✨\n\n—\nIris Calendar
+ \n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🗓️ Your November at a glance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 A quiet word about responsibility
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DTSTAMP:20261008T202844Z
+UID:5008741540e5e73d01cf1ae7@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercury\, retrograde\, briefly joins your natal Saturn\, 
+ bringing up a serious thought about responsibility in shared resources or 
+ commitments. It's a short inner check-in\, echoing the friction Mars stirr
+ ed here on Oct 27.\n\n🟢 If it feels right\, do:\n• Jot down one respo
+ nsibility you've been avoiding around shared money\n\n🟡 If you can\, av
+ oid:\n• Making a final decision about a shared debt or commitment today
+ \n\n🟣 → What responsibility around shared resources have you been put
+ ting off naming?\n\n🔵 Aspect: ☿ ℞ (16°17' Scorpio\, in house 8) 
+ ☌ ♄ natal (16°17' Scorpio\, in house 8) · exact 01/11 08:58\nHow it 
+ connects: origin in houses 1 and 8 → lived in house 8 → influences hou
+ ses 4 and 7 (ruled by ☿) · houses 11 and 12 (ruled by ♄) · classical
+ : house 1 (ruled by ♄)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 202
+ 6\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 A quiet word about responsibility
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Old values face a crossroads
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20261008T202844Z
+UID:d31aee6dd863100bbb17944e@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mars in Leo (your house of daily work and routine) faces 
+ off with your natal Venus in Aquarius\, in your house of rest and endings.
+  This adds fuel to the slower Jupiter opposition already peaking on this s
+ ame point\, a point the August 12 eclipse left sensitive — expect fricti
+ on around what you value\, who you trust\, and how you spend.\n\n🟢 If i
+ t feels right\, do:\n• Notice where daily routine or work conflicts with
+  what you truly value\n• Journal about what you want to protect in love 
+ or money\, decide later\n\n🟡 If you can\, avoid:\n• Signing new money
+  agreements now — Venus is retrograde in Libra until Nov 14\n• Sending
+  a decisive message about this — Mercury is retrograde in Scorpio until 
+ Nov 13\n\n🟣 → Your natal Mars in Scorpio already lives in tension wit
+ h Chiron\, an old wound around assertion and worth. This opposition pushes
+  that wound into the open through money or quiet values: where do you stil
+ l fight for what you deserve instead of calmly claiming it?\n\n🔵 Aspect
+ : ♂ (19°42' Leo\, in house 6) ☍ ♀ natal (19°42' Aquarius\, in hous
+ e 12) · exact 03/11 05:23\nHow it connects: origin in houses 9 and 12 →
+  lived in house 6 → influences house 2 (ruled by ♂) · houses 3 and 8 
+ (ruled by ♀) · classical: house 9 (ruled by ♂)\n\n—\nIris Calendar
+ \n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Old values face a crossroads
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 Action meets your relationships · until Nov 17
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20261008T202844Z
+UID:135d0ced9e9645be41bd0105@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 From November 3 to 17 Mars joins your natal Descendant\, 
+ stirring energy around partners and commitments. This also gives a push to
+  a slow Jupiter conjunction on the same point\, so the whole area of partn
+ ership expands and intensifies at once.\n\n🟢 If it feels right\, do:\n
+ • Have the direct conversation a partner or client needs\n• Channel ex
+ tra drive into a shared project with a partner\n\n🟡 If you can\, avoid:
+ \n• Forcing a commitment just to win an argument\n• Starting a new mon
+ ey agreement with a partner right now\n\n🟣 → Your natal Mars in house
+  9 wants truth and expansion\, but it opposes Chiron\, an old wound around
+  being challenged or dismissed. When a partner pushes back now\, are you d
+ efending your worth or reopening that old wound?\n\n🔵 Aspect: ♂ appro
+ aching ☌ Descendant natal (in house 7) · exact 10/11\nHow it connects: 
+ origin in houses 7 and 9 → lived in house 6 → influences house 2 (rule
+ d by ♂) · house 7 (ruled by ☉) · classical: house 9 (ruled by ♂)\n
+ \n(until Nov 17)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps
+ ://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 Action meets your relationships · until Nov 17
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ ☂️🔥 Mars Prepares to Revisit Work and Partners · un
+ til Jan 6\, 2027
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261008T202844Z
+UID:ee419302ff4eae4f57ead20f@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 From today until January 6\, Mars in transit crosses the 
+ same degrees\, from Leo to Virgo\, that it will cover again once retrograd
+ e (January 10 to April 1)\, moving through your daily work and your partne
+ rships. Whatever heats up now around routines\, health habits or a commitm
+ ent with someone will come back for a second look later.\n\n🟢 If it fee
+ ls right\, do:\n• Start adjusting one daily routine\, but keep it flexib
+ le\n• Note any friction with a partner or client to revisit later\n\n
+ 🟡 If you can\, avoid:\n• Signing a new partnership agreement as a fin
+ al decision now\n• Overhauling your whole daily schedule in one go\n\n
+ 🟣 → This is a preview\, not the final word: Mars will walk these same
+  degrees again early next year. What tension between your daily work and a
+  partner or client is surfacing now that you'll want to look at again in J
+ anuary?\n\n🔵 Aspect: Pre-retrograde shadow of ♂ · 20°55' Leo → 10
+ °25' Virgo · retrograde 10/01 – 01/04\n\n(until Jan 6\, 2027)\n\n—\n
+ Iris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.n
+ etlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ ☂️🔥 Mars Prepares to Revisit Work and Partners 
+ · until Jan 6\, 2027
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Get ready to move forward · until Nov 11
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261008T202844Z
+UID:1408ea50d986fcff2e3c098e@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\n🟠 Venus kee
+ ps retrograde in your house of shared resources and intimacy\, now prepari
+ ng you to move forward calmly once it turns direct.\n\n🟢 If it feels ri
+ ght\, do:\n• List what you'd like to resolve in a shared financial or in
+ timate matter\n\n🟡 If you can\, avoid:\n• Finalizing a joint money de
+ cision before Venus turns direct\n\n🟣 → What shared resource or intim
+ ate bond are you quietly getting ready to approach differently?\n\n🔵 As
+ pect: ♀ retrograde · 24°20' Libra · in house 8\n\n—\nIris Calendar
+ \n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💗 Get ready to move forward · until Nov 11
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💬 Finish what you started · until Nov 12
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DTSTAMP:20261008T202844Z
+UID:33fd15ebac46b95fef65d1e5@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\n🟠 Mercury r
+ etrograde in your house of shared resources and intimacy invites you to pi
+ ck up pending conversations or paperwork\, not start new ones.\n\n🟢 If 
+ it feels right\, do:\n• Follow up on an unfinished conversation about sh
+ ared money or trust\n\n🟡 If you can\, avoid:\n• Opening a brand new f
+ inancial agreement right now\n\n🟣 → What unfinished conversation abou
+ t intimacy or shared resources is still waiting for your attention?\n\n
+ 🔵 Aspect: ☿ retrograde · 7°34' Scorpio · in house 8\n\n—\nIris C
+ alendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify
+ .app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💬 Finish what you started · until Nov 12
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌑 New moon on shared resources
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20261008T202844Z
+UID:a4d295424fc08dda6386e54d@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 This New Moon at 16°53' Scorpio lands in your house of s
+ hared resources\, intimacy and transformation\, joining your natal Saturn 
+ there. Pluto\, ruler of this Moon's sign\, sits in that same house and is 
+ now moving through your house of rest and endings\, pointing to a quiet\, 
+ internal kind of release around what you share with others\, debts\, or de
+ ep trust. With Mercury retrograde and Venus retrograde both active in this
+  same house\, and Mars still in shadow\, this is a moment to set intention
+ s\, not to act on them yet.\n\n🟢 If it feels right\, intentions for thi
+ s moon:\n• I commit to naming one shared resource or debt I want to hand
+ le with more honesty\n• I commit to deepening trust in one close bond\, 
+ step by step\n• I commit to releasing a fear about intimacy I've been ca
+ rrying quietly\n\n🟡 If you can\, avoid:\n• Signing a joint financial 
+ agreement before Mercury and Venus turn direct\n• Forcing an intimate co
+ nversation before you've sat with your own intention\n\n🟣 → Saturn he
+ re asks for real commitment\, not avoidance\, around what you share with o
+ thers. Where have you been disciplined out of fear instead of trust\, and 
+ what would it look like to meet this area with more honesty?\n\n🔵 Aspec
+ t: New Moon · 16°53' Scorpio · in house 8 · exact 09/11 08:02\n\n—\n
+ Iris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.n
+ etlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌑 New moon on shared resources
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 A partner calls for honesty
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261008T202844Z
+UID:38ba27f07eb91fad8fff0d51@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mars exactly joins your natal Descendant today\, the peak
+  of a two-week window and also the push point for a slow Jupiter conjuncti
+ on on the same spot. Partnership matters\, money and talents\, and your da
+ ily work all intersect sharply now.\n\n🟢 If it feels right\, do:\n• S
+ ay directly what you want from a partner or client today\n• Use this dri
+ ve to advocate for your own worth in a shared matter\n\n🟡 If you can\, 
+ avoid:\n• Letting a disagreement with a partner turn into a power strugg
+ le\n• Making a big financial move with Mercury still retrograde nearby\n
+ \n🟣 → Your natal Mars in the house of studies and expansion opposes C
+ hiron\, so old wounds about being challenged can surface in how a partner 
+ confronts you today. Are you facing this directly\, or bracing for old pai
+ n?\n\n🔵 Aspect: ♂ (23°22' Leo\, in house 6) ☌ Descendant natal (23
+ °22' Leo\, in house 7) · exact 10/11 19:20\nHow it connects: origin in h
+ ouses 7 and 9 → lived in house 6 → influences house 2 (ruled by ♂) 
+ · house 7 (ruled by ☉) · classical: house 9 (ruled by ♂)\n\n—\nIri
+ s Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netl
+ ify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 A partner calls for honesty
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Old feelings resurface briefly
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261008T202844Z
+UID:e7beb11a1784db80cf772c0f@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Venus\, still retrograde\, faces your natal Moon today\, 
+ stirring old emotional needs around comfort and what you value for yoursel
+ f. It's a brief\, passing wave more than a lasting shift.\n\n🟢 If it fe
+ els right\, do:\n• Give yourself a small comfort that costs nothing to d
+ ecide on\n\n🟡 If you can\, avoid:\n• Reacting to an old emotional pat
+ tern with a big financial choice\n\n🟣 → An old emotional need around 
+ safety and self-worth surfaces briefly today. What does it remind you that
+  you still haven't fully given yourself?\n\n🔵 Aspect: ♀ ℞ (23°07' 
+ Libra\, in house 8) ☍ ☽ natal (23°07' Aries\, in house 2) · exact 10
+ /11 10:25\nHow it connects: origin in houses 2 and 12 → lived in house 8
+  → influences houses 3 and 8 (ruled by ♀) · houses 5 and 6 (ruled by 
+ ☽)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calend
+ ario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Old feelings resurface briefly
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Mars steps into partnership
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261008T202844Z
+UID:ee6ca5d5b1c42e526915b72b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mars now moves into your house of partners\, clients and 
+ commitments\, bringing more drive and directness to how you deal with the 
+ people you're committed to.\n\n🟢 If it feels right\, do:\n• Address a
+  pending issue with a partner or client head-on\n\n🟡 If you can\, avoid
+ :\n• Picking a fight with a partner just to feel in control\n\n🟣 → 
+ Where in a committed relationship have you been holding back your real opi
+ nion?\n\n🔵 Aspect: ♂ enters your house 7 · 10/11 19:20\n\n—\nIris 
+ Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlif
+ y.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Mars steps into partnership
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 🔥 Old anger resurfaces\, act with care · until Nov 18
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20261008T202844Z
+UID:46cd03a9057668d466798845@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mars clashes with your natal Mars in Scorpio\, stirring u
+ p drive and frustration around partners and commitments. This friction lan
+ ds harder because slow Jupiter is also squaring that same point right now
+ \, pushing you to prove yourself.\n\n🟢 If it feels right\, do:\n• Cha
+ nnel the intensity into a workout or brisk walk\n• Name what you want fr
+ om a partner before reacting\n\n🟡 If you can\, avoid:\n• Picking a fi
+ ght with a client or partner over control\n• Making final calls on money
+  while Mercury is retrograde until Nov 13\n\n🟣 → Your natal Mars oppo
+ ses Chiron\, so conflict often reopens an old wound about not being enough
+ . With Jupiter pushing the same point\, ask: where in a partnership are yo
+ u fighting to prove your worth instead of just stating it?\n\n🔵 Aspect:
+  ♂ approaching □ ♂ natal (in house 9) · exact 11/11\nHow it connect
+ s: origin in house 9 → lived in house 7 → influences house 2 (ruled by
+  ♂) · classical: house 9 (ruled by ♂)\n\n(until Nov 18)\n\n—\nIris 
+ Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlif
+ y.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 🔥 Old anger resurfaces\, act with care · until Nov 
+ 18
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Venus turns direct on an old need · until Nov 16
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261008T202844Z
+UID:9b4b5fc790245c0e204b9377@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 From November 11 to 16\, with the exact turn on November 
+ 14\, Venus stands still at 22°51' Libra in your house of shared resources
+  and intimacy\, exactly facing your natal Moon. This is the decisive momen
+ t of the whole retrograde cycle: an old emotional need around comfort and 
+ self-worth\, tied to your Venus square Saturn and square Mars\, gets fully
+  seen before moving forward.\n\n🟢 If it feels right\, do:\n• Sit with
+  what you've learned about your emotional needs in shared finances\n• Wa
+ it until after November 14 to revisit any joint money decision\n\n🟡 If 
+ you can\, avoid:\n• Rushing to fix a shared financial or intimate matter
+  today\n• Dismissing an emotional need that surfaced these past weeks\n
+ \n🟣 → This stillness faces your natal Moon directly\, bringing old em
+ otional needs around comfort and worth to a point of clarity. With Mercury
+  still retrograde\, what have these weeks taught you about what you truly 
+ need from intimacy and shared resources?\n\n🔵 Aspect: ♀ stationary (b
+ efore direct) · 22°51' Libra · in house 8 · 11/11 – 16/11 (exact 14/
+ 11 01:27)\nHow it connects: origin in house 12 → lived in house 8 → in
+ fluences houses 3 and 8 (ruled by ♀)\n\n—\nIris Calendar\n🐥 Updated
+  on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Venus turns direct on an old need · until Nov 16
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Friction with your own drive
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20261008T202844Z
+UID:04f900cc3a277ee38ccb53ca@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mars exactly squares your natal Mars today\, the peak of 
+ tension between acting now and the deeper need for truth and expansion fro
+ m studies and beliefs. A slow Jupiter square on the same point reaches its
+  height too\, amplifying the stakes around partners and money.\n\n🟢 If 
+ it feels right\, do:\n• Take direct action on something tied to your own
+  worth or talents\n• Set one clear boundary with a partner today\n\n🟡
+  If you can\, avoid:\n• Letting frustration about beliefs turn into conf
+ lict with a partner\n• Making a big commitment while Mercury is still re
+ trograde\n\n🟣 → This square echoes your natal Mars opposite Chiron\, 
+ a wound about being doubted in what you believe. As the Sun approaches thi
+ s same point on November 15\, what old defensiveness is ready to be met wi
+ th more compassion?\n\n🔵 Aspect: ♂ (23°28' Leo\, in house 7) □ ♂
+  natal (23°28' Scorpio\, in house 9) · exact 11/11 00:49\nHow it connect
+ s: origin in house 9 → lived in house 7 → influences house 2 (ruled by
+  ♂) · classical: house 9 (ruled by ♂)\n\n—\nIris Calendar\n🐥 Upd
+ ated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Friction with your own drive
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ Sun lights up learning and travel
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DTSTAMP:20261008T202844Z
+UID:67136638d6101bcf8a6b589b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 The Sun now enters your house of studies\, travel\, expan
+ sion and beliefs\, shifting focus toward growing your worldview over the c
+ oming month.\n\n🟢 If it feels right\, do:\n• Sign up for something th
+ at expands your knowledge or beliefs\n\n🟡 If you can\, avoid:\n• Dism
+ issing a new idea just because it challenges your views\n\n🟣 → What b
+ elief or area of knowledge are you ready to expand this month?\n\n🔵 Asp
+ ect: ☉ enters your house 9 · 11/11 00:57\n\n—\nIris Calendar\n🐥 Up
+ dated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ Sun lights up learning and travel
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Mind shifts back into forward gear · until Nov 14
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261008T202844Z
+UID:5bc5e040d6a02334b02c492a@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercury turns direct today in your house of shared resour
+ ces and deep transformation\, closing weeks of double-checking money\, int
+ imacy or joint plans. This lines up with your natal Mercury's old square t
+ o Uranus\, so your mind has been restless about sudden changes in those ar
+ eas.\n\n🟢 If it feels right\, do:\n• Write down what became clear dur
+ ing the retrograde\n• Plan the conversation about shared money\, don't s
+ tart it yet\n\n🟡 If you can\, avoid:\n• Sign anything about shared re
+ sources or debts today\n• Send a decisive message about an intimate matt
+ er right now\n\n🟣 → Mercury won't feel fully direct until it clears t
+ hese same degrees on November 30\, so this is a turning point\, not a fini
+ sh line. What insight about shared resources or intimacy did this pause fi
+ nally make clear to you?\n\n🔵 Aspect: ☿ stationary (before direct) ·
+  5°02' Scorpio · in house 8 · 12/11 – 14/11 (exact 13/11 16:53)\nHow 
+ it connects: origin in house 1 → lived in house 8 → influences houses 
+ 4 and 7 (ruled by ☿)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026
+ \nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Mind shifts back into forward gear · until Nov 14
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💸 Old habits clash with your values
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261008T202844Z
+UID:fbdeaa3b5acee57ac632c0a6@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 The Sun in your house of beliefs and travel clashes with 
+ your natal Venus in your house of rest and endings\, pushing you to questi
+ on what you value and how you spend or receive. This echoes Mars's recent 
+ opposition to the same point and the August solar eclipse that already sho
+ ok this part of you.\n\n🟢 If it feels right\, do:\n• Journal about wh
+ at you actually want from a partnership\n• Rest instead of forcing a dec
+ ision about your worth\n\n🟡 If you can\, avoid:\n• Make a big purchas
+ e or financial commitment today\n• Decide something about a partner or c
+ lient while Venus is still retrograde until November 14\n\n🟣 → This t
+ ension has been building since the August eclipse opposed this same point
+ \, asking you to redefine your values away from old isolation. What belief
+  about your own worth is ready to be challenged?\n\n🔵 Aspect: ☉ (19°
+ 42' Scorpio\, in house 9) □ ♀ natal (19°42' Aquarius\, in house 12) 
+ · exact 12/11 03:26\nHow it connects: origin in houses 1 and 12 → lived
+  in house 9 → influences house 7 (ruled by ☉) · houses 3 and 8 (ruled
+  by ♀)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-ca
+ lendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💸 Old habits clash with your values
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💬 Mercury retraces its steps · until Nov 30
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DTSTAMP:20261008T202844Z
+UID:6a83e433dbc0cdaf447a2083@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 From today until November 30\, Mercury moves forward agai
+ n but re-crosses the same degrees in your house of shared resources and tr
+ ansformation that it covered retrograde since October 4. It's green light
+ \, but look back at what came up then before fully moving ahead.\n\n🟢 I
+ f it feels right\, do:\n• Revisit decisions about shared money from earl
+ y October\n• Finalize now what you only reviewed during the retrograde\n
+ \n🟡 If you can\, avoid:\n• Rush a new agreement about debts or joint 
+ resources\n• Treat every answer as final before November 30\n\n🟣 → 
+ What you discovered about shared resources or intimacy between October 4 a
+ nd November 13 is now being tested for real. What are you ready to commit 
+ to\, now that you've had time to think it through?\n\n🔵 Aspect: ☿ dir
+ ect · 5°02' Scorpio → 20°58' Scorpio · retrograde 24/10 – 13/11\n
+ \n(until Nov 30)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps
+ ://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💬 Mercury retraces its steps · until Nov 30
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ A fresh push toward what you believe
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261008T202844Z
+UID:934cd99b2a8f883d8cdfddee@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 The Sun joins your natal Mars in your house of studies\, 
+ travel and expansion\, giving you a burst of drive around a belief or a tr
+ ip you want to pursue. This follows Mars's square to the same point on Nov
+ ember 10\, so the friction from that moment can now turn into forward moti
+ on.\n\n🟢 If it feels right\, do:\n• Start researching that trip or co
+ urse you've been considering\n• Move your body to channel this restless 
+ energy\n\n🟡 If you can\, avoid:\n• Pick a fight to prove a point abou
+ t your beliefs\n• Overcommit financially while Mars is in its shadow unt
+ il April\n\n🟣 → This burst of energy connects to a bigger Jupiter squ
+ are peaking now\, asking how far you're willing to push your convictions. 
+ What belief about money or your own worth is asking to be acted on\, not j
+ ust argued?\n\n🔵 Aspect: ☉ (23°28' Scorpio\, in house 9) ☌ ♂ nat
+ al (23°28' Scorpio\, in house 9) · exact 15/11 21:14\nHow it connects: o
+ rigin in houses 1 and 9 → lived in house 9 → influences house 7 (ruled
+  by ☉) · house 2 (ruled by ♂) · classical: house 9 (ruled by ♂)\n
+ \n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-a
+ stral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ A fresh push toward what you believe
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ A quick nudge to show up differently
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DTSTAMP:20261008T202844Z
+UID:3e6c576f9d5f128071170d87@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 The Sun passes through your house of beliefs and briefly 
+ challenges your Ascendant\, your way of presenting yourself to the world. 
+ It's a short\, passing friction\, not a deep pattern.\n\n🟢 If it feels 
+ right\, do:\n• Notice if you're hiding behind a belief instead of acting
+ \n\n🟡 If you can\, avoid:\n• Overreact to a comment about who you are
+ \n\n🟣 → A small nudge about how your beliefs shape the way others see
+  you: is the image you're showing today really yours?\n\n🔵 Aspect: ☉ 
+ (23°22' Scorpio\, in house 9) □ Ascendant natal (23°22' Aquarius\, in 
+ house 1) · exact 15/11 18:42\nHow it connects: origin in house 1 → live
+ d in house 9 → influences house 7 (ruled by ☉) · house 1 (ruled by 
+ ♅) · classical: houses 1\, 11 and 12 (ruled by ♄)\n\n—\nIris Calend
+ ar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ A quick nudge to show up differently
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:▶️ 💗 Venus retraces its steps · until Dec 15
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261008T202844Z
+UID:1bd3f6aeadf30233d592ffb0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 From today until December 15\, Venus moves forward again 
+ but re-crosses the same degrees in your house of partnership and shared re
+ sources it covered retrograde since August 31. It's green light\, but revi
+ sit what surfaced then before fully moving ahead.\n\n🟢 If it feels righ
+ t\, do:\n• Look back at what came up about love or money since late Augu
+ st\n• Confirm only what you've had time to reconsider\n\n🟡 If you can
+ \, avoid:\n• Rush a new commitment with a partner or client\n• Make a 
+ big purchase before December 15\n\n🟣 → What did the months since Augu
+ st reveal about what you truly value in a partnership? What are you ready 
+ to commit to now that the fog has cleared?\n\n🔵 Aspect: ♀ direct · 2
+ 2°51' Libra → 8°29' Scorpio · retrograde 03/10 – 14/11\n\n(until De
+ c 15)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calen
+ dario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:▶️ 💗 Venus retraces its steps · until Dec 15
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💗 Comfort versus connection
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261008T202844Z
+UID:87052ebaa0bfcf568a7f1aef@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Venus in your house of intimacy faces off with your natal
+  Moon in your house of money and self-worth\, stirring a push-pull between
+  emotional security and closeness with others. It's a passing mood\, not a
+  lasting pattern.\n\n🟢 If it feels right\, do:\n• Treat yourself to s
+ omething comforting and simple today\n\n🟡 If you can\, avoid:\n• Make
+  a joint financial decision while Venus finishes its retrograde shadow\n\n
+ 🟣 → A brief tug between what makes you feel emotionally safe and what
+  you share with someone else: which one are you protecting right now?\n\n
+ 🔵 Aspect: ♀ (23°07' Libra\, in house 8) ☍ ☽ natal (23°07' Aries
+ \, in house 2) · exact 17/11 17:50\nHow it connects: origin in houses 2 a
+ nd 12 → lived in house 8 → influences houses 3 and 8 (ruled by ♀) ·
+  houses 5 and 6 (ruled by ☽)\n\n—\nIris Calendar\n🐥 Updated on 08 O
+ ct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💗 Comfort versus connection
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💬 Reviewing what you already have · until Nov 30
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261008T202844Z
+UID:ada18f99c49de25c94be7975@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\n🟠 Mercury k
+ eeps retracing its steps through your house of shared resources\, inviting
+  you to look again at what's already on the table.\n\n🟢 If it feels rig
+ ht\, do:\n• Reread a shared agreement instead of making a new one\n\n
+ 🟡 If you can\, avoid:\n• Add new terms to a financial deal this week
+ \n\n🟣 → What shared agreement deserves a second\, calmer look this we
+ ek?\n\n🔵 Aspect: ☿ retrograde · 9°42' Scorpio · in house 8\n\n—
+ \nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral
+ .netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💬 Reviewing what you already have · until Nov 30
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:☀️ A bolder mood for your beliefs
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DTSTAMP:20261008T202844Z
+UID:9fa05a64e865ee864789a0d2@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 The Sun enters Sagittarius\, still in your house of studi
+ es\, travel and expansion\, but now with a bolder\, more adventurous energ
+ y around what you believe and want to explore.\n\n🟢 If it feels right\,
+  do:\n• Say yes to a course\, trip or conversation that expands your vie
+ w\n\n🟡 If you can\, avoid:\n• Preach your opinion without listening t
+ o others\n\n🔵 Aspect: ☉ enters Sagittarius · in house 9 · 22/11 08:
+ 23\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendar
+ io-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:☀️ A bolder mood for your beliefs
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Reviewing what you already share · until Dec 15
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+DTSTAMP:20261008T202844Z
+UID:7667829dd6b58d0bfa0b918b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\n🟠 Venus kee
+ ps retracing its steps through your house of partnership and shared resour
+ ces\, asking you to review rather than renegotiate.\n\n🟢 If it feels ri
+ ght\, do:\n• Revisit a financial or relationship decision from the summe
+ r\n\n🟡 If you can\, avoid:\n• Push for a new agreement with a partner
+  this week\n\n🟣 → What shared resource or relationship deserves a sec
+ ond look before you move forward?\n\n🔵 Aspect: ♀ retrograde · 24°34
+ ' Libra · in house 8\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\n
+ https://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💗 Reviewing what you already share · until Dec 15
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌕 Words finally land somewhere
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261008T202844Z
+UID:b7ef5a43f1d3510970f5f00c@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 This Full Moon in your house of communication faces the S
+ un in your house of beliefs\, closing the cycle of the New Moon from June 
+ 15 that touched your home and family. Mercury\, ruler of this Moon\, is di
+ rect and sits in your house of shared resources\, so a conversation or pie
+ ce of information can finally be shared cleanly. It also joins your natal 
+ Chiron\, touching an old wound about not being heard\, while Mars pushes a
+ gainst a commitment and Uranus adds a sudden spark to how you communicate.
+ \n\n🟢 If it feels right\, do:\n• Have that honest conversation you've
+  been rehearsing in your head\n• Write down the belief you've outgrown s
+ ince June\n\n🟡 If you can\, avoid:\n• Force a partner or client to ag
+ ree under pressure today\n• Make a sudden decision just to feel free\n\n
+ 🟣 → Back in June\, your intentions were about home\, roots and feelin
+ g emotionally anchored. Now that old wound about being misunderstood resur
+ faces through words: what do you need to finally say out loud\, to whom?\n
+ \n🔵 Aspect: Full Moon · 2°20' Gemini · in house 3 · exact 24/11 15:
+ 53\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendar
+ io-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🌕 Words finally land somewhere
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 A quiet\, serious thought lands
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261008T202844Z
+UID:768d33ea7f036123ddf8b5bf@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercury joins your natal Saturn in your house of shared r
+ esources\, bringing a brief moment of serious\, grounded thinking about de
+ bts\, intimacy or responsibility\, echoing a natal trine between the two t
+ hat makes this easier than it sounds.\n\n🟢 If it feels right\, do:\n•
+  Write down one responsibility you're ready to commit to\n\n🟡 If you ca
+ n\, avoid:\n• Make a final decision about shared money while Mars sits i
+ n its shadow\n\n🟣 → A sober thought about what you owe yourself or so
+ meone else in a shared resource: what's one honest commitment you can make
+ ?\n\n🔵 Aspect: ☿ (16°17' Scorpio\, in house 8) ☌ ♄ natal (16°17
+ ' Scorpio\, in house 8) · exact 26/11 22:35\nHow it connects: origin in h
+ ouses 1 and 8 → lived in house 8 → influences houses 4 and 7 (ruled by
+  ☿) · houses 11 and 12 (ruled by ♄) · classical: house 1 (ruled by 
+ ♄)\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calend
+ ario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 A quiet\, serious thought lands
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔥 Sharper focus with your partner
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261008T202844Z
+UID:32ee0082a57c3201262665b9@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mars enters Virgo\, still moving through your house of pa
+ rtners\, clients and commitments. The energy shifts from bold to more deta
+ il-focused: you may notice yourself wanting things done right rather than 
+ done fast.\n\n🟢 If it feels right\, do:\n• Bring a practical fix to a
+  partner or client issue\n• Offer useful help instead of grand gestures
+ \n\n🟡 If you can\, avoid:\n• Nitpicking a partner's every small mista
+ ke\n\n🟣 → Where in a partnership or commitment do you use being 'help
+ ful' to avoid saying what you really need? Precision can be care\, or it c
+ an be control in disguise.\n\n🔵 Aspect: ♂ enters Virgo · in house 7 
+ · 26/11 00:37\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps:/
+ /mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔥 Sharper focus with your partner
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Mind turns toward the bigger picture
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261008T202844Z
+UID:11985d6b3953fb220591717b@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercury moves into your house of studies\, travel and bel
+ iefs. Your thinking shifts from daily details toward bigger questions\, ne
+ w learning or plans to go further afield.\n\n🟢 If it feels right\, do:
+ \n• Research a course\, trip or idea you want to explore\n\n🟡 If you 
+ can\, avoid:\n• Booking a big trip or signing up for a long course impul
+ sively\n\n🟣 → Which belief about what's possible for you is ready to 
+ be questioned and expanded?\n\n🔵 Aspect: ☿ enters your house 9 · 28/
+ 11 15:03\n\n—\nIris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-ca
+ lendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Mind turns toward the bigger picture
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Words clash with your values
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DTSTAMP:20261008T202844Z
+UID:4ee6db85535861b7fb10155c@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:🟠 Mercury in Scorpio\, in your house of expansion and belie
+ fs\, pushes against your natal Venus in Aquarius\, in your house of rest a
+ nd endings. A conversation or message may clash with what you value or how
+  you spend\, and it lands on ground the August 12 solar eclipse already le
+ ft sensitive.\n\n🟢 If it feels right\, do:\n• Write down what you act
+ ually value before you answer anyone\n• Talk it through with someone clo
+ se before deciding on money or worth\n\n🟡 If you can\, avoid:\n• Sign
+ ing anything about shared resources or intimacy in the heat of the moment
+ \n• Making a final call on a commitment while Mars sits in shadow until 
+ April 2027\n\n🟣 → This square echoes the August eclipse on this same 
+ point\, plus the bigger Jupiter opposition now peaking over your values. W
+ hat belief about your own worth is being questioned by a conversation or a
+  piece of news this week?\n\n🔵 Aspect: ☿ (19°42' Scorpio\, in house 
+ 9) □ ♀ natal (19°42' Aquarius\, in house 12) · exact 29/11 09:59\nHo
+ w it connects: origin in houses 1 and 12 → lived in house 9 → influenc
+ es houses 4 and 7 (ruled by ☿) · houses 3 and 8 (ruled by ♀)\n\n—\n
+ Iris Calendar\n🐥 Updated on 08 Oct 2026\nhttps://mi-calendario-astral.n
+ etlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:💬 Words clash with your values
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🔄 💗 Finish what you left halfway · until Dec 15
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261008T202844Z
+UID:ae1b133b316604431d466ff0@jentm1-arch.github.io/calendario-astral
+DESCRIPTION:Weekly reminder: this phase is still active.\n\n🟠 Venus kee
+ ps moving forward\, but it's still retracing the same ground it covered re
+ trograde\, now touching your house of shared resources and intimacy.\n\n
+ 🟢 If it feels right\, do:\n• Go back to a shared money talk you left 
+ unfinished\n\n🟡 If you can\, avoid:\n• Starting a brand-new joint fin
+ ancial commitment\n\n🟣 → What shared resource or intimate conversatio
+ n deserves a proper close instead of a quiet drop?\n\n🔵 Aspect: ♀ ret
+ rograde · 27°43' Libra · in house 8\n\n—\nIris Calendar\n🐥 Updated
+  on 08 Oct 2026\nhttps://mi-calendario-astral.netlify.app
+TRANSP:TRANSPARENT
+URL:https://mi-calendario-astral.netlify.app
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🔄 💗 Finish what you left halfway · until Dec 15
+TRIGGER:PT7H
 END:VALARM
 END:VEVENT
 END:VCALENDAR
